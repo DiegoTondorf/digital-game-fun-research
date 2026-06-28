@@ -1,0 +1,13 @@
+{"appid": "415880", "unit_id": "app:415880-cluster:0", "level": "cluster", "Flow": 0.2, "Utility": 0.3, "Nostalgia": 0.0, "None": 0.5, "confidence": 0.7, "model": "phi3"}
+{"appid": "415880", "unit_id": "app:415880-cluster:7", "level": "cluster", "Flow": 0.45, "Utility": 0.4, "Nostalgia": 0.1, "None": 0.05, "confidence": 0.95, "model": "phi3"}
+{"appid": "48110", "unit_id": "app:48110-cluster:9", "level": "cluster", "Flow": 0.39999999999999997, "Utility": 0.4857142857142857, "Nostalgia": 0.1142857142857143, "None": 0.0, "confidence": 0.95, "model": "phi3"}
+{"appid": "312370", "unit_id": "app:312370-cluster:2", "level": "cluster", "Flow": 0.0, "Utility": 0.5, "Nostalgia": 0.0, "None": 0.5, "confidence": 0.6589743123974312, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:2", "level": "cluster", "Flow": 0.6, "Utility": 0.1, "Nostalgia": 0.0, "None": 0.3, "confidence": 0.8592749999999999, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:3", "level": "cluster", "Flow": 0.7, "Utility": 0.2, "Nostalgia": 0.1, "None": 0.0, "confidence": 0.9564837564837565, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:4", "level": "cluster", "Flow": 0.2, "Utility": 0.1, "Nostalgia": 0.7, "None": 0.0, "confidence": 0.8563495755555555, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:6", "level": "cluster", "Flow": 0.12, "Utility": 0.75, "Nostalgia": 0.05, "None": 0.08, "confidence": 0.9634765625, "model": "phi3"}
+{"appid": "312370", "unit_id": "app:312370-cluster:2", "level": "cluster", "Flow": 0.0, "Utility": 0.5, "Nostalgia": 0.0, "None": 0.5, "confidence": 0.6589743123974312, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:2", "level": "cluster", "Flow": 0.6, "Utility": 0.1, "Nostalgia": 0.0, "None": 0.3, "confidence": 0.8592749999999999, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:3", "level": "cluster", "Flow": 0.7, "Utility": 0.2, "Nostalgia": 0.1, "None": 0.0, "confidence": 0.9564837564837565, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:4", "level": "cluster", "Flow": 0.2, "Utility": 0.1, "Nostalgia": 0.7, "None": 0.0, "confidence": 0.8563495755555555, "model": "phi3"}
+{"appid": "435480", "unit_id": "app:435480-cluster:6", "level": "cluster", "Flow": 0.12, "Utility": 0.75, "Nostalgia": 0.05, "None": 0.08, "confidence": 0.9634765625, "model": "phi3"}

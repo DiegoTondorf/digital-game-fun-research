@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,1459.0,150.0,150.0,63.0,87.0,1459.0,3.471863,,,,,,
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,pos,short,207.0,21.0,21.0,5387.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,pos,medium,200.0,21.0,21.0,5030.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,pos,long,205.0,21.0,21.0,5295.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,neg,short,283.0,29.0,29.0,4879.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,neg,medium,283.0,29.0,29.0,4271.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,neg,long,281.0,29.0,29.0,5284.0

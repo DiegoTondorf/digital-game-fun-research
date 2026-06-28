@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+415880,Disc Jam,1,top,819.0,150.0,150.0,114.0,36.0,819.0,5.654244,,,,,,
+415880,Disc Jam,1,top,,,,,,,,pos,short,207.0,38.0,38.0,2870.0
+415880,Disc Jam,1,top,,,,,,,,pos,medium,206.0,38.0,38.0,2913.0
+415880,Disc Jam,1,top,,,,,,,,pos,long,206.0,38.0,38.0,3007.0
+415880,Disc Jam,1,top,,,,,,,,neg,short,68.0,12.0,12.0,2225.0
+415880,Disc Jam,1,top,,,,,,,,neg,medium,65.0,12.0,12.0,2139.0
+415880,Disc Jam,1,top,,,,,,,,neg,long,67.0,12.0,12.0,2680.0

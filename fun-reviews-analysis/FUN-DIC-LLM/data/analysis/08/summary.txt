@@ -1,0 +1,10 @@
+Step 08 summary
+Apps: 10
+Total reviews (fetched): 5042
+Positivity ratio (per-app): min=0.419 med=0.754 max=0.988
+charLen_median (per-app): min=66.0 med=119.2 max=228.0
+Fetched/Total ratio: mean=1.000 min=0.999
+Top pairs by positivity delta (top-bottom):
+  pair=3 delta=0.569
+  pair=2 delta=0.091
+  pair=5 delta=0.042

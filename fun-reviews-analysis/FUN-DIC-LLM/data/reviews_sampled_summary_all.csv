@@ -1,0 +1,71 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+1273440,OverDrift Festival,5,top,637.0,150.0,150.0,119.0,31.0,637.0,5.628377,,,,,,
+1273440,OverDrift Festival,5,top,,,,,,,,pos,short,170.0,40.0,40.0,1179.0
+1273440,OverDrift Festival,5,top,,,,,,,,pos,medium,170.0,40.0,40.0,1178.0
+1273440,OverDrift Festival,5,top,,,,,,,,pos,long,166.0,39.0,39.0,1141.0
+1273440,OverDrift Festival,5,top,,,,,,,,neg,short,44.0,10.0,10.0,1068.0
+1273440,OverDrift Festival,5,top,,,,,,,,neg,medium,43.0,10.0,10.0,1017.0
+1273440,OverDrift Festival,5,top,,,,,,,,neg,long,44.0,11.0,11.0,826.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,55.0,150.0,55.0,48.0,7.0,55.0,3.471894,,,,,,
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,pos,short,16.0,16.0,16.0,1399.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,pos,medium,16.0,16.0,16.0,978.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,pos,long,16.0,16.0,16.0,1229.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,neg,short,2.0,2.0,2.0,577.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,neg,medium,2.0,2.0,2.0,30.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,neg,long,3.0,3.0,3.0,512.0
+1929360,Tumbleweed Destiny,3,top,84.0,150.0,84.0,83.0,1.0,84.0,5.65228,,,,,,
+1929360,Tumbleweed Destiny,3,top,,,,,,,,pos,short,28.0,28.0,28.0,929.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,pos,medium,28.0,28.0,28.0,1168.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,pos,long,27.0,27.0,27.0,641.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,neg,short,1.0,1.0,1.0,0.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,neg,medium,0.0,0.0,0.0,0.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,neg,long,0.0,0.0,0.0,0.0
+250460,Bridge Constructor,2,top,915.0,150.0,150.0,108.0,42.0,916.0,5.653208,,,,,,
+250460,Bridge Constructor,2,top,,,,,,,,pos,short,218.0,36.0,36.0,4311.0
+250460,Bridge Constructor,2,top,,,,,,,,pos,medium,219.0,36.0,36.0,4343.0
+250460,Bridge Constructor,2,top,,,,,,,,pos,long,217.0,36.0,36.0,4098.0
+250460,Bridge Constructor,2,top,,,,,,,,neg,short,87.0,14.0,14.0,4270.0
+250460,Bridge Constructor,2,top,,,,,,,,neg,medium,87.0,14.0,14.0,4255.0
+250460,Bridge Constructor,2,top,,,,,,,,neg,long,87.0,14.0,14.0,4165.0
+312370,"Warhammer 40,000: Armageddon",4,top,714.0,150.0,150.0,123.0,27.0,714.0,5.649946,,,,,,
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,pos,short,198.0,41.0,41.0,3940.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,pos,medium,196.0,41.0,41.0,3827.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,pos,long,196.0,41.0,41.0,3873.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,neg,short,41.0,9.0,9.0,3933.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,neg,medium,41.0,9.0,9.0,3808.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,neg,long,42.0,9.0,9.0,3480.0
+3584190,Three Sisters,1,bottom,112.0,150.0,112.0,83.0,29.0,112.0,3.470521,,,,,,
+3584190,Three Sisters,1,bottom,,,,,,,,pos,short,28.0,28.0,28.0,173.0
+3584190,Three Sisters,1,bottom,,,,,,,,pos,medium,28.0,28.0,28.0,179.0
+3584190,Three Sisters,1,bottom,,,,,,,,pos,long,27.0,27.0,27.0,149.0
+3584190,Three Sisters,1,bottom,,,,,,,,neg,short,10.0,10.0,10.0,89.0
+3584190,Three Sisters,1,bottom,,,,,,,,neg,medium,9.0,9.0,9.0,88.0
+3584190,Three Sisters,1,bottom,,,,,,,,neg,long,10.0,10.0,10.0,126.0
+415880,Disc Jam,1,top,819.0,150.0,150.0,114.0,36.0,819.0,5.654244,,,,,,
+415880,Disc Jam,1,top,,,,,,,,pos,short,207.0,38.0,38.0,2870.0
+415880,Disc Jam,1,top,,,,,,,,pos,medium,206.0,38.0,38.0,2913.0
+415880,Disc Jam,1,top,,,,,,,,pos,long,206.0,38.0,38.0,3007.0
+415880,Disc Jam,1,top,,,,,,,,neg,short,68.0,12.0,12.0,2225.0
+415880,Disc Jam,1,top,,,,,,,,neg,medium,65.0,12.0,12.0,2139.0
+415880,Disc Jam,1,top,,,,,,,,neg,long,67.0,12.0,12.0,2680.0
+435020,AFL Evolution,5,bottom,101.0,150.0,101.0,76.0,25.0,101.0,3.501551,,,,,,
+435020,AFL Evolution,5,bottom,,,,,,,,pos,short,25.0,25.0,25.0,2200.0
+435020,AFL Evolution,5,bottom,,,,,,,,pos,medium,25.0,25.0,25.0,2318.0
+435020,AFL Evolution,5,bottom,,,,,,,,pos,long,26.0,26.0,26.0,1873.0
+435020,AFL Evolution,5,bottom,,,,,,,,neg,short,8.0,8.0,8.0,889.0
+435020,AFL Evolution,5,bottom,,,,,,,,neg,medium,8.0,8.0,8.0,1183.0
+435020,AFL Evolution,5,bottom,,,,,,,,neg,long,9.0,9.0,9.0,1080.0
+435480,Trials of the Blood Dragon,2,bottom,146.0,150.0,146.0,91.0,55.0,146.0,3.470902,,,,,,
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,pos,short,31.0,31.0,31.0,3343.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,pos,medium,29.0,29.0,29.0,3307.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,pos,long,31.0,31.0,31.0,2413.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,neg,short,18.0,18.0,18.0,3281.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,neg,medium,18.0,18.0,18.0,3185.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,neg,long,19.0,19.0,19.0,3324.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,1459.0,150.0,150.0,63.0,87.0,1459.0,3.471863,,,,,,
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,pos,short,207.0,21.0,21.0,5387.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,pos,medium,200.0,21.0,21.0,5030.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,pos,long,205.0,21.0,21.0,5295.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,neg,short,283.0,29.0,29.0,4879.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,neg,medium,283.0,29.0,29.0,4271.0
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,,,,,,,,neg,long,281.0,29.0,29.0,5284.0

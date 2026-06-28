@@ -1,0 +1,17 @@
+{
+  "fast": {
+    "candidate_models": ["phi3", "phi3:latest"],
+    "workers": 2,
+    "max_chars": 800
+  },
+  "medium": {
+    "candidate_models": ["mistral:7b-instruct", "qwen2:7b-instruct", "llama3.1:8b-instruct", "phi3"],
+    "workers": 2,
+    "max_chars": 1600
+  },
+  "complex": {
+    "candidate_models": ["llama3.1:8b-instruct", "qwen2:14b-instruct", "mistral:7b-instruct", "phi3"],
+    "workers": 1,
+    "max_chars": 2400
+  }
+}

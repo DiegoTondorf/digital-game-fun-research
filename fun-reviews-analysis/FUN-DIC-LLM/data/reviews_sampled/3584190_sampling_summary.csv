@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+3584190,Three Sisters,1,bottom,112.0,150.0,112.0,83.0,29.0,112.0,3.470521,,,,,,
+3584190,Three Sisters,1,bottom,,,,,,,,pos,short,28.0,28.0,28.0,173.0
+3584190,Three Sisters,1,bottom,,,,,,,,pos,medium,28.0,28.0,28.0,179.0
+3584190,Three Sisters,1,bottom,,,,,,,,pos,long,27.0,27.0,27.0,149.0
+3584190,Three Sisters,1,bottom,,,,,,,,neg,short,10.0,10.0,10.0,89.0
+3584190,Three Sisters,1,bottom,,,,,,,,neg,medium,9.0,9.0,9.0,88.0
+3584190,Three Sisters,1,bottom,,,,,,,,neg,long,10.0,10.0,10.0,126.0

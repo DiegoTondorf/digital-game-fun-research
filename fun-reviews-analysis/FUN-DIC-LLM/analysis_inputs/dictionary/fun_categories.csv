@@ -1,0 +1,93 @@
+token,category
+absorption,Flow
+attention,Flow
+balance,Flow
+challenge,Flow
+challenging,Flow
+concentration,Flow
+difficulty,Flow
+engrossed,Flow
+fast-paced,Flow
+flow,Flow
+focus,Flow
+immersion,Flow
+immersive,Flow
+intense,Flow
+interaction,Flow
+loss of time,Flow
+presence,Flow
+skill,Flow
+smooth,Flow
+time dilation,Flow
+tunnel vision,Flow
+heart rate,Flow
+pupil dilation,Flow
+reaction time,Flow
+responsive controls,Flow
+smile,Flow
+laughter,Flow
+pacing,Flow
+transportation,Flow
+engrossing,Flow
+
+achievement,Utility
+achievements,Utility
+advancement,Utility
+goals,Utility
+progression,Utility
+rewards,Utility
+mastery,Utility
+perception,Utility
+motivation,Utility
+objective,Utility
+interface,Utility
+accessibility,Utility
+learning curve,Utility
+difficulty curve,Utility
+feedback loop,Utility
+progression system,Utility
+replayability,Utility
+sound design,Utility
+visuals,Utility
+aesthetics,Utility
+narrative,Utility
+clear,Utility
+intuitive,Utility
+polished,Utility
+fair,Utility
+satisfying,Utility
+beautiful,Utility
+depth,Utility
+boring,Utility
+unfair,Utility
+
+nostalgia,Nostalgia
+nostalgic,Nostalgia
+memory,Nostalgia
+memorable,Nostalgia
+childhood,Nostalgia
+past,Nostalgia
+retro,Nostalgia
+classic,Nostalgia
+old-school,Nostalgia
+retro-style,Nostalgia
+throwback,Nostalgia
+familiar,Nostalgia
+reminds,Nostalgia
+classic vibe,Nostalgia
+pixel-art,Nostalgia
+retro graphics,Nostalgia
+8-bit,Nostalgia
+arcade,Nostalgia
+classic soundtrack,Nostalgia
+vintage,Nostalgia
+joy,Nostalgia
+happiness,Nostalgia
+contentment,Nostalgia
+fondness,Nostalgia
+attachment,Nostalgia
+longing,Nostalgia
+delight,Nostalgia
+sentimental,Nostalgia
+regret,Nostalgia
+serenity,Nostalgia

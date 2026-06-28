@@ -1,0 +1,497 @@
+pairIndex,type,appid,name,rankAcceptance,rankFiltered,acceptanceScore,totalEnglishReviews,reviewId,language,review,isPositive,voted_up,timestamp_created,timestamp_updated,authorSteamId,playtime_forever,playtime_last_two_weeks,received_for_free,written_during_early_access,steam_purchase,comment_count,votes_up,votes_funny,weighted_vote_score,charLen,lengthBucket,sampleIndexWithinApp
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,7842025,english,"Small, nice game for the constructing-obsessed, LEGO people, but buy it only in a bundle or in a sale.",1,True,1385812283,1385812283,76561198055778112,135,0,False,False,False,0,44,1,0.5874989032745361,102,medium,1
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,8335658,english,"I Cant Load it!!!!
+",1,True,1388156663,1388156663,76561198107857016,914,0,False,False,True,0,0,0,0.4466295838356018,19,short,2
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,8391021,english,"Strangely addictive, especially if you are an engineering-type.
+
+The puzzle difficulty can be a bit all over the place, but the more difficult bridges are very rewarding when solved :-)",1,True,1388307589,1388307589,76561197970819202,1140,0,False,False,True,0,0,0,0.496141105890274,185,long,3
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,8838323,english,"Its a bridge constructor game. Sure, its probably one of the best if not the best but it really isn't worth the price if you ask me. It has almost no replay value. If you wanna blow your money and like games like these, then go ahead. Otherwise, just forget about this game.",0,False,1390632282,1390632282,76561198076707171,412,0,False,False,True,0,10,0,0.5083691477775573,274,medium,4
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,8953905,english,Great game. Get it if you like building or like making cars fly of a bridge.,1,True,1391369239,1391369239,76561198076492774,901,0,False,False,True,0,0,0,0.5,76,medium,5
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9250834,english,"Physics games are always fun, and this one is no exception. Watching the trucks drive carelessly over your ""I-never-thought-it-would-hold"" creations is engrossing!
+
+I'm not sure it's worth the full price, but at 3€ it's a no brainer!",1,True,1393278068,1393278068,76561197971458955,229,0,False,False,True,0,0,0,0.5,233,long,6
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9275906,english,"Awesome and very addicting. Lots of fun, and can be easy at times, but also very hard. Definitly worth it.",1,True,1393472024,1393472024,76561198086558001,65,0,False,False,True,0,0,0,0.5,106,medium,7
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9309601,english,This game sucks. =\,0,False,1393709427,1393709427,76561198023556813,175,0,False,False,True,2,1,0,0.5,19,short,8
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9501082,english,This game is quite awesome. I cant wait to get another copy on sale.,1,True,1394980717,1394980717,76561198060839240,1879,0,False,False,True,0,0,0,0.5,68,medium,9
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9659506,english,"On the surface, this game appears to be shovelware. Half-finished collision boxes and clipart menu graphics leave a bad first impression, but play into it a bit, and at its core are a collection of solid and well thought-out physics puzzles.
+
+My main problem with the game is that the physics are not consistent, which can be a severe detriment to a puzzle game (See Bad Rats), but here it doesn't seem to be a problem at all unless you're going for the ""Your bridge broke but you still made it"" achievement.
+
+I was surprised by the creativity of the puzzles. The first bridge that gives you a ""Checkpoint"", or a location your vehicles must drive through before reaching the goal, places the checkpoint almost directly below the starting location, forcing you to think up some insane motocross ramp to reach it safely. And it only gets wackier from there.
+
+Overall a thoroughly enjoyable puzzle game, if you like that sort of thing, with only a few problems that almost never seem to get in the way of gameplay.",1,True,1396069667,1396069667,76561198025599858,249,0,False,False,True,0,4,0,0.5751113295555114,1011,long,10
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9697835,english,Possibly the best game of the last decade.,1,True,1396381831,1396381831,76561198063220724,1086,0,False,False,False,0,0,0,0.4308234453201293,42,short,11
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9707307,english,"This one is rather shallow compared to other games with the same premise. Particularly glaring limitations are no free rotation, no turning the stress-test colors off, and worst of all no sharing of custom levels or even saving your solutions externally. Avoid unless you are a very casual player or getting it as part of a bundle (like the current Humble); there are better choices to scratch this itch.",0,False,1396466843,1396466843,76561198006092528,183,0,False,False,False,0,2,0,0.5038167834281921,404,long,12
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9713164,english,"Pretty disappointed with this game. Hate the controls. The 3D camera makes everything worse, would've preferred a decent 2D version.",0,False,1396527682,1396527705,76561198125567819,88,0,False,False,False,0,5,0,0.5025030970573425,132,medium,13
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9719007,english,"Pretty fun game.  If you ever played and enjoyed [url=http://store.steampowered.com/app/22000/]World of Goo[/url], it's very similar style.",1,True,1396574251,1396574251,76561197977187469,3055,0,False,False,False,1,0,0,0.5,139,medium,14
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9741840,english,"Great game, got in a bundle. Didn't expect much, but it is way better than bridge project. Its almost as good as bridge it but lacking just a few features as far as I can tell. But its still great. Good that it has the finer grid mode so that you can make bridges more accurate just like in bridge it. Doesn't have hydraulics or interactive modes like in bridge it, but enough comparison, this game is great by itself. The world map going from bridge to bridge is nice. The physics are good enough for me. Basically Its nice to have a bridge game other than bridge it that does not suck (bridge project). I'm happy I have this game. Its simple but challenging. Its pretty easy to make a bridge that cars can cross, but when you get higher than that is when the challenge comes in. worth it. (at least in the bundle I got it in it was the only worthwhile game.)",1,True,1396771488,1396771488,76561198000026848,57,0,False,False,False,0,0,0,0.5,860,long,15
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9809340,english,"Best game ever!
+should be called truck jump constructor though",1,True,1397413396,1397413396,76561198067379788,705,0,False,False,False,1,0,0,0.5,62,medium,16
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9813388,english,"This game doesn't revolutionize anything, it's the standard bridge builder. But it's a nice game! I've seen some other reviews talking about bugged physics but I just finished every level and nothing weird ever happened.
+
+The definitely-made-for-mobile interface can be a turn off for some people, but it does its job very well, it's not a poor port. The fact that using the right mouse click is very useful goes to prove that, in my opinion.
+
+Some levels have a 'crazy bridge' sign, meaning you'll need to build some outrageous bridge to beat that level. These are very fun, of course, but the construction method start to feel weak in these levels. Feels like you should have more control over the building, like defining exactly what would be solid and what wouldn't etc (these things are automatically defined depending on the angle and adjacent pieces).
+
+While I do recommend this game, judging by the fact that it isn't anything new and it's fairly short, I'd say wait for a sale or something. At full price I'm not so sure if it's worth it.",1,True,1397448944,1397448944,76561198040295426,1019,0,False,False,False,0,2,0,0.5285666584968566,1047,long,17
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9814975,english,"A truck exploded and went into space
+
+10/10",1,True,1397472252,1397472252,76561198001735786,988,0,False,False,False,0,2,0,0.5141874551773071,43,short,18
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9865831,english,"Great insight into the world of engineering. While the physics involved may not be accurate at times, it offers a jocund take on imaginarian bridge construction. The green-red visual allows you to identify any weak points, which is an added plus. Personally, I would use that to try out some crazy ideas - Why not build a flying bridge?",1,True,1397868524,1397868524,76561198131379309,1225,0,False,False,True,0,2,0,0.5514512062072753,336,long,19
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,9930392,english,"A game made in Unity, with an UI for tablets and a 'Share to Facebook!!' button at the end of every stage.
+I think that sums it up quite nicely.",0,False,1398443071,1398443071,76561198000636344,10,0,False,False,False,3,8,1,0.5114499330520629,144,medium,20
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10021682,english,Is an Ok port but am not a fan of getting a mobile port to pc,1,True,1399239498,1399239498,76561198049480991,49,0,False,False,False,0,0,0,0.5,61,medium,21
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10158070,english,"Overall it's a fun game to play, BUT:
+- It seems to be a poorly ported version from mobile.
+- The physics are not as nice as they should be.
+- Has a severe logic flaw: I could complete a level by exploding a tank truck and getting its debris flying to the checkered flag. By the way, the bridge was also completely destroyed.
+
+If you have the game, go ahead and play it, it's fun. I got it from humble bundle and enjoyed playing it
+However, I would not recommend buying if you do not have it.
+",0,False,1400411143,1400411143,76561197996467316,839,0,False,False,False,0,1,0,0.5,493,long,22
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10173287,english,son of the bridge,1,True,1400533507,1400629318,76561198098530658,636,0,False,False,False,0,0,0,0.5,17,short,23
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10213125,english,"I have to start off saying my first impressions of this game were not good. I'd heard it was a mobile port and the screenies made it look simplistic and overly cartoony which is fine but I was hoping for a more in depth bridge building simulator.
+
+I ended up getting it in a bundle and gave it a shot and I love it. It starts off very easy but builds slowly as you master building ever more complex bridges. So rather than go on about it, I'll just say if you are the type of person that likes the idea of building bridges for fun, don't hesitate, you'll have a ball with it.",1,True,1400893865,1400893865,76561198014921811,10096,0,False,False,False,0,0,0,0.5,575,long,24
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10308727,english,"Not that bad of a game, a young kid could figure out how to play this game really simple untill you reach later levels.",1,True,1401608028,1401608028,76561198080768728,110,0,False,False,True,0,0,0,0.5,119,medium,25
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10543278,english,"Enjoyable physics-based puzzle game.
+Fairly easy to build bridges that pass cars and light trucks, although the limits on your budget and material types will require innovative designs.
+The game is considerably more difficult when you unlock the tanker, but adds to the replay value.",1,True,1403223217,1403223217,76561198128613450,1600,0,False,False,False,0,2,0,0.5372411012649536,283,long,26
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10559558,english,"BEST. GAME. EVER.
+I was an engineering student but when I first played this game I quit studying because I felt my life was already complete.
+10/10",1,True,1403260322,1403260322,76561198064099587,143,0,False,False,False,0,0,0,0.5,147,medium,27
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10574424,english,This is a game?,0,False,1403286069,1403286069,76561198045245566,173,0,False,False,False,0,0,0,0.5,15,short,28
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10594188,english,"Just need Xp.... Great game though, them physics",1,True,1403320852,1403320852,76561198106822534,47,0,False,False,True,0,0,0,0.5,48,short,29
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,10640371,english,"A great game to relax and kill some time.  The bridges are occasionally tricky, but very doable. If its on sale, I'd say buy it.",1,True,1403396581,1403396581,76561197966786996,838,0,False,False,False,1,1,0,0.4979423582553863,128,medium,30
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,11074223,english,"Fun, makes you think.",1,True,1404506862,1404506862,76561197985533341,2115,0,False,False,True,0,0,0,0.5,21,short,31
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,11074714,english,"Bridge Constructor surprised me, it sure looks very casual and is as easy to get into as you'd expect. For veterans of the genre who played some of the old hardcore bridge building games though, it not only has a nostalgic effect, but also kinda kicks yer butt in places if you get too cocky. If you have played bridge building games before, you will have an easy and reasonably fun time flying through the first playthrough of the main campaign, which only took me some 2.5 hours. 
+
+The main campaign maps then open up for testing your bridges using the ""tank truck"", which makes things pretty tough and you have to solve levels differently (with some more budget) compared to your first playthrough! In the Expansion/DLC part of the game, you find some rather different and creative levels that at least to some degree challenge your engrained senses for the rules.
+
+So while the levels in the first run through the main campaign become very much ""seen that before"", especially if you're playing them quickly, I am still positively surprised by the game overall. If you like games like this and haven't played any in a longer time, give it a go! If you've played them all, then wait for a sale.
+
+Note: The game's difficulty often doesn't leave much room for errors or poor decision-making. Despite it's cutesy appearance, the game would potentially be frustrating for younger kids without guidance.",1,True,1404509101,1404509101,76561198044527362,493,0,False,False,False,0,8,1,0.6178632974624633,1400,long,32
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,11080835,english,"-Can't change sound levels
+-Feels like an iOS game
+-""Physics"" is inconsistant and the same built bridge in a different order may fail while another passes
+-Facebook integration in order to get certain achievements",0,False,1404547275,1404547275,76561197962268339,8,0,False,False,False,0,0,0,0.5,213,medium,33
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,11096463,english,A fun little game to pass the time! nuthing more nothing less.,1,True,1404626255,1404626255,76561198041843680,71,0,False,False,True,0,0,0,0.5,62,medium,34
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,11395027,english,"I've played a few bridge construction versions over the years. Compared to the previous one I played, this one added some features and took some others away. New to me were concrete, slope mania, and tanker trucks. Gone were two-way traffic, moving bridges, and the ability to adjust the 3rd dimension (bridge width). Overall this version results in a polishes experience that gets it just right. Sometimes it's hard to build a nice bridge, sometimes you can get away with crazy cheap designs. I enjoy it quite a bit.
+
+Slope Mania was fun as well, containing a mix of both hard and trivial challenges. It allows for some bridges that totally collapse while the tanker truck races downward and still makes it across.",1,True,1406235536,1407066402,76561198025096572,874,0,False,False,False,0,0,0,0.5,715,long,35
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,11478834,english,"The bridge constructor of this island actually said
+""Yeah this bridge is approved""
+after 2 trucks crossed it while it was collapsing.
+
+10/10 Like Skyrim with Bridges - IGN",1,True,1406734247,1406734247,76561198069665174,185,0,False,False,False,0,11,10,0.5875916481018066,171,medium,36
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,12015425,english,"Bridge Constructor is a nice and simple way to waste some time. The story in the game is very straightforward. There has been a devastating earthquake that has destroyed the bridges on the islands of Camatuga and the player is in charge of their rebuilding. The problem for the player is that the available budget for the bridge constructions is very tight, so it is not possible to make too advanced solutions or to use the more expensive materials as much as would be ideal. After building the bridges, they have to be tested by letting some cars and/or trucks cross and if the bridge collapses a rethink of the design is needed. When all bridges on Camatuga are functioning for trucks, the game opens up for tests using heavy tanker trucks on the newly constructed bridges, with an often sad and explosive result prompting a redesign of the bridges.
+
+Sometimes the statics of the bridge constructions seem a bit off with collapsing at unexpected places, but usually some engineering common sense and experimenting will solve the problems. It would have been nice to be able to play some of the levels with unlimited budget in order to test some truly exotic bridge designs, but the game is good enough as it is.
+
+This is not a game to spend full evenings with because of its repetitive nature, but it is a relaxing game to play for a couple of minutes now and then. Quite a bit like sudoku.",1,True,1410109712,1410109712,76561198080640831,200,0,False,False,False,0,0,0,0.5,1393,long,37
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,12292975,english,Jesus christ give the game fucking volume controls.,0,False,1412020429,1412020429,76561198005582001,12,0,False,False,False,0,0,0,0.4347825944423675,51,short,38
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,12365101,english,"Bridge Construction Set (2002) by Chronic Logic is far more better in every aspect. They have trains, ships, and monster truck! You can even sit in the car and view how you cross (and might break) the bridge. You may also test for earthquake and control the light. It's the best construct game I've ever played.
+
+This game is bad, compare to that game.
+
+Not to compare with that game, however, this game is still bad. Most levels leave player no choice but to construct the bridge exactly same to the solution you found on web. There are too small test case, no run around for example. Speaking about arts, most of the time you'll force to build asymmetry bridge even thoug the envorionment is symmetry! And the most annoying is that the physics in this game is wrong, which degrade this aim-to-be-physics-savvy game to an electronic junk.",0,False,1412448211,1412449240,76561198048913108,831,0,False,False,False,0,8,0,0.5085259079933167,839,long,39
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,12704358,english," 
+Lots of fun!  
+ 
+ 
+Bridge Constructor doesn't try to be something that it is not. you build bridges and have trucks go over them and see if they hold up. It doesn't get anymore simple than that.  
+ 
+ 7/10",1,True,1414733517,1414733517,76561198007455870,212,0,False,False,True,0,3,0,0.5180055499076843,206,long,40
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,12843667,english,One of the many games about building bridges. According to me game is quite difficult in highest mode. The graphics are ok. Gameplay also. Recommend for a small price.,1,True,1415452615,1415452615,76561198103648546,641,0,False,False,False,0,13,0,0.5365188717842102,167,medium,41
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,13054646,english,It's better than Advanced Warfare,1,True,1416749402,1416749402,76561198054533228,475,0,False,False,True,0,17,18,0.6714665293693542,33,short,42
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,13134131,english,"This is a fun time killer but this is an app game sooooo get it on sale, like 0.99 <(good price for a fun time killer)",1,True,1417232789,1417232789,76561197997597194,525,0,False,False,False,0,0,0,0.5,118,medium,43
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,13437506,english,"A fun game to kill time with.  It also provides lots of laughs with friends and family when played late at night: 
+
+""That's not going to work."" 
+
+""IT'LL WORK! HOLD, BRIDGE! HOLD!"" 
+
+*explosive failure* 
+
+""Told you...""",1,True,1418942021,1418942021,76561198043892531,189,0,False,False,True,0,1,4,0.5180055499076843,217,long,44
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,13631520,english,"This is a fun game to kill time, very adicting
+
+After a few months, its a whole new game again",1,True,1419667729,1479944805,76561197970719798,4442,0,False,False,True,0,0,0,0.5,94,medium,45
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,13672143,english,"Great fun, Recommended.",1,True,1419798024,1419798024,76561197990865068,881,0,False,False,True,0,5,0,0.5287818312644958,23,short,46
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,13813296,english,"Bridge Constructor is a fun simulation game for all ages. 
+It includes fun, challenging levels that are full of colour and life. This game really gets your brain working as use your imagination to create some of the most bizarre and unsafe bridges in the world! Watch as you fight against the laws of physics and the weight of vehicles to try to create your 'dream' bridge. Your ideas can be as imaginative or simple as you want but, will always get you thinking in different ways to suit each level.
+As you progress through the game, you are given stronger materials and a higher budget to make your bridges more unique.
+This game will keep you entertained for hours on end and is always fun to come back to after finishing it! Defiantly a must buy if you enjoy building and simulation games. 
+",1,True,1420311459,1420311459,76561198095997772,492,0,False,False,True,0,5,1,0.5319510102272033,795,long,47
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,14408740,english,10/10 will fail again,1,True,1423519594,1423519594,76561198011317508,94,0,False,False,False,0,0,0,0.5,21,short,48
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,14484732,english,"It's pretty underrated due to the fact that android has so many of this kind of game , and it's free.
+The physics on this game is however, more hillarious and unintentionaly funny, so yeah.
+(6.6/10) play if you want.",1,True,1424019015,1424019015,76561198128246602,533,0,False,False,True,0,0,0,0.5,216,long,49
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,14695219,english,"Writing what I think of developers who include a ""Post stuff to Facebook"" achievement would probably violate these Rules and Guidelines I never read...",0,False,1425145585,1425145585,76561198120170238,411,0,False,False,False,0,0,1,0.4427306354045867,151,medium,50
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,14760122,english,A nice simple game that is quite fun to obsess over.,1,True,1425656983,1425656983,76561198086947213,360,0,False,False,True,0,0,0,0.5,52,medium,51
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,14896939,english,"If your an engineer and think this game will be fun, its not... some of the decisions you have to make in it clearly would never be made by engineers and make no sence...  Clearly designed by a bunch of computer geeks who thought they'd try their hands at physics. How do I know? I actually paid money for a box of corn flakes which happened to contain a piece of paper allowing me to be employed as someone who has an appreciation for steel structures.",0,False,1426401082,1426401082,76561197995167011,153,0,False,False,True,0,0,0,0.5,453,long,52
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,15881214,english,Too simple due to it being a mobile game. UI is gigantic as well.,0,False,1431919416,1431919416,76561197972512754,32,0,False,False,False,0,0,0,0.5,65,short,53
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,15996540,english,"Warning to potential buyers: This game has some bridges that won't be solveable with the only structures the game shows you, you'll have to make some weird sh** up and I know this because I had to look up the answer after failing some of the bridges over and over. The game does little to show you which structures you should be thinking about (other than triangles), and often you might not really see if something is working that 10% better than your other builds, and that's often a crucial difference. It also doesn't really explain what materials might fare better beyond the absolute basics of (steel is stronger than wood), and it would've been awesome if they did more to show how the rope can help to support tight budget bridges by connecting along the underside of your bridge from end to end. I only know it distributes weight better this way because some walkthroughs used it. Other materials can be a bit fiddly with load distribution depending on how you've arranged them.
+I have played through a bunch of this game and BC: Medieval and while I like both just for the physics puzzle challenge, I find the Medieval one's solutions end up making more sense than this one. It still barely guides you but at least those structures kind of make sense.
+In this version you can build diagonal roads (which might be the only way to solve some of these bridges, it's certainly the only way I could find for some) and they end up letting you hold them up with ropes from nonsense structures on the sides because the stone pillars are too expensive or not available.
+I still recommend it because I've enjoyed it either way, the physics are simple but pretty consistent, and it's a good little brain work out, but if you want a well-paced puzzle game with some actual help on what to do, this game fails a little on that front. I personally looked up a few answers and still enjoyed trying to figure the level out before I gave up.",1,True,1432552043,1432552043,76561197988011502,751,0,False,False,False,0,0,0,0.5,1934,long,54
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,16645374,english,good fun,1,True,1435059300,1435059300,76561198044864042,38,0,False,False,True,0,0,0,0.5,8,short,55
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,16840872,english,"Really fun but for me medival was better, this game is much bigger than medival but it doesn't have as much character.",1,True,1435829474,1435829474,76561198234326968,1215,0,False,False,True,0,0,0,0.5,118,medium,56
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,17591763,english,"[h1]Simple But Solid[/h1]
+The game runs very well and the consistency of the materials is great. This allows players to easily figure out what is going wrong with their design through trial and error without any element of randomness. However, the game limits creativity as the design from the tutorial, that is the triangles, sets the foundation for all of the bridges for the rest of the game. However that being said this makes it realistic and an easy going game to play. It is worth playing if you just want to relax with a little bit of a challenge.",1,True,1439859972,1439859972,76561198162351264,100,0,False,False,False,0,5,1,0.5231316685676574,555,long,57
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,17987021,english,Boring,0,False,1441999217,1441999217,76561198011827209,15,0,False,False,False,0,1,0,0.4814814925193786,6,short,58
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,18016928,english,"An okay bridge building game with various resources to build with. The biggest downside is that to make the game more challenging, they mostly limit you to JUST using wood, which is annoying. Definitely an iOS port but it still works as intended. Could've been a much better game.",0,False,1442156911,1442156911,76561197972833636,291,0,False,False,False,0,0,0,0.5,280,long,59
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,18587512,english,Need to waste time? Not enough time to fap? Simply play Bridge Constructor! The auto-fap 3000! // 10/10 - IGN 'When faps are hard to fit into your schedule'.,1,True,1445365296,1445365296,76561198102230033,64,0,False,False,False,0,0,0,0.5,157,medium,60
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,19257872,english,"The playtime value of this game is very high.
+Even the gameplay feels really well executed.
+And the visuals ain't bad either, it's just nice.
+There's been some cool free updates added.
+For example: A really great halloween island.
+And it just truly increases the playtime a lot.
+Overall: I honestly enjoyed this great game.
+It is a very relaxing experience to play with.
+And I just don't have any negatives to say.
+This entire game has been positive to me.
+I just really have to give a positive review.",1,True,1448407330,1606117770,76561198043135631,631,0,False,False,False,0,0,0,0.5,502,long,61
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,19786664,english,"This game is NOT the game that I remember playing a long time ago. This is a toy version. The physics are terrible, the bridges are not realistic. There are no special effects owhen bridges collapse, just sorry graphics and lame physics.",0,False,1450548079,1450548079,76561198035225114,24,0,False,False,True,0,0,0,0.5,237,medium,62
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,20468768,english,10/10 would impulse buy again.,1,True,1452521169,1452521169,76561198060447664,24,0,False,False,False,0,2,0,0.5454545617103576,30,short,63
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,20675818,english,"I don't agree with the price, although I practically got it for free thanks to humble bundle, It's a good hour or two of entertainment if you can get it for like $3",1,True,1453456871,1453456871,76561197993655316,98,0,False,False,False,0,0,0,0.5,164,medium,64
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,20868970,english,"Edit2: Some months later, they fixed the achievements. Thumb is up again.
+Edit: They added broken achievements to Steam (but not to the game code, that's why they are unachievable), so until this is fixed, here's a THUMB DOWN.
+
+Bridge Constructor is casual gaming at its best, I enjoyed it alot. You can play it in small doses, but the fun is there if you play it for hours, too. It's not a hectic game, you construct your bridge and press a button to see how it does when cars/trucks/tank trucks drive over it. Watching the physics simulation can be fun in itself, especially when the chaos of the collapse brings unexpected results. If the vehicles reach the goal even though your bridge is collapsing behind them, that earns you an achievement aptly named ""throwaway bridge"" and I got a broad smile when that happened the first time.
+
+If you want to go for high scores (build using less materials, in perfection often resulting in a ""throwaway bridge"" situation) or compare your score on leaderboards, this game has that, too. It encourages experimentation with the construction options you have. And getting the achievements is also fun and 100%ing is possible with some effort but without pain.
+
+The ""sandboxy"" character of the game shines when you unexpectedly finish a level because some weird accident happens and the truck gets thrown to the goal while your bridge collapses, or the explosion with the fuel tank truck happens in just the right way to propel its two parts across.
+
+For the later levels that are tricky and require some experimentation, I found it enjoyable to watch other people's solutions on youtube, often even after I solved that level myself.",1,True,1454236619,1531463051,76561198072055752,2679,0,False,False,False,1,0,0,0.5247148275375366,1672,long,65
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,21144697,english,"02/12/2016
+The science involved in bridge construction seems exciting in a conversation, but on paper it's a nightmare, which is something I'm certain engineering students swiftly realize three months into their second year of a university stint that their parents had funded through eight grueling years of overtime at Walmart so that their only child, thanks to the barren wasteland that is the mother's fertility, could have a better chance at life than they ever did.
+
+You can thank me later.",0,False,1455257230,1455257230,76561198237514536,52,0,False,False,False,0,1,0,0.4822134375572204,496,long,66
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,21491547,english,"Fun and cheap, what's not to like.",1,True,1456552824,1456552824,76561198037835510,2376,0,False,False,True,0,0,0,0.5,34,short,67
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,21843204,english,"Could use more music and different backgrounds, but it's still a nice game to burn some time.",1,True,1457996178,1457996178,76561198223164124,763,0,False,False,False,0,0,0,0.5,93,medium,68
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,21849536,english,"Get some friends over, get drunk, start trash talking each other's bridges.
+
+A delightful game that is very easy to boot up for 20 minutes, but can easily soak a few hours on occaision.",1,True,1458035781,1458035781,76561197996274470,1218,0,False,False,True,0,0,0,0.478723406791687,185,long,69
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,22748815,english,10/10,1,True,1462129367,1462129367,76561197994629499,1444,0,False,False,True,0,0,1,0.4040403962135314,5,short,70
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,23173846,english,"I really, really despise in-game sales. Recent updates added these horrible malfeatures. I uninstalled. Plenty of other games to play.",0,False,1464047901,1464047901,76561198078089384,495,0,False,False,False,0,16,2,0.6650840044021606,134,medium,71
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,23465914,english,"This game made me hate bridges and those that construct them.
+3/10",0,False,1465468373,1465468373,76561198035212680,145,0,False,False,False,0,0,0,0.5,66,short,72
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,24502557,english,"Never trust a bridge you find in Camatuga.  Go well out of your way to find a ferry, or go all the way around the river to get to the other side, but don't go across a bridge!
+
+Bridge Constructor is a game where you build bridges in the fictional lands of Camatuga.  Your budget, and sometimes your available supplies (wood, steel, concrete, and rope) are limited, which means that sometimes you have to get creative.  But beyond that, it's all about figuring out how you can build a bridge, on budget, that will carry across cars, then medium trucks, then tanker-trailers.
+
+While it may sound like a fairly straightforward physics building game, the wacky bridges you'll often wind up with and the explosions of wood and steel when things don't quite work out, make it hilarious.  The game is both a lot of fun by yourself, but also a lot of fun with friends, especially towards the more difficult later levels, where you can pass around the mouse and try your own approaches to building spans on low budgets.  Inevitably it will take a lot of tries to get it right, and laughter will ensue as unlikely bridges collapse - or occasionally prove just good enough to support the load, despite their ""I'd never drive across that in real life"" appearance.
+
+Among the Bridge Constructor series, I'd put this one and Medieval at pretty much equal for gameplay, as Medieval introduces some interesting new elements, but the three vehicles types per bridge extends the challenge, in a good way, of each bridge here (while not preventing you from moving to the next one as long as you have cars getting across).  However, this iteration gave me much more playtime before I'd completed most of the game, and they're the same price, so my recommendation would be to get Bridge Constructor, have a blast, and if you're still wanting more, picking up Medieval after that.",1,True,1469379084,1469379084,76561197997828999,1103,0,False,False,False,0,0,0,0.5,1858,long,73
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,25349935,english,"Simple bridge constructing game with mobile game UI and bad physics. Offers entertainment for approx. two hours, and with its price at (9€) I can't really recommend it. If you insist on buying a bridge construction game, I would recommend buying Poly Bridge instead. (12€ atm)",0,False,1473009276,1473009276,76561198032019241,115,0,False,False,False,0,0,0,0.5,276,long,74
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,26173029,english,Hours spent on fun,1,True,1477180525,1477180525,76561197974424368,1085,0,False,False,True,0,0,0,0.5,18,short,75
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,26278609,english,"So much fun!
+
+[h1]The good[/h1]
++ Fun basic gameplay (the tension! the explosions!)
++ Decent production quality
++ LOTS of maps
+
+[h1]The bad[/h1]
+- Difficult to complete without guides (even with guides there seem to be one level that just doesn't work for me)
+- Occasional weird physics behaviour - trucks falling through bridge elements and staying suspended by their wheels and such
+
+[h1]Verdict[/h1]
+If the basic theme sounds fun to you, give it a try :) There's no better feeling than after barely getting through, the game giving you a golden badge while your grand creation completely collapses in the background :3",1,True,1477698476,1477698654,76561198041856540,958,0,False,False,False,0,2,0,0.557216465473175,621,long,76
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,29076648,english,this game was fun for the first little bit but after a while it got very old and repettitive like when i was playing and the bridge broke or worked i didnt care and i usually like games when i build things but this one didnt make me exited.,0,False,1483757740,1483757740,76561198202200548,60,0,False,False,True,0,0,0,0.5,240,medium,77
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,29448959,english,"Simple physics gameplay, polished and most importantly fun.",1,True,1485201524,1485201524,76561198001137944,534,0,False,False,True,0,0,0,0.5,59,medium,78
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,30000993,english,"I found this game sitting in my Humble Bundle library and I have no idea when I got it. It might have been a gift. I decided to give it a try and it is ... okay. I guess. There is two serious problems, however. 
+
+Firstly, the physics is wonky. I created a bridge which held up for the most part, but failed close to the end. I went to reinforce the part that failed, but I needed to know exactly what part failed first. When I reran the trucks across the bridge a second time, it worked perfectly. I then noticed this happening a lot. You could rerun a bridge if it barely failed over and over again and sometimes you would get lucky. 
+
+Secondly, there are better bridge builder games out there. Poly Bridge, for example. That game has a better physics and more variation in the puzzles. 
+
+I would only pick it up if you can get it on sale. Even then, I would recommend looking at the competition first.",1,True,1487397642,1487397642,76561198041636869,1565,0,False,False,False,0,2,0,0.503722071647644,903,long,79
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,33028150,english,Lots of fun if you enjoy building things.,1,True,1498810249,1498810249,76561198117312953,970,0,False,False,True,0,0,0,0.5,41,short,80
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,33428751,english,"Oh man this is just bad , ABANDON ALL LAW OF PHYSICS YE WHO ENTER HERE .",0,False,1499686933,1499686933,76561198158388008,93,0,False,False,False,0,0,0,0.5,72,short,81
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,33871876,english,"I am the Michael Bay of civil engineering, my bridges most of the time collapse in a spectacular fashion sending cars and trucks to their doom in the precipice below. Cables snap, supports break and tank trucks explode mid air. My creations are a sight to behold and will probably give any real civil engineer recurring nightmares but I do love them like a proud father holding up a deformed baby, ""he is a special one"" I say as the midwife gives me a mournful look. My favorite bridge was actually a success, at least according to the game, as I sent trucks down that bridge, the first support glowed an ominous red, when they cleared the midpoint of the bridge that support collapsed starting a slow downward movement of the left side of the bridge, that was okay though because just as the whole thing collapsed by first truck cleared the bridge and the second one was tumbling onto the road on the right side of the bridge. A spectacular success!!!
+
+On a serious note, it's not a bad game but the physics don't feel right and the resulting bridges that succeed according to the game look like abominations you will never see in real life more often than not. Get it on a sale but don't expect realistic physics.",1,True,1501300383,1501300383,76561198006217347,1080,0,False,False,True,0,30,14,0.7256364226341246,1215,long,82
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,34298611,english,"i make-ada great bridge for da peeps to cross, but da great bridge break-o",1,True,1502938171,1502938171,76561198055621814,569,0,False,False,True,0,0,0,0.4975124299526214,74,medium,83
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,38270913,english,"A Very Fun and challenging puzzle game. 
+The Island nation was struck by an earthquake and destroyed every bridge on ever island... 
+And as the name suggests it’s your job to re construct the fallen bridges… 
+There are 64 levels in this game, all that get increasingly harder… 
+Thankfully the game does a great job at teaching you the rules and physics by gradually introducing new challenges and materials… 
+Every bridge has a budget, so you have to choose your materials carefully, and in some cases you only get to use a handful of these materials increasing the challenge… 
+And as you construct you can test the stability of your bridge at any moment by watching a car or truck drive across it..",1,True,1513133120,1513133120,76561198187011250,2186,0,False,False,False,0,2,0,0.5129910707473754,699,long,84
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,38356502,english,"Epic bridges, decent challenges, fun times!",1,True,1513447614,1513447614,76561198064647770,1952,0,False,False,False,0,0,0,0.4590578079223632,43,short,85
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,38749013,english,"The controls in this are unacceptable. Fortunately, they're improved in the Portal game for this franchise but I wonder why on earth they think it was a good idea to give away this one as a bonus, as it's an unplayable mess in comparison and makes me want to not check out any other Bridge Constructor game.",0,False,1514400543,1514400543,76561198018590778,85,0,True,False,True,0,2,0,0.484106034040451,307,long,86
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,39019697,english,dead,0,False,1515002922,1515002922,76561198454078176,22,0,False,False,True,0,0,0,0.3016866445541381,4,short,87
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,39075385,english,"This game was okay, there are many bridge constructor games now.. I can't say I really enjoyed it after so long it just became horribly tedious.. it was okay for the first few levels though.. Don't get this one, find one of the others that adds more flavor to the game.",0,False,1515135977,1515135977,76561197974698125,67,0,False,False,True,0,1,0,0.4923325181007385,269,medium,88
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,39289734,english,Not a bad game to be fair but not as fun as Polybridge. Still recommend for a casual game experience.,1,True,1515787898,1515787898,76561198224807172,36,0,False,False,False,0,2,0,0.4910769164562225,101,medium,89
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,40402674,english,Nice game,1,True,1519602096,1519602096,76561198057221241,9,0,False,False,True,0,0,0,0.5,9,short,90
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,40535781,english,same as the mobile games except mobile games are more well-polished. 2/10,0,False,1520086262,1520086262,76561198043856537,13,0,False,False,False,0,1,0,0.4855966866016387,73,short,91
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,40655964,english,"I really don't want to give this a solid ""recommended"" rating, but there's no middleground with these reviews. It's not so bad that it's outright unplayable and there's certainly a degree of fun to it, but it's hardly the quirky bridge puzzler I was hoping for.
+
+As so many others have stated, the biggest issue going for the game is that the physics are inconsistant. The same bridge will not fail the same way twice a lot of the time, sometimes even netting you a win for the level. It's one thing to say your puzzle game has multiple solutions, and another to say it's down to luck. This is compounded by the fact that quite often the successful bridges don't look like they SHOULD work, this is especially true in later levels.
+
+I'd say the first half of the game is fairly fun and thought-provoking, while the later half, especially once you add in the Tank Trucks, is more an exercise in frustration. You might try a bridge that should work but cannot find out why it doesn't, look up a guide and discover you were basically doing it right except one piece of wood was in the wrong spot. That doesn't feel rewarding at all.
+
+Speaking of unrewarding, some of the bridges are almost exactly the same as earlier ones, except suddenly you only have wood, or have less money. So the bridge that barely held together before is suddenly even less practical and the solutions you find in guides are so far removed from common sense that it's a wonder someone found them. When they work, of course, since the guide solutions in my experience only work about 70% of the time. Again, it boils down to the inconsistancy of the game's physics.
+
+That makes the experience unique, I suppose.
+
+I did notice that certain ideas or solutions seem to repeat themselves a lot. Such as placing a short vertical piece of wood/steel under the connect points and then stringing along wire parallel to the bridge. It's amazing how often that works cause in reality it sure as hell wouldn't. I think that's part of why the puzzles don't feel like proper puzzles, cause the solutions don't really come from a logical point of view, but throwing crap together and seeing what holds on long enough for the vehicle to make it across.
+
+I realize this all sounds fairly negative, despite the fact I'm giving it a Thumbs Up. Essentially I'm saying the game is not that great but if you got it on sale it might be a fun way to kill some time. And maybe a few brain cells after beating your head against the wall at some point.",1,True,1520520250,1520520350,76561198008096580,421,0,False,False,False,0,0,0,0.4541274011135101,2497,long,92
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,41527356,english,"This is not a bad game; it's actually quite decent and makes you think about the best way to solve spanning chasms: however, the sequel - Bridge Constructor Portal - is far more fun, far more quickly.
+
+I've done the first two and a half islands and it is still getting from one spot across a straight horizontal chasm.  Admittedly, there's different distances, and different anchor points, but there's not the variety that BC: Portal has early in the game. Also, the physics are questionable in places.  I'm not an expert, but I have made bridges that are very very wobbly and look to defy gravity.
+
+Given that BC: Portal is only a few pennies more expensive, I'd recommend getting that.  This, in the current year, is only really worth picking up if you have already played through BC: Portal and have a real distinct itch to do more.",0,False,1523904561,1523904561,76561197976376945,178,0,False,False,False,0,1,0,0.5238095521926879,835,long,93
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,41960503,english,"The bridge lasted one round. But hey, in the game's book this is a success!",1,True,1525950528,1525950528,76561198036196702,2040,0,False,False,False,0,6,0,0.5865416526794432,75,medium,94
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,42200991,english,Bridge go boom lol. 11/10 for realistic physics.,1,True,1527113212,1527113212,76561198447308851,423,0,False,False,True,0,0,0,0.5,48,short,95
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,43974771,english,"Fun puzzles, questionable physics.",1,True,1533606092,1533606092,76561197966772440,2857,0,False,False,True,0,0,0,0.5,34,short,96
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,45281382,english,I didn't care for it at all and I usually love puzzle games. Just seemed very boring to me. I definitely didn't get a Portal feel from it at all.,0,False,1539611110,1539611110,76561198080470252,28,0,False,False,True,0,3,0,0.4831081330776214,145,medium,97
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,45300536,english,"Avoid if you're looking for a casual game. The ""normal difficulty"" is actually quite hard, like one of those games played by people who get off on spending all day playing soduku.
+
+I've got other stuff to do, and i'm just looking for a casual game to relax on. Therefore this isn't for me.",0,False,1539721460,1539721460,76561197993657766,154,0,False,False,True,0,1,2,0.4304080307483673,289,long,98
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,45601365,english,"This is an oddly satisfying game that I got for my kids, but I find my self playing on occasion. The game physics is simple enough that young kids can figure it out and yet teaches some fundamentals of structures.  I love the feature that shows you where things are stressed the most. I would definitly recommend. Great if you just have a little time to kill, but don't want to commit to a longer more complicated game. 
+
+I got this game long enough back that I cannot remember if I paid for it or it was free.",1,True,1541249955,1541249955,76561198088429378,1370,0,False,False,True,0,0,0,0.5,510,long,99
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,51704104,english,good,1,True,1561790144,1561790144,76561197976538738,438,0,False,False,True,0,0,0,0.5,4,short,100
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,52604027,english,Cute little time waster.  One of these solve it with what pieces are given.  fun to play but not take too seriously,1,True,1561928075,1561928075,76561198009391214,30,0,False,False,False,0,0,0,0.5,115,medium,101
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,52660631,english,"A fun game to play for a few hours; bridges are a little less varied and less advanced than Poly Bridge, but this also makes the game easier. Consider buying the game during a sale. :)",1,True,1561937721,1561937721,76561198216030224,642,0,False,False,True,0,0,0,0.5,184,long,102
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,53543145,english,nice game,1,True,1562259427,1562259427,76561198040669739,1167,0,False,False,False,0,0,0,0.5,9,short,103
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,55140805,english,"trash game, its only in my steam library coz i wanted bridge constructor portal and bought the bundle, plz how can i remove this game from my steam lib",0,False,1568644236,1568644236,76561198089553947,6,0,False,False,True,0,0,0,0.3263084888458251,151,medium,104
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,59815563,english,wow!,1,True,1576309669,1576309669,76561197961085718,2511,0,False,False,False,0,0,0,0.5,4,short,105
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,61194268,english,"I've no memory of buying or playing this game, but apparently I've got at least 27 hours on it so I guess it must be good.",1,True,1578033899,1578033899,76561198041699900,1618,0,False,False,False,0,0,1,0.5,122,medium,106
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,64567893,english,fun and addictive,1,True,1583444890,1583444890,76561198015792841,6423,0,False,False,True,0,0,0,0.5,17,short,107
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,67248959,english,"Basic bridge building.
+Simple and unadorned. Very much like any other tablet game, this one ports well and is quite enjoyable.
+I'm on the 'hard mode' now and pretty darned stuck. Any game that can get me stuck on the first few levels just by adding a new vehicle? Worth a play.",1,True,1586805450,1586805450,76561198093603927,405,0,False,False,False,0,0,0,0.5,277,long,108
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,73230047,english,:(,0,False,1595627884,1595627884,76561198011141794,1003,0,False,False,False,0,0,0,0.4164074063301086,2,short,109
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,74839873,english,"This is a mobile ported bridge constructor game/physics puzzle game where you must use a variety of materials and engineering structures to create sturdy bridges over chasms. 
+
+In a surprise to nobody, we once more see greedy mobile devs trying to screw over PC gamers.  On Steam, this is $10 USD, on app stores, it's $2 USD.   Mobile devs must learn PC gamers are not here to be gouged, and can't be expected to pay a premium for a mobile game just because it's been lazily dumped on Steam.",0,False,1598281199,1600099401,76561198030784015,251,0,False,False,False,0,9,2,0.4146627783775329,491,long,110
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,75662043,english,excellent physics,1,True,1599591632,1599591632,76561198093267594,232,0,False,False,True,0,0,0,0.5,17,short,111
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,76354964,english,I don`t know if I had quite as much fun as I would have liked,1,True,1600731149,1600731149,76561198087247688,179,0,False,False,True,0,0,1,0.5,61,medium,112
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,79531824,english,"A game like this lives or dies on its physics engine, and fortunately this feels realistic enough. On each stage you must construct a bridge using limited materials; once you have finished and the trucks start to cross it you can see where the supports are coming under strain, and there's a nice bit of tension as you will them to not snap. It's never going to set the world alight, but it's a good package and well worth spending a few hours playing with.",1,True,1605832462,1605832462,76561197994704708,237,0,False,False,True,0,0,0,0.5,457,long,113
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,83789903,english,i am enginear,1,True,1609567465,1609567465,76561198127470822,416,0,False,False,True,0,0,3,0.5,13,short,114
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,84175719,english,makes you think and gives you information that you may be using in real life.,1,True,1609965690,1609965690,76561198020993410,920,0,False,False,True,0,0,0,0.4831629991531372,77,medium,115
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,88906839,english,gud,1,True,1616444376,1616444376,76561198185798166,191,0,False,False,True,0,0,0,0.5,3,short,116
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,92249267,english,This is a real waste of time. Game has no logic and it is annoying. Dont bother,0,False,1621419615,1621419615,76561198028972655,78,0,False,False,True,0,0,0,0.5,79,short,117
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,92294186,english,"Remember that scene from Margin Call in which Stanley Tucci calculates how many hours of human life he saved by building a bridge in Ohio?
+
+My career in Bridge Constructor is basically that, but the complete opposite. I've not only lost 22 hours of my life, I've also blown up about 37,000 cars, trucks, and tanker trunks.
+
+I've made peace with it.
+
+Rating: Fun",1,True,1621496265,1621555703,76561198035345202,1319,0,False,False,False,0,1,1,0.5193133354187011,361,long,118
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,92388533,english,"VERY basic.  You get to build bridges out of wood, steel, steel cables, and occasionally a concrete pillar.  Most levels you only get to use 1 or 2 of those materials.  You have very few options for attachment points.",0,False,1621653509,1621653509,76561198041724205,465,0,False,False,False,0,0,0,0.5,217,medium,119
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,94167261,english,"It's a fun game.
+I can only build suspension bridges tho.",1,True,1624371184,1624371184,76561198084330384,669,0,False,False,False,0,0,0,0.5,57,medium,120
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,97209105,english,I don't like it.,1,True,1628478443,1628478443,76561198928225852,203,0,False,False,True,0,0,0,0.4679802954196929,16,short,121
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,107819575,english,"why build real, safe bridges when you can make some SICK ass ramps instead",1,True,1641939580,1641939580,76561198167805925,368,0,False,False,True,0,0,0,0.5,74,medium,122
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,110745649,english,Lots of good ol' fashioned classic fun!,1,True,1645498894,1645498894,76561198361377551,460,0,False,False,False,0,1,0,0.5147058963775634,39,short,123
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,111798668,english,"[h1]Overview:[/h1]
+'[i]Bridge Constructor[/i]' is one of many construction games where the player must build a bridge sturdy enough to carry a variety of vehicles from one side to the other while keeping within budget and without the bridge breaking. You play as a bridge engineer as you build your way through 5 islands all of which are in desperate need of bridges because for some reason roads are paved but blueprints for bridges are left unaddressed. You go from building simple and straightforward bridges to gigantic monstrosities that more or less resemble roller coasters than an actual bridge. Although the idea sounds fun enough, it soon becomes more stressful and frustrating than fun and amusing and that is due to a multitude of reasons.
+
+[h1]Gameplay:[/h1]
+Honestly these types of games aren't my cup of tea so take this review with a grain of salt. It might not be as bad as I portray it to be as I myself am not a physics major but I think many agree that the physics in the game alone are inconsistent and not very good. Although it didn't take me extremely long to understand how the mechanics worked, it still didn't change the fact that the things you have to build in this game are absurdly ridiculous. The window of constructing bridges in later levels become so small and tight that it feels like there are only one or two possible solutions and that has a lot to do with the budget feature in the game. It's like every island you're contracted to had budget cuts so severe that I could've sworn I heard the board talking about implementing loot boxes to their marketing campaign to increase revenue.
+
+I can understand giving players a challenge by limiting the resources they have to build a bridge, but the bar they set for money conservation is so high that you practically need to make the most flimsy and extremely brittle overpasses that coast on the verge of breaking just because the city said ""[i][b]Hey, that's too much money for a bridge that'll keep our citizens safe! Take this instead![/b][/i]"". The foundations and materials also range from wood, metal, stone pillars and wires and depending on what location and level you're playing, you're only given specific ones. So at the end of the day, you're not only limited to a strict budget, but also the resources the game provides you with. You don't get to unlock better materials, different foundations or anything that could give the player creative freedom. It's just what the game says you can use which limits potential solutions even more.
+
+Had there been a casual mode where annoying budgets were nonexistent, I feel like the game might actually be fun. But as is, the limited resources the player's given as a whole makes the entire game a frustrating trek because the city just doesn't give a damn how dangerous a bridge is, as long as the vehicles testing it make it across. They don't care if it's next to impossible to build a bridge with a $20,000 budget, just make it happen! I at one point even had a bridge tested and break just to reset it and have it somehow hold together proving that the physics don't even follow their own rules. It becomes less about ""[i][b]what awesome bridge can I build?[/b][/i]"" and more about ""[i][b]what the fuck actually works?[/b][/i]"". It's just a game that tries to be like more popular bridge constructor games but fails to do so on more than one account.
+
+[h1]Controls:[/h1]
+Besides placing anchors on a grid, there's not much else to talk about in regards to controls as most of it is just observing the finished product.
+
+[h1]Graphics:[/h1]
+Not bad but not great either. Resembles other typical bridge constructor games and looks [i]very[/i] mobile-like. That may or may not be a bad thing depending on preference but personally I'm not a fan of them. Unlike the tanker, cars and trucks behave like toys, there's no damage or anything when they fail a bridge test. As for the trailer, that's probably the most fun because when it falls, it explodes! Nevertheless, the graphics are very underwhelming and just makes you feel like you're playing a mobile game.
+
+[h1]Audio:[/h1]
+Also not great. The sounds and music work fine enough but nothing stands out or sounds particularly great. The sound effects consist of below average vehicle sounds (some to which abruptly cut off) along with the annoying sound of bridges collapsing that you'll very soon come to hate. The music also gets repetitive and annoying fast but thank god there's a way to mute it because I need peace and quiet while I build the world's ugliest, flimsiest and most dangerous bridge with as little money as possible.
+
+[h1]Conclusion/TL;DR:[/h1]
+'[i]Bridge Constructor[/i]' is a physics-based puzzle game with a huge learning curve where you build bridges with specific materials while on a strict budget. The concept has been done more times than needed but the game itself is unfortunately one of the black sheeps of the flock. The budget feature is the main killer for many players (myself included) and cripple almost every potential (and safe) solution most levels could possibly have because the maximum amount of money you're allowed to spend is unrealistically low. This means only very few bridge options work and all fly dangerously close to succumbing which makes some levels almost impossible to beat. It also praises itself for having a cool physics engine but even the engine is inconsistent as some bridges will fail one time but pass the second. Overall, '[i]Bridge Constructor[/i]' tries to be like many of it's brothers and sisters but ended up being the ugly duckling of bridge constructors.",0,False,1646739535,1697924510,76561198022227319,277,0,False,False,False,0,7,3,0.5769200325012207,5619,long,124
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,116360090,english,"Be me
+high af
+build bridge
+be happy",1,True,1654137406,1654137406,76561197994224564,343,0,False,False,True,0,0,0,0.45847749710083,35,short,125
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,117776873,english,Not my type of game but I started it so I wanted to play it through. Even though I thought it would be boring it actually was fun.,1,True,1656403844,1656403844,76561198173300321,2205,0,False,False,False,0,0,0,0.5,130,medium,126
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,120041706,english,"Great game. I hope there will be a new version with more details, helping me not only play but also learn more knowledge about bridge construction. I would like to contribute ideas for the next version as follows:
+
+1. There is an additional section for instructions, detailing the types of materials, for example: what type of wood is being used, size (length, width, height), weight/m3, bearing capacity horizontally/vertically etc. similarly have detailed specifications for iron, steel wire, concrete pillars, it would be great to add bamboo or other types of wood.
+
+2. There is information about the weight of the vehicles.
+
+3. There are tools for players to customize:
+a) Manually adding new materials and specifications (name, weight, cost, bearing capacity, etc.).
+
+b) Customize new vehicles.
+
+c) Create custom maps.
+
+Players created materials, vehicles, and maps can be shared through the workshop, they are only used for them to explore and challenge each other (in sandbox mode) and will not be scored.
+
+4. There are more options for vehicles to cross the bridge when there is an earthquake or high wind (with earthquake levels from 1-7 and wind strength from level 1-12), or multiple vehicles moving on the bridge at the same time. (instead of only 1-2 cars like the current version). At this time, the bridge will shake more violently.
+
+5. Players can optionally display (or pay) to see more detailed information of the bridge such as: weight of the bridge deck after construction is complete, load capacity, vibration resistance , which displays force vectors (as arrows) to see exactly what happens when a vehicle passes.
+
+Overall, I hope the game can be more detailed and realistic, so that it is no longer just a game, but will become a software that construction students can use to learn.
+
+In order for it not to become boring, the game can be divided into many modes, the campaign mode will be the same as it is now, not too difficult to play and should be more interesting in the scenario, the sandbox mode includes the content custom as I stated.",1,True,1659607731,1659607731,76561198355187236,3014,0,False,False,True,0,1,0,0.5,2067,long,127
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,120539506,english,"Can't 100% the achievements unless you buy some DLC, that's just awful...",0,False,1660369730,1660369730,76561198035750073,891,0,False,False,True,0,0,0,0.4761904776096343,73,short,128
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,126744524,english,Fun,1,True,1669345296,1669345296,76561198321700718,399,0,False,False,False,0,0,0,0.5,3,short,129
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,129470463,english,Is it wrong of me to think that i find it funny sending trucks and cars to their doom to the endless depths of the precipice that is bridge constructor. YEAH NAH,1,True,1672184403,1672184403,76561198070769308,38,0,False,False,False,0,0,0,0.5,161,medium,130
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,131526951,english,"Bridge Constructor is fun, and often challenging. Especially early in the game, if you don't remember anything from having built matchstick bridges and buildings in school 20 years ago. Sorry, was that suspiciously specific?
+
+Once you figure out the physics and how they play, things get more predictable ... but that's where the budgetary challenges and the need to support multiple vehicle types come in.
+
+Oh, and don't forget all the personal trauma you'll experience with the murders of innocent car and truck drivers on your hands dying on bridges too feeble for their traversal. What could be more fun?
+
+Well-designed, consistent mechanics in an enjoyable leisurely atmosphere. I definitely recommend giving this one a go.",1,True,1674655987,1674655987,76561198029272313,325,0,False,False,True,0,0,0,0.5,728,long,131
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,131733279,english,This game has become an advertising platform for their DLC and other games taking 1/4 of the main menu making it a minefield to navigate with young players with all those links trying to sell you stuff.,0,False,1674920297,1674925492,76561198025540824,830,0,False,False,False,0,5,0,0.5656670331954956,202,medium,132
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,132381029,english,"I played through the first island and there's a lot of things in this game that are frustrating for no reason or could be easily improved. 
+
+1) There's no consistency on the availability of building materials. You unlock steel cables, but you can't use them on this level... or this one! Ha ha! Even the final bridge of the first island was wood only. Complete BS.
+
+2) The UI is very clunky. You click on the button for wood or steel and half the time it plants a node right next to the button and you have to pan the view around to delete it. Frustrating.
+
+3) All stress is one color, there's no visual differentiation between compression or tension. I played a bridge builder 20 years ago that had compression as blue and tension as red. The engine obviously knows which is which but the developer is just being lazy.
+
+4) There's no drag and drop for nodes. Other bridge builders will let you drag an existing node to shorten or lengthen supports and it will display the cost difference live. This game makes you rip the node and everything connected to it out. 
+
+5) There's no mouse over text or tool tips for any material. ""Ok good job you unlocked steel, but we're not going to tell you how strong it is or how much it costs!""
+
+6) There's levels that are very obviously designed to let you get a specific achievement. ""You came in $25k under budget on a 3 section span? Nice job Financial Genius or whatever."" Achievements should be created from the game that exists, not drive the design of the game.
+
+7) Finally, you get the whole island completed to 100% and they are like, ""Ok now you can have tanker trucks use your bridges!"" and all of your progress drops to 83%. Nope, uninstalling forever goodbye.",0,False,1675791154,1675791154,76561197998807353,270,0,False,False,True,0,2,0,0.52173912525177,1710,long,133
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,138414159,english,"🖤💙🖤🖤🖤💙🖤🖤🖤💙🖤🖤🖤❤️🖤
+💙💙💙🖤💙💙💙🖤🤍💙🤍🖤🤍🤍🤍
+💙💙💙💙💙💙💙🖤💙🤍💙💙❤️❤️❤️
+💙💙💙💙💙💙💙🖤🤍💙🤍💙🤍🤍🤍
+💙💙💙💙💙💙💙🖤💙💙💙💙❤️❤️❤️
+🖤💛💛💛💛💛🖤🖤🖤🤍🤍🤍🤍🤍🖤
+🖤💛💛💛💛💛🖤🖤🖤❤️❤️❤️❤️❤️🖤
+🖤🖤💛💛💛🖤🖤🖤🖤🖤🤍🤍🤍🖤🖤
+🖤🖤💛💛💛🖤🖤🖤🖤🖤❤️❤️❤️🖤🖤
+🖤🖤🖤💛🖤🖤🖤🖤🖤🖤🖤🤍🖤🖤🖤
+. . . . . .Ukraine . . . . . . . . . . . . . America . . . . .",1,True,1684284372,1684300770,76561198209304247,5232,0,False,False,True,0,1,0,0.4330593943595886,237,long,134
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,140638471,english,yes,1,True,1687642506,1687642506,76561199075104459,866,0,False,False,True,0,2,0,0.52173912525177,3,short,135
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,143568169,english,"Fun puzzle game, although old it is fun to play and try out.",1,True,1691383016,1691383016,76561198292275263,1264,0,False,False,True,0,2,0,0.521721839904785,60,medium,136
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,145943758,english,great game,1,True,1694215330,1694215330,76561198025974282,19696,0,False,False,False,0,0,1,0.5,10,short,137
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,148711094,english,"The levels are repetitive, they don't have variety in goals or solutions. The physics feel off, and you are not allowed overbudget, not even for a reduced reward or even just to mess around and it's a mindlessly simple game until you unlock the Tanker Challenge mode which, when combined with the restrictive building capabilities and reusing of the same levels, has such ridiculously tight restrictions without being fresh or interesting. UI is awful and clunky.
+
+I bought this at 90% off, and there is a reason Steam was willing to put it so low. It is not worth $10, and it's barely worth the dollar I spent on it. Just get Poly Bridge.",0,False,1698030620,1698030863,76561198095810732,393,0,False,False,True,0,4,0,0.5519234538078308,639,long,138
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,149975349,english,dumb bridges not nice bridges 0/10,0,False,1699757961,1699757961,76561198087400171,31,0,False,False,False,0,0,1,0.4722222387790679,34,short,139
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,151294517,english,Love it,1,True,1700737978,1700737978,76561198246417600,396,0,False,False,True,0,0,0,0.5,7,short,140
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,159124618,english,We have to build a bwidge! Enemy recon plane ride a bubba!,1,True,1708757857,1708757857,76561198020285061,238,0,False,False,True,0,0,0,0.5,58,medium,141
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,161089838,english,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☑ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☐ Good
+☑ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☑ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☐ Teens
+☐ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☑ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☑ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☑ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☑ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☑ 8
+☐ 9
+☐ 10",1,True,1711050405,1711050405,76561199058499190,159,0,True,False,True,0,0,0,0.4257907569408416,1357,long,142
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,161097835,english,"Trust me, I'm an engineer.",1,True,1711058560,1711058560,76561198828898204,422,0,False,False,True,0,1,0,0.5238095521926879,26,short,143
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,172364657,english,Funny game. It's a lot of fun. Encourages you to exploit its shitty 2d physics engine in the funniest ways possible. It's a challenge in a funny way. First got this game on mobile as a young teen. The PC version is definitely worth the money.,1,True,1723955846,1723955846,76561198975946578,3566,0,False,False,True,0,0,1,0.5,242,long,144
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,173476089,english,"- builds bridge
+- bridge has maximum support possible
+- engineered by the best bridge builder
+- mom minivan cumslams the bridge
+17358/17357 such a good game...",1,True,1724706824,1724706824,76561198837046078,179,0,False,False,True,0,1,2,0.4710144996643066,163,medium,145
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,183753218,english,9/10,1,True,1735221509,1735221509,76561198040737409,2432,0,False,False,True,0,0,0,0.5,4,short,146
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,187123959,english,There are an insane number of bridge building games out there that do a way better job than this one.,0,False,1738646387,1738646387,76561198125582561,51,0,False,False,True,0,0,0,0.4938271641731262,101,medium,147
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,189875907,english,ass,0,False,1741618419,1741618419,76561198987238286,19,0,False,False,False,0,0,1,0.4938271641731262,3,short,148
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,194787376,english,nice,1,True,1747102899,1747102899,76561199013612559,331,0,False,False,True,0,0,0,0.5,4,short,149
+2,top,250460,Bridge Constructor,7780,5,5.653208,916,196017769,english,"Fun game, although it does get a teeny tiny bit repetative. Do not recommend playing it on a small screen though. Other than that, it's good. :)",1,True,1748641764,1748641764,76561197970878767,1484,0,False,False,True,0,1,0,0.5238095521926879,144,medium,150

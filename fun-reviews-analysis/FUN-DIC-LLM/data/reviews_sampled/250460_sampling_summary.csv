@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+250460,Bridge Constructor,2,top,915.0,150.0,150.0,108.0,42.0,916.0,5.653208,,,,,,
+250460,Bridge Constructor,2,top,,,,,,,,pos,short,218.0,36.0,36.0,4311.0
+250460,Bridge Constructor,2,top,,,,,,,,pos,medium,219.0,36.0,36.0,4343.0
+250460,Bridge Constructor,2,top,,,,,,,,pos,long,217.0,36.0,36.0,4098.0
+250460,Bridge Constructor,2,top,,,,,,,,neg,short,87.0,14.0,14.0,4270.0
+250460,Bridge Constructor,2,top,,,,,,,,neg,medium,87.0,14.0,14.0,4255.0
+250460,Bridge Constructor,2,top,,,,,,,,neg,long,87.0,14.0,14.0,4165.0

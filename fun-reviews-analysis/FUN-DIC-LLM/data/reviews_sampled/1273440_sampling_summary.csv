@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+1273440,OverDrift Festival,5,top,637.0,150.0,150.0,119.0,31.0,637.0,5.628377,,,,,,
+1273440,OverDrift Festival,5,top,,,,,,,,pos,short,170.0,40.0,40.0,1179.0
+1273440,OverDrift Festival,5,top,,,,,,,,pos,medium,170.0,40.0,40.0,1178.0
+1273440,OverDrift Festival,5,top,,,,,,,,pos,long,166.0,39.0,39.0,1141.0
+1273440,OverDrift Festival,5,top,,,,,,,,neg,short,44.0,10.0,10.0,1068.0
+1273440,OverDrift Festival,5,top,,,,,,,,neg,medium,43.0,10.0,10.0,1017.0
+1273440,OverDrift Festival,5,top,,,,,,,,neg,long,44.0,11.0,11.0,826.0

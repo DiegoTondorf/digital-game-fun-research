@@ -1,87 +1,74 @@
 # Systematic Mapping Study on Fun in Digital Games
 
-**Part of the [Digital Game Fun Research](../README.md) repository.**
-
----
+Part of the [Digital Game Fun Research](../README.md) repository.
 
 ## Study Description
 
-This folder contains the replication package for a systematic mapping study investigating the concept of **fun** in digital games. The study surveys the existing literature to identify, classify, and synthesize research on what makes digital games enjoyable, covering definitions, theoretical frameworks, measurement approaches, and empirical findings reported in the literature.
+This folder contains the replication material for a systematic mapping study on fun in digital games. The package includes search protocol notes, selected studies, mapping outputs, and supporting raw/reference material.
 
-A systematic mapping study (SMS) follows a rigorous, predefined protocol to provide a broad overview of a research area, enabling researchers to identify trends, gaps, and opportunities for future work.
+## Current Status
 
----
-
-## Stable Archived Version
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
-> *Replace the placeholder DOI above with the actual Zenodo DOI once the archive has been published.*
-
----
+The folder currently stores data artifacts only. There are no scripts or automated pipelines in this directory at this moment.
 
 ## Folder Contents
 
 ```
 systematic-mapping/
-├── data/         # Raw and processed data collected during the study
-├── scripts/      # Analysis and processing scripts
-├── results/      # Output files, figures, and summary tables
-└── README.md     # This file
+├── 0_Overview.txt
+├── 1_Selected.txt
+├── 2_Outputs.txt
+├── 3_Mapping.txt
+├── 4_Raw.txt
+├── 5_Snowballing.txt
+├── ReplicationPackage.xlsx
+└── README.md
 ```
 
-### `data/`
+### File Guide
 
-Contains all data files collected during the systematic mapping process, including the list of primary studies, extraction forms, and any intermediate datasets produced during screening and selection.
+- `0_Overview.txt`
+   - Search strings and restrictions used in the mapping protocol.
+   - Inclusion criteria notes.
+   - High-level screening counts (e.g., source totals and deduplication notes).
 
-### `scripts/`
+- `1_Selected.txt`
+   - Final selected primary studies table.
+   - Includes metadata such as title, year, source, key, design element, and classification fields.
+   - Current total in this file: 43 selected studies.
 
-Contains all scripts used to process, analyze, and visualize the data. Scripts are provided as-is and should be executed in the order described in the **Reproduction Instructions** section below.
+- `2_Outputs.txt`
+   - Derived outputs and summaries from the mapping, including publication timeline summaries, venue listing, and design-element/category aggregations.
 
-### `results/`
+- `3_Mapping.txt`
+   - Detailed mapping/extraction sheet with screening and inclusion columns.
+   - Includes records evaluated during the mapping process.
 
-Contains the final output of the analyses, including summary tables, charts, and any other artifacts generated from the scripts. These outputs correspond directly to the figures and tables reported in the published study.
+- `4_Raw.txt`
+   - Raw bibliographic export records (for example, records from Scopus/IEEE/ACM DL exports and related metadata).
 
----
+- `5_Snowballing.txt`
+   - Snowballing/reference support material used during expansion and triangulation of sources.
 
-## Reproduction Instructions
+- `ReplicationPackage.xlsx`
+   - Consolidated spreadsheet version of the replication package.
 
-Follow the steps below to reproduce the results of this study from scratch.
+## How to Use This Package
 
-### Prerequisites
-
-1. Ensure the software dependencies listed in the [Dependencies](#dependencies) section are installed.
-2. Clone or download this repository (or the archived Zenodo version for a stable snapshot).
-
-### Steps
-
-1. **Prepare the data**
-   - Navigate to the `data/` folder and verify that all required input files are present.
-   - Consult the data-level `README` (if present) for details on file formats and provenance.
-
-2. **Run the analysis scripts**
-   - Navigate to the `scripts/` folder.
-   - Execute the scripts in numerical or alphabetical order (e.g., `01_preprocess.R`, `02_analyze.R`, …).
-   - Each script includes inline comments describing its purpose and expected inputs/outputs.
-
-3. **Inspect the results**
-   - Upon successful execution, output files will be written to the `results/` folder.
-   - Compare the generated outputs with the figures and tables in the published manuscript to verify reproducibility.
-
----
+1. Start from `0_Overview.txt` to understand the protocol and criteria.
+2. Use `1_Selected.txt` as the curated final study set.
+3. Use `2_Outputs.txt` for summarized mapping results.
+4. Consult `3_Mapping.txt`, `4_Raw.txt`, and `5_Snowballing.txt` for traceability and auditability.
+5. Use `ReplicationPackage.xlsx` when spreadsheet-based navigation is preferred.
 
 ## Dependencies
 
-The following software is required to execute the analysis scripts. Specific version numbers are listed where reproducibility is sensitive to version differences.
+No code execution dependencies are required for the current folder contents.
 
-| Software | Version | Purpose |
-|---|---|---|
-| — | — | — |
+Recommended tools:
 
-> *This table will be populated with the actual software names, versions, and purposes once the analysis scripts are finalized and added to the `scripts/` folder.*
+- Any text editor for `.txt` files.
+- A spreadsheet tool (for example, Microsoft Excel, LibreOffice Calc, or similar) for `ReplicationPackage.xlsx`.
 
----
+## Archive DOI
 
-## Reference to Main Repository
-
-This study is part of the **Digital Game Fun Research** replication repository. For an overview of all available studies, visit the [main README](../README.md).
+[![DOI](https://doi.org/10.17605/OSF.IO/JYF68)](https://doi.org/10.17605/OSF.IO/JYF68) - https://osf.io/jyf68/overview

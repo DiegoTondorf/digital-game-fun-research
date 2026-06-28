@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+1929360,Tumbleweed Destiny,3,top,84.0,150.0,84.0,83.0,1.0,84.0,5.65228,,,,,,
+1929360,Tumbleweed Destiny,3,top,,,,,,,,pos,short,28.0,28.0,28.0,929.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,pos,medium,28.0,28.0,28.0,1168.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,pos,long,27.0,27.0,27.0,641.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,neg,short,1.0,1.0,1.0,0.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,neg,medium,0.0,0.0,0.0,0.0
+1929360,Tumbleweed Destiny,3,top,,,,,,,,neg,long,0.0,0.0,0.0,0.0

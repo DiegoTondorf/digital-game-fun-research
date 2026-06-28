@@ -1,0 +1,14 @@
+Step 09 summary
+Overall unique tokens: 14108
+Per-app category metrics: D:\OneDrive - ETS\__Doutorado\GAME REVIEW STUDY\data\analysis\09\per_app_categories.csv
+Per-app score metrics: (none)
+Per-review FUN table: D:\OneDrive - ETS\__Doutorado\GAME REVIEW STUDY\data\analysis\09\per_review_fun.csv (rows=5042, zero_hit=4115)
+Per-app review aggregates: D:\OneDrive - ETS\__Doutorado\GAME REVIEW STUDY\data\analysis\09\per_app_review_agg.csv
+Mean of app Flow_prop_mean across apps: 0.378
+Per-app normalized FUN table: D:\OneDrive - ETS\__Doutorado\GAME REVIEW STUDY\data\analysis\09\per_app_fun_normalized.csv
+
+Scientific notes
+- Lexicon sparsity: Many reviews have zero hits; zero_hit and pct_with_fun are reported.
+- Soft None share: None = 1 - (F + U + N) using per-token rates; we clamp to [0,1] and renormalize F/U/N/None to sum to 1.0.
+- Intensities vs. shares: per-100 intensities are absolute; normalized shares capture composition and include None.
+- Determinism: No randomness; results are deterministic for a given input and configuration.

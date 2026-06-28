@@ -1,0 +1,31 @@
+[TASK]
+Classify this review into Flow, Utility, Nostalgia, or None. Return STRICT JSON only.
+
+[DEFINITIONS]
+Flow: immersion, challenge, responsive controls.
+Utility: goals, progression, rewards, strategy.
+Nostalgia: retro/classic/childhood callbacks.
+None: no clear fun signal (bugs, price, DRM, off-topic).
+
+[RULES]
+- Scores in [0,1], sum to 1.0 +/- 0.01. Dominant = argmax; tie if top2 diff <= 0.05.
+- Dominant = argmax; tie if top2 diff <= 0.05.
+- Negation/sarcasm: treat claimed category as absent (near 0), increase None, lower confidence.
+
+[OUTPUT]
+{
+  "appid":"{{APPID}}",
+  "reviewId": {{REVIEW_ID_OR_NULL}},
+  "Flow": 0..1, "Utility": 0..1, "Nostalgia": 0..1, "None": 0..1,
+  "confidence": 0..1,
+  "dominant": "Flow|Utility|Nostalgia|None|tie",
+  "rationale_brief": "<= 5 tokens, no quotes, no punctuation, single short phrase"
+}
+
+[INPUT]
+appid: {{APPID}}
+reviewId: {{REVIEW_ID_OR_NULL}}
+review:
+{{REVIEW_TEXT}}
+
+[OUTPUT JSON ONLY]

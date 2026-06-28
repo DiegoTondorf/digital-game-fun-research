@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,55.0,150.0,55.0,48.0,7.0,55.0,3.471894,,,,,,
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,pos,short,16.0,16.0,16.0,1399.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,pos,medium,16.0,16.0,16.0,978.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,pos,long,16.0,16.0,16.0,1229.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,neg,short,2.0,2.0,2.0,577.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,neg,medium,2.0,2.0,2.0,30.0
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,,,,,,,,neg,long,3.0,3.0,3.0,512.0

@@ -1,0 +1,1112 @@
+Authors	Tittle	Other	Layer	ANOT
+	Adams E., Rollings A., Game Design and Development: Fundamentals of Game Design, (2007)		1	
+	Agarwal R., Karahanna E., Time flies when you’re having fun: Cognitive absorption and beliefs about information technology usage, MIS quarterly, 24, 4, pp. 665-694, (2000)		1	
+	Barab B.A., Thomas M., Dodge T., Carteaux R., Tuzun H., Making learning fun: Quest Atlantis, a game without guns, Educational Technology Research and Development, 53, pp. 86-108, (2005)		1	
+	Blythe M., Hassenzahl M., The semantics of fun: differentiating enjoyable experiences, Funology 2: From Usability to Enjoyment. HIS, pp. 375-387, (2018)		1	
+	Blythe M., Hassenzahl M., The semantics of fun: Differentiating enjoyable pleasures, Funology: From usability to enjoyment, pp. 91-100, (2004)		1	
+	Blythe M.A., Overbeeke K., Monk F.A., Wright C.P., Funology from Usability to Enjoyment, (2004)		1	
+	Burns K., EVE's entropy: A formal gauge of fun in games, Advanced Intelligent Paradigms in Computer Games, 71, pp. 153-173, (2007)		1	
+	Burns K., Fun in slots, Proc. IEEE Symposium on Computational Intelligence in Games, (2006)		1	
+	Burns K., Fun in Slots, Proceedings of the IEEE Conference on Computational Intelligence in Games, (2006)		1	
+	Cole T., Cairns P., Gillies M., Emotional and Functional Challenge in Core and Avant-Garde Games, Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play, pp. 121-126, (2015)		1	
+	Davis S.B., Carini C., Constructing a player-centred definition of fun for video games design, People and computers XVIII—Design for life, pp. 117-132, (2005)		1	
+	Draper S.W., Practical problems and proposed solutions in designing action-centered documentation, Minimalism beyond the Numberg Funnel, pp. 349-374, (1998)		1	
+	Ermi L., Mayra F., Fundamental Components of the Gameplay Experience: Analysing Immersion, Proceedings of the DiGRA Conference		1	
+	Fallis A.G., A Theory of Fun for Game Design, (2013)		1	
+	Falstein N., Understanding fun - The theory of natural funativity, Introduction to Game Development, pp. 71-98, (2005)		1	
+G. N. Yannakakis and J. Hallam	Feature Selection for Capturing the Experience of Fun	in AIIDE'07 Workshop on Optimizing Player Satisfaction, 2007, pp. 37-42.	1	
+	Fincham B., The sociology of fun, (2016)		1	
+	Fincham B., Theorising fun, The Sociology of Fun, pp. 27-46, (2016)		1	
+	Fine G.A., Corte U., Group pleasures: Collaborative commitments, shared narrative, and the sociology of fun, Sociological Theory, 35, 1, pp. 64-86, (2017)		1	
+	Franzwa C., Tang Y., Johnson A., Serious game design: Motivating students through a balance of fun and learning. 2013 5th, Int. Conf. Games Virtual Worlds Serious Appl. VS-GAMES, (2013)		1	
+	Funk J.B., Buchman D.D., Playing violent video and computer games and adolescent self-concept, Journal of Communication, 46, pp. 19-32, (1996)		1	
+	Gajadhar B.J., de Kort Y.A.W., IJsselsteijn W.A., Shared fun is doubled fun: player enjoyment as a function of social setting, Fun and Games 2008. LNCS, 5294, pp. 106-117, (2008)		1	
+	Garneau P.A., Fourteen forms of fun, Gamasutra, (2001)		1	
+	Garneau P.-A., Fourteen forms of fun, Gamasutra, (2001)		1	
+	Huhtamo E., Slots of Fun, Slots of Trouble: An Archaeology of Arcade Gaming, Handbook of Computer Game Studies, (2005)		1	
+	Iacovides I., Cox A.L., Moving Beyond Fun: Evaluating Serious Experience in Digital Games, Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, pp. 2245-2254, (2015)		1	
+	Koster R., A Theory of Fun for Game Design, (2005)		1	
+	Koster R., A Theory of Fun for Game Design, (2005)		1	
+	Koster R., A Theory of Fun for Game Design, (2005)		1	
+	Koster R., Theory of Fun for Game Design, (2004)		1	
+	Koster R., Theory of Fun for Game Design, (2004)		1	
+	Koster R., Theory of Fun for Game Design, (2004)		1	
+	Koster R., Theory of Fun for Game Design, (2013)		1	
+	Koster R., Theory of fun for game design, (2013)		1	
+	Koster R., Theory of Fun for Game Design, (2013)		1	
+	Krause K.K.G., Hounsell M.D.S., Gasparini I., Um Modelo para Inter-relação entre Funções Executivas e Elementos de Jogos Digitais, Rev. Bras. Informática Na Educ., 28, pp. 596-625, (2020)		1	
+	Malone T., Lepper M., Making learning fun: A taxonomy of intrinsic motivations for learning, Aptitude, Learning and Instruction., 3, pp. 223-253, (1987)		1	
+	Malone T.W., Lepper M.R., Making learning fun: A taxonomy of intrinsic motivations for learning, Aptitude Learning and Instruction: III Conative and Affective Process Analysis, pp. 223-253, (1987)		1	
+	Malone T.W., What Makes Things Fun to Learn? A Study of Intrinsically Motivating Computer Games, (1980)		1	
+	Malone T.W., What makes things fun to learn? heuristics for designing instructional computer games, (1980)		1	
+	Malone T.W., What makes things fun to learn? Heuristics for designing instructional computer games, Proc. 3rd ACM SIGSMALL Symp./1st SIGPC Symp. Small Syst., pp. 162-169, (1980)		1	
+	Malone T.W., What makes things fun to learn? Heuristics for designing instructional computer games, SIGSMALL '80: Proceedings of the 3rd ACM SIGSMALL Symposium and the First SIGPC Symposium on Small Systems, pp. 162-169, (1980)		1	
+	Marsh T., Nickole L.Z., Klopfer E., Xuejin C., Osterweil S., Haas J., Fun and learning: The power of narrative, Proc. 6Th Int. Conf. Found. Digit. Games FDG 2011, pp. 23-29, (2011)		1	
+	McLaughlin A., Gandy M., Allaire J., Whitlock L., Putting fun into video games for older adults, Ergonomics in Design: The Quarterly of Human Factors Applications, 20, 2, pp. 13-22, (2012)		1	
+	Mellecker R., Lyons R.E.J., Baranowski T., Disentangling Fun and Enjoyment in Exergames Using an Expanded Design, Play, Experience Framework: A Narrative Review, Games for Health Journal, 2, 3, pp. 142-149, (2013)		1	
+	Podilchak W., Distinctions between fun, leisure, & enjoyment, Leisure Studies, 10, 2, pp. 133-148, (1991)		1	
+	Podilchak W., Distinctions of fun, enjoyment and leisure, Leis. Stud, 10, pp. 133-148, (1991)		1	
+	Podilchak W., Establishing the fun in leisure, Leis. Sci, 13, pp. 123-136, (1991)		1	
+	Prelec D., Compound Invariant Weighting Functions in Prospect Theory, Choices, Values and Frames, pp. 67-92, (2000)		1	
+	Prensky M., Fun, play and games: What makes games engaging, Digital Game-Based Learn, 5, 1, pp. 5-31, (2001)		1	
+	Prensky M., Fun, play and games: what makes games engaging, Digital Game-Based Learning, (2001)		1	
+	Prensky M., Fun, Play and Games: What Makes Games Engaging, Prensky, M: Digital Game-Based Learning, (2001)		1	
+	Read J.C., Macfarlane S., Using the fun toolkit and other survey methods to gather opinions in Child Computer Interaction, Proceeding 2006 Conf. Interact. Des. Child. IDC 2006, Pp. 81–88, (2006)		1	
+	Reis H.T., O'Keefe S.D., Lane R.D., Fun is more fun when others are involved, J. Posit. Psychol, 12, pp. 547-557, (2017)		1	
+	Robertson S., Et al., More than fun? Towards understanding the impact of socialrecreation programming, Early Interv. Psychiatry, 8, (2014)		1	
+	Rogers R., Woolley J., Sherrick B., Bowman N.D., Oliver M.B., Fun versus meaningful video game experiences: A qualitative analysis of user responses, The Computer Games Journal, 6, 1-2, pp. 63-79, (2017)		1	
+	Ruberg B., No fun: The queer potential of video games that annoy, anger, disappoint, sadden, and hurt, QED: A Journal in GLBTQ Worldmaking, 2, 2, pp. 108-124, (2015)		1	
+	Salen K., Zimmerman E., Rules of Play: Game Design Fundamentals, (2003)		1	
+	Salen K., Zimmerman E., Rules of Play: Game Design Fundamentals, (2003)		1	
+	Salen K., Zimmerman E., Rules of Play: Game Design Fundamentals, (2003)		1	
+	Salen K., Zimmerman E., Rules of Play: Game Design Fundamentals, (2004)		1	
+	Salen K., Zimmerman E., Rules of Play: Game Design Fundamentals, (2004)		1	
+	Salen K., Zimmerman E., Rules of Play: Game Design Fundamentals, (2004)		1	
+	Salen K., Zimmerman E., Rules of Play-Game Design Fundamentals, (2004)		1	
+	Salen Z., Rules of Play: Game Design Fundamentals, (2004)		1	
+	Sharp J., Thomas D., Fun, Taste & Games: An Aesthetics of the Idle, Unproductive, and Otherwise Playful, (2019)		1	
+	Sharp J., Thomas D., Fun, taste, and games, (2013)		1	
+	Shen C., Wang H., Ritterfeld U., Serious Games and Seriously Fun Games: Can they Be One and the Same? Serious Games Mech. Eff.		1	
+	Skalski P., Tamborini R., Shelton A., Buncher M., Lindmark P., Mapping the road to fun: Natural video game controllers, presence, and game enjoyment, New Media & Society, 13, 2, pp. 224-242, (2011)		1	
+	Sorenson N., Pasquier P., The evolution of fun: Automatic level design through challenge modeling, Proc. 1st Int. Conf. Comput. Creativity, pp. 258-267, (2010)		1	
+	Stanton W.J., Etzel M.J., Walker B.J., Fundamentals of Marketing, (1991)		1	
+R. Koster	Theory of fun for game design	OReilly Media Inc., 2013.	1	
+	Van Looy J., Courtois C., De Vocht M., Player Identification in Online Games: Validation of a Scale for Measuring Identification in MMORPGs, Proceedings of the 3rd International Conference on Fun and Games, pp. 126-134, (2010)		1	
+	Wack E., Tantleff-Dunn S., Relationships between electronic game play, obesity, and psychosocial functioning in young men, CyberPsychology & Behavior, 12, pp. 241-244, (2009)		1	
+	Wang H., Shen C., Ritterfeld U., Enjoyment of digital games: What makes them “seriously” fun? Serious Games Mech, Eff., pp. 25-47, (2009)		1	
+T. W. Malone	What Makes Things Fun to Learn? Heuristics for Designing Instructional Computer Games	in SIGSMALL'80: Proc. of the 3rd ACM SIGSMALL symposium and the first SIGPC symposium on Small systems. New York, NY: ACM Press, 1980, pp. 162-169.	1	
+	What’s the Point If We Can’t Have Fun?		1	
+	Yee N., The labor of fun: How video games blur the boundaries of work and play, Games and Culture, 1, 1, pp. 68-71, (2006)		1	
+	Yee N., The labor of fun: How video games blur the boundaries of work and play, Games and Culture, 1, pp. 68-71, (2006)		1	
+	2003-date. Call of Duty series		1	
+	2D Roguelike, (2018)		1	
+J. Lessiter, J. Freeman, E. Keogh and J. Davidoff	A Cross-Media Presence Questionnaire: The ITC-Sense of Presence Inventory	Presence: Teleoperators and Virtual Environments, vol. 10, no. 3, pp. 282-297, 2001.	1	
+G. N. Yannakakis and J. Hallam	A Generic Approach for Generating Interesting Interactive Pac-Man Opponents	in Proc. of the 2005 IEEE Symp. on Computational Intelligence and Games, 2005, pp. 94-101.	1	
+R. Bellman	A markovian decision process	Journal of mathematics and mechanics, vol. 6, no. 5, pp. 679-684, 1957.	1	
+M. Slater	A Note on Presence Terminology	Presence Connect, pp. 3, 2003.	1	
+T. Shu, Z. Wang, J. Liu and X. Yao	A novel cnet-assisted evolutionary level repairer and its applications to Super Mario Bros	2020 IEEE Congress on Evolutionary Computation (CEC), 2020.	1	
+J. Pan and W. J. Tompkins	A Real-Time QRS Detection Algorithm	IEEE Transactions on Biomedical Engineering, vol. BME-32, no. 3, pp. 230-236, 1985.	1	
+D. P.-O. Bos, M. Poel and A. Nijholt	A study in user-centered design andevaluation of mental tasks for BCI	Proc. 17th Int. Multimedia Modeling Conf., vol. 6524, pp. 122-134, 2011-Jan.	1	
+	A Study on the Policy for the Development of the Computer Game Industry, (1998)		1	
+R. Poppe	A survey on vision-based human action recognition	Image Vision Comput., vol. 28, no. 6, pp. 976-990, 2010.	1	
+R. Likert	A Technique for the Measurement of Attitudes	in Archives of Psychology. New York: Johnson Associates. 1975, vol. 140, pp. 1-55.	1	
+	Abbeel P., Ng A.Y., Apprenticeship learning via inverse reinforcement learning, Proceedings of the Twenty-First International Conference on Machine Learning, (2004)		1	
+	Abt C., Serious Games, (1970)		1	
+L. Gisslén, A. Eakins, C. Gordillo, J. Bergdahl and K. Tollmar	Adversarial reinforcement learning for procedural content generation	2021 IEEE Conference on Games (CoG), 2021.	1	
+	Age of Empires III, (2005)		1	
+	Agrawal S., Simon A., Bech S., Baerentsen K., Forchhammer S., Defining Immersion: Literature Review and Implications for Research on Audiovisual Experiences, J. Audio Eng. Soc, 68, pp. 404-417, (2020)		1	
+	Ajzen I., Fishbein M., Understanding attitudes and predicting social behavior, (1980)		1	
+	Alavi M., Leidner D.E., Knowledge management and knowledge systems: Conceptual foundations and research issue, MIS Quarterly, 25, 1, pp. 107-136, (2001)		1	
+	Albert I., Video Game Maps, (2010)		1	
+	Albuquerque R.M., Diversão Nos Videogames: Perfis De Usuários De Jogos Eletrônicos, (2011)		1	
+	Aldrich C., Learning by Doing: A Comprehensive Guide to Simulations, Computer Games and Pedagogy in e-Learning and Other Educational Experiences, (2005)		1	
+	Aldrich C., The complete guide to simulations & serious games: How the most valuable content will be created in the age beyond Gutenberg to Google, (2009)		1	
+	Alexiou A., Schippers M.C., Oshri I., Angelopoulos S., Narrative and aesthetics as antecedents of perceived learning in serious games, Inf. Technol. People, (2020)		1	
+Twelve a Dozen	all access Review for Teachers	Common Sense Education.	1	
+	Allen D., You're never too old for a Wii, Nursing Older People, 19, (2007)		1	
+	Allen S., Peterman K., Evaluating informal STEM education: Issues and challenges in context, New Direct. Eval., 2019, 161, pp. 17-33, (2019)		1	
+	Allison K.R., Dwyer J.J., Allan F., Yoshida K.K., Boulitiler M., Male adolescents' reasons for participating in physical activity, barriers to participation, and suggestions for increasing participation, Adolescence, 40, pp. 155-170, (2005)		1	
+	Alloway N., Gilbert P., Video game culture: Playing with masculinity, violence and pleasure, Wired up, pp. 93-113, (2005)		1	
+	Alzahrani A.I., Mahmud I., Ramayah T., Alfarraj O., Alalwan N., Extending the theory of planned behavior (TPB) to explain online game playing among Malaysian undergraduate students, Telematics and Informatics, 34, 4, pp. 239-251, (2017)		1	
+	American College Health Association-National College Health Assessment (ACHA-NCHA) spring 2004 reference group data report (abridged), Journal of American College Health, 54, pp. 201-211, (2004)		1	
+	American Heritage Dictionary of English Language, Third Edition, (1992)		1	
+	Amory A., Game Object Model Version II: A theoretical framework for educational game development, Educational Technology Research and Development, 55, 1, pp. 51-77, (2007)		1	
+Angeliki Leonardou and Maria Rigou	An adaptive mobile casual game for practicing multiplication	Proceedings of the 20th Pan-Hellenic Conference on Informatics, pp. 1-6, 2016.	1	
+D. Zhang, Y. Wang, X. Gao, B. Hong and S. Gao	An algorithm for idle-state detection in motor-imagery-based brain-computerinterface	Intell. Neurosci., vol. 2007, pp. 5-5, Jan. 2007.	1	
+A. Furdea, S. Halder, D. Krusienski, D. Bross, F. Nijboer, N. Birbaumer, et al.	An auditory oddball (p300) spellingsystem for brain-computer interfaces	Psychophysiology, vol. 46, no. 3, pp. 617-625, 2009.	1	
+H. Serby, E. Yom-Tov and G. Inbar	An improved-based brain-computer interface	IEEE Trans. Neural Syst. Rehabilitat. Eng., vol. 13, no. 1, pp. 89-98, Mar. 2005.	1	
+T. Fawcett	An introduction to ROC analysis	Pattern Recognit. Lett., vol. 27, no. 8, pp. 861-874, 2005.	1	
+	Anderson E.S., Winett R.A., Wojcik J.R., Winett S.G., Bowden B.S., A computerized social cognitive intervention for nutrition behavior: Direct and mediated effects on fat, fiber, fruits, and vegetables, self-efficacy, and outcome expectations among food shoppers, Annals of Behavioral Medicine, 23, pp. 88-100, (2001)		1	
+	Andiloro A., (2023)		1	
+	Andrade F., Marques L., Bittencourt I.I., Isotani S., QPJ-BR: Questionário para Identifi-cação de Perfis de Jogadores para o Português-Brasileiro, Apresentado Em Novembro, 7, (2016)		1	
+	Andrade G., Ramalho G., Santana H., Corruble V., Automatic computer game balancing: A reinforcement learning approach, AAMAS '05: Proceedings of the Fourth International Joint Conference on Autonomous Agents and Multiagent Systems, (2005)		1	
+	Andrade G., Ramalho G., Santana H., Corruble V., Automatic computer game balancing: A reinforcement learning approach, Proc. 4th Int. Joint Conf. on Autonomous Agents and Multiagent Systems, pp. 1111-1112, (2005)		1	
+	Andrade G., Ramalho G., Santana H., Corruble V., Challenge-sensitive action selection: An application to game balancing, IAT '05: Proc. of the IEEE/WIC/ACM International Conference on Intelligent Agent Technology, (2005)		1	
+	Apter M.J., A structural-phenomenology of play, Adult Play: A Reversal Theory Approach, pp. 18-20, (1991)		1	
+	Apter M.J., A structural-phenomenology of play, Adult Play: A Reversal Theory Approach, pp. 18-20, (1991)		1	
+	Arnab S., Lim T., Carvalho M.B., Bellotti F., De Freitas S., Louchart S., De Gloria A., Mapping learning and game mechanics for serious games analysis, British Journal of Educational Technology, 46, 2, pp. 391-411, (2015)		1	
+	Artificial adaptive agents and economic theory, American Economic Review, 81, pp. 365-370, (1991)		1	
+G. N. Yannakakis and J. Togelius	Artificial intelligence and games	Springer, vol. 2, 2018.	1	
+	Arya A., Chastine J., Preston J., Fowler A., An international study on learning and process choices in the global game jam, IJGBL, 3, 4, pp. 27-46, (2013)		1	
+	Athavale S., Dalvi G., Strategies for endogenous design of educational games, DiGRA Conference, (2019)		1	
+	Avital M., Te'eni D., From generative fit to generative capacity: Exploring an emerging dimension of information systems design and task performance, Information Systems Journal, 19, 4, pp. 345-367, (2009)		1	
+	Ayumi Bopp J., Mekler E.D., Opwis K., Negative Emotion, Positive Experience Emotionally Moving Moments in Digital Games, Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, pp. 2996-3006, (2016)		1	
+	Ayumi Bopp J., Muller L.J., Fanya Aeschbach L., Opwis K., Mekler E.D., Exploring Emotional Attachment to Game Characters, Proceedings of the Annual Symposium on Computer-Human Interaction in Play, pp. 313-324, (2019)		1	
+	Ayumi Bopp J., Opwis K., Mekler E.D., "An Odd Kind of Pleasure": Differentiating Emotional Challenge in Digital Games, pp. 1-12, (2018)		1	
+	Badrinarayanan V. A., Sierra J. J., Taute H. A., Determinants and outcomes of online brand tribalism: Exploring communities of massively multiplayer online role playing games (MMORPGs), Psychology & Marketing, 31, 10, pp. 853-870, (2014)		1	
+	Bailey P., Leisure and class in Victorian England: Rational recreation and the contest for control, 1830-1885, (2014)		1	
+	Bakdash J.Z., Marusich L.R., Repeated Measures Correlation, Front. Psychol, 8, (2017)		1	
+	Balakrishnan B., Shyam S.S., Where am I? How can i get there? Impact of navigability and narrative transportation on spatial presence, Human-Computer Interaction, 26, 3, pp. 161-204, (2011)		1	
+	Bandura A., Health promotion by social cognitive means, Health Education & Behavior, 31, pp. 143-164, (2004)		1	
+	Bandura A., Social foundation of thought and action: A social cognitive theory, (1986)		1	
+	Barber B.R., Consumption: How markets corrupt children, infantilize adults, and swallow citizens whole, (2007)		1	
+	Barbosa S.D.J., Silva B.S., Silveira M.S., Gasparini I., Darin T., Barbosa G.D.J., Interação Humano-Computador E Experiência Do Usuário. Autopublicação, (2021)		1	
+	Bartle  R A., Designing Virtual Worlds, (2003)		1	
+	Bartle R., Players who suit MUDs, Journal of MUD Research, 1, 1, (1996)		1	
+	Bartle R.A., Designing Virtual Worlds, (2003)		1	
+	Bartle R.A., Designing Virtual Worlds, (2004)		1	
+	Bartle R.A., Designing Virtual Worlds, (2004)		1	
+	Bartsch A., Emotional gratification in entertainment experience: Why viewers of movies and television series find it rewarding to experience emotions, Media Psychology, 15, 3, pp. 267-302, (2012)		1	
+	Bartsch A., Hartmann T., The role of cognitive and affective challenge in entertainment experience, Communication Research, 44, 1, pp. 29-53, (2017)		1	
+	Bates B., Game Design (2nd Ed.), (2004)		1	
+	Bateson G., Steps to an ecology of the mid: Collected essays in anthropology, psychiatry, evolution, and epistemology, (2000)		1	
+	Bateson, Capra, F & Luisi, PL 2014, The Systems View of Life: A Unifying Vision, (2014)		1	
+	Baxter L.R., Bloom F.E., Kupfer D.J., Psychopharmacology: The fourth generation of progress, Neuroimaging Studies of Human Anxiety Disorders: Cutting Paths of Knowledge Through the Field of Neurotic Phenomena, pp. 1287-1299, (1995)		1	
+	Beck U., Giddens A., Lasch S., Reflexive modernization: Politics, tradition and aesthetics in the modern social order, (1994)		1	
+	Becker M.H., The health belief model and personal health behavior, Health Education Monographs, 2, pp. 324-473, (1974)		1	
+	Begy J., Consalvo M., Achievements, motivations and rewards in faunasphere, Game Studies, 11, 1, (2011)		1	
+	Bellotti F., Berta R., De Gloria A., D'ursi A., Fiore V., A serious game model for cultural heritage, Journal on Computing and Cultural Heritage, 5, 4, pp. 1-27, (2012)		1	
+	Bellotti F., Berta R., De Gloria A., Primavera L., Enhancing the educational value of video games, Computers in Entertainment, 7, 2, pp. 1-18, (2009)		1	
+	Bellotti F., Berta R., De Gloria A., Primavera L., Player experience evaluation: An approach based on the personal construct theory, Entertainment computing – ICEC 2009, (2009)		1	
+	Bellotti F., Berta R., De Gloria A., Zappi V., exploring gaming mechanisms to enhance knowledge acquisition in virtual worlds, Proceedings of the 3rd International Conference on Digital Interactive Media in Entertainment and Arts - DIMEA ’08, pp. 77-84, (2008)		1	
+	Bellotti F., Kapralos B., Lee K., Moreno-Ger P., Berta R., Assessment in and of serious games: An overview, In advances in human-computer interaction volume 2013, 2013, pp. 1-12, (2013)		1	
+	Belman J., Flanagan M., Designing games to foster empathy, Cognitive Technology, 14, 2, pp. 5-15, (2010)		1	
+	Benford S., Greenhalgh C., Giannachi G., Walker B., Marshall J., Rodden T., Uncomfortable interactions, Proc. CHI 2012, ACM, pp. 2005-2014, (2012)		1	
+	Benford S., Greenhalgh C., Giannachi G., Walker B., Marshall J., Rodden T., Uncomfortable Interactions, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 2005-2014, (2012)		1	
+	Bense M., Aesthetica: Einführung in die Neue Aesthetik, (1965)		1	
+	Berry D.B., Imaginary playmates in real-time or why online game suck, Computer Game Developers Conference, (1997)		1	
+	Berson M.J., Effectiveness of computer technology in social studies: A review of the literature, Journal of Research on Computing in Education, 28, 4, pp. 486-499, (1996)		1	
+	Beth Oliver M., Bartsch A., Appreciation as audience response: exploring entertainment gratifications beyond hedonism, Human Communication Research, 36, 1, pp. 53-81, (2010)		1	
+	Beth Oliver M., David Bowman N., Woolley J.K., Rogers R., Sherrick B.I., Chung M., Video games as meaningful entertainment experiences, Psychology of Popular Media Culture, 5, 4, (2016)		1	
+	Beth Oliver M., Exploring the paradox of the enjoyment of sad films, Human Communication Research, 19, 3, pp. 315-342, (1993)		1	
+	Betz J.A., Computer games: Increase learning in an interactive multidisciplinary environment, Journal of Educational Technology Systems, 24, 2, pp. 195-205, (1995)		1	
+	Biddiss E., Irwin J., Active video games to promote physical activity in children and youth: A systematic review, Archives of Pediatrics & Adolescent Medicine, 164, 7, pp. 664-672, (2010)		1	
+	Biddle R., Khaled R., Fischer R., Noble J., A qualitative study of culture and persuasion in a smoking cessation game, Proc of the 3rd International Conference on Persuasive Technology, pp. 224-236, (2008)		1	
+	Biles M., Leveraging insights from mainstream gameplay to inform STEM game design: Great idea, but what comes next?, Cult. Stud. Sci. Educ., 7, 4, pp. 903-908, (2012)		1	
+	Bilgihan A., Gen Y customer loyalty in online shopping: An integrated model of trust, user experience and branding, Computers in human behavior, 61, pp. 103-113, (2016)		1	
+	Birk M.V., Buttlar B., Bowey J.T., Poeller S., Thomson S.C., Baumann N., Mandryk R.L., The effect s of social exclusion on play experience and hostile cognitions in digital games, pp. 3007-3019, (2016)		1	
+	Birks M., Hoare K., Mills J., Grounded theory: The FAQs, International Journal of Qualitative Methods, 18, (2019)		1	
+	Birks M., Mills J., Grounded theory: A practical guide, (2015)		1	
+	Biskup H., Anatomically correct character modeling, Gamasutra, 2, (1998)		1	
+	Blackmore S.J., Memes, creativity and consciousness, Aesthetica Magazine, 13, 50, (2006)		1	
+	Blackmore S.J., Memes, minds and imagination, SusanBlackmore.co.UK, (2007)		1	
+	Blackmore S.J., The Meme Machine, (1999)		1	
+	Bleszinski C., The Art and Science of Level Design, Session #4404 at GDC 2000, (2000)		1	
+	Bloom H., The Lucifer Principle: A Scientific Expedition into the Forces of History, (1995)		1	
+	Boden M., The Creative Mind		1	
+	Boffel C., Wurger S., Musseler J., Schlittmeier S.J., Character Customization with Cosmetic Microtransactions in Games: Subjective Experience and Objective Performance, Front. Psychol, 12, (2022)		1	
+	Bogost I., Persuasive Games: The Expressive Power of Video Games, (2007)		1	
+	Bogost I., Persuasive Games: The Expressive Power of Videogames, (2007)		1	
+	Bogost I., Persuasive Games: the Expressive Power of Videogames, (2007)		1	
+	Bogost I., Play anything: the pleasure of limits, the uses of boredom, and the secret of games, (2018)		1	
+	Bogost I., Why gamification is bullshit, The Gameful World: Approaches Issues, Applications, pp. 65-79, (2014)		1	
+	Boltanski L., Chiapello E., The new spirit of capitalism, International Journal of Politics, Culture, and Society, 18, 3-4, pp. 161-188, (2005)		1	
+	Boltz M., Schulkind M., Kantra S., Effects of Background Music on the Remembering of Filmed Events, Mem. Cogn, 19, pp. 593-606, (1991)		1	
+	Bonanno P., Kommers P.A., Gender differences and styles in the use of digital games, Educational Psychology, 25, pp. 13-41, (2005)		1	
+	Boon C.S., Clydesdale F.M., A review of childhood and adolescent obesity interventions, Critical Reviews of Food Science and Nutrition, 45, pp. 511-525, (2005)		1	
+	Bordwell D., The art cinema as a mode of film practice, Film Criticism, 4, 1, pp. 56-64, (1979)		1	
+	Bostock D., Pleasure and activity in Aristotle's ethics, Phronesis, 33, 3, pp. 251-272, (1988)		1	
+	Bothona C., Nesteriuk S., Jogos Soulslike: Como a diversificação de contexto pode ajudar a consolidar o gênero, SBGAMES, pp. 1-4, (2021)		1	
+	Bottino R., Ferlino L., Ott M., Tavella M., Developing strategic and reasoning abilities with computer games at primary school level, Computers & Education, 49, pp. 1272-1286, (2007)		1	
+	Boud D., Feletti G., The Challenge of Problem Based Learning, (1991)		1	
+	Bourdieu P., Johnson R.E., The Field of Cultural Production: Essays on Art and Literature, (1993)		1	
+	Bourdieu P., Outline of a Theory of Practice, 16, (1977)		1	
+	Bown A., Enjoying it: Candy Crush and capitalism, (2015)		1	
+	Boyd B., Art and evolution: The avant-garde as test case -spiegelman in the narrative corpse, Evolution, Literature and Film: A Reader, (2010)		1	
+	Boyd B., On the Origin of Stories: Evolution, Cognition, and Fiction, pp. 13-15, (2009)		1	
+	Boyle E., Connolly T.M., Hainey T., The role of psychology in understanding the impact of computer games, Entertainment Computing, 2, 2, pp. 69-74, (2011)		1	
+	Boyle E.A., Connolly T.M., Hainey T., Boyle J.M., Engagement in digital entertainment games: A systematic review, Computers in Human Behavior, 28, pp. 771-780, (2012)		1	
+	Boyle E.A., Connolly T.M., Hainey T., The role of psychology in understanding the impact of computer games, Entertainment Computing, 2, pp. 69-74, (2011)		1	
+	Bracken C.C., Jeffres L.W., Neuendorf K.A., Criticism or praise? the impact of verbal versus text-only computer feedback on social presence, intrinsic motivation, and recall, CyberPsychology & Behavior, 7, 3, pp. 349-357, (2004)		1	
+J. R. Wolpaw, N. Birbaumer, D. J. McFarland, G. Pfurtscheller and T. M. Vaughan	Brain-computer interfaces for communication and control	Clin. Neurophysiol., vol. 113, no. 6, pp. 767-791, 2002.	1	
+	Brandenburger A.M., Nalebuff B.J., Co-opetition, (1996)		1	
+	Brathwaite B., Schreiber I., Challenges for game designers, Charles River Media, (2008)		1	
+	Bricker L.A., Bell P., “GodMode is his video game name”: Situating learning and identity in structures of social practice, Cult. Stud. Sci. Educ., 7, 4, pp. 883-902, (2012)		1	
+	Brock T., Videogame consumption: The apophatic dimension, Journal of Consumer Culture, 17, 2, pp. 167-183, (2017)		1	
+	Brown D.E., Human Universals, (1991)		1	
+	Brown E., Cairns P., A grounded investigation of game immersion, Conference on Human Factors in Computing Systems, pp. 1297-1300, (2004)		1	
+	Brown R.M., Hall L.R., Holtzer R., Brown S.L., Brown N.L., Gender and video game performance, Sex Roles, 36, pp. 793-812, (1997)		1	
+	Brown S., Scalable City Interactive Installation, (2007)		1	
+	Brown S.J., Lieberman D.A., Gemeny B.A., Fan Y.C., Wilson D.M., Pasta D.J., Educational video game for juvenile diabetes: Results of a controlled trial, Medical Information, 22, pp. 77-89, (1997)		1	
+	Browne C., Automatic Generation and Evaluation of Recombination Games, (2008)		1	
+	Browne C., Automatic Generation and Evaluation of Recombination Games, (2008)		1	
+	Browne K., Anand C., An empirical evaluation of user interfaces for a mobile video game, Entertainment Computing, 3, pp. 1-10, (2012)		1	
+	Brownfield S., Vik G., Teaching basic skills with computer games, Training and Developmental Journal, 37, 2, pp. 52-56, (1983)		1	
+	Brug J., Glanz K., van Assema P., Kok G., van Breuklen G.J.P., The impact of computer-tailored feedback and iterative feedback on fat, fruit, and vegetable intake, Health Education and Behavior, 25, pp. 517-531, (1998)		1	
+	Brug J., Oenema A., Kroeze W., Raat H., The Internet and nutrition education: Challenges and opportunities, European Journal of Clinical Nutrition, 59, (2005)		1	
+	Brug J., Steenhuis I., van Assema P., de Vries H., The impact of a computer-tailored nutrition intervention, Preventive Medicine, 25, pp. 236-242, (1996)		1	
+	Brumbaugh A.M., Lee R.G., Gender and technology-based games, Advances in Consumer Research, 30, pp. 91-93, (2003)		1	
+	Brunner C., Bennett D., Honey M., Cassell J., Jenkins H., From Barbie to Mortal Kombat: Gender and Computer Games, pp. 72-88, (1998)		1	
+	Buchinger D., Hounsell S., Design De Jogos Sérios Colaborativos-Competitivos: Lições Aprendidas, pp. 404-413, (2015)		1	
+	Burns K., Atoms of EVE′: A Bayesian Basis for Aesthetic Analysis of Style in Sketching, Artificial Intelligence for Engineering Design, Analysis and Manufacturing, 20, pp. 185-199, (2006)		1	
+	Burns K., Bayesian beauty: On the art of EVE and the act of enjoyment, AAAI Workshop on Computational Aesthetics, (2006)		1	
+	Burns K., Bayesian Beauty: On the Art of EVE′ and the Act of Enjoyment. Proceedings of the AAAI Workshop on Computational Aesthetics, (2006)		1	
+	Burns K., Bayesian Inference in Disputed Authorship: A Case Study of Cognitive Errors and a New System for Decision Support, Information Sciences, 176, pp. 1570-1589, (2006)		1	
+	Burns K., Dubnov S., Memex Music and Gambling Games: EVE's Take on Lucky Number 13. Proceedings of the AAAI Workshop on Computational Aesthetics, (2006)		1	
+	Burns K., Mental Models and Normal Errors, How Professional Make Decisions, (2005)		1	
+	Burns K., Mental Models of Line Drawings, Perception, 30, 6, pp. 1249-1261, (2001)		1	
+	Buschkuehl M., Jaeggi S.M., Improving intelligence: A literature review, Swiss Medical Weekly, 140, 19-20, pp. 266-272, (2010)		1	
+	Bushnell N., Bristow S., Wozniak S., Breakout, (1976)		1	
+	Butcher S., Aristotle Poetics, (1951)		1	
+	Byrne W., Schnier T., Hendley R.J., Computational intelligence and case-based creativity in design, Proceedings of the International Joint Workshop on Computational Creativity 2008, pp. 31-40, (2008)		1	
+	Caillois R., Man, Play and Games, (2001)		1	
+	Caillois R., Man, Play, and Games, (2001)		1	
+	Cairns P., Cox A., Nordin A.I., Immersion in Digital Games: Review of Gaming Experience Research, Handbook of Digital Games, pp. 337-361, (2014)		1	
+	Caldwell J.E., Clickers in the large classroom: Current research and best-practice tips, Life Sciences Education, 6, pp. 9-20, (2007)		1	
+	Campbell D.T., Evolutionary epistemology, The Philosophy of Karl Popper, 1, pp. 413-459, (1974)		1	
+Maria Chamorro	Can We Explain Students Failure in Learning Multiplication?	Teaching Multiplication with Lesson Study, pp. 256-289, 2021.	1	
+	Caplin A., Dean M., Dopamine, reward prediction error, and economics, Quarterly Journal of Economics, 123, 2, pp. 663-701, (2008)		1	
+	Capra F., Luisi P.L., The Systems View of Life: A Unifying Vision, (2014)		1	
+	Carroll J., Correcting for the corrections: A darwinian critique of a foucauldian novel, Style, 47, 1, pp. 87-118, (2013)		1	
+	Carroll J., Evolution and Literary Theory, (1995)		1	
+	Casazza K., Ciccazzo M., Improving the dietary patterns of adolescents using a computer-based approach, Journal of School Health, 76, pp. 43-46, (2006)		1	
+	Caserman P., Et al., Quality criteria for serious games: Serious part, game part, and balance, JMIR Serious Games, 8, (2020)		1	
+	Cederstrom C., The happiness fantasy, (2018)		1	
+L. Johnson, G. N. Yannakakis and J. Togelius	Cellular automata for real-time generation of infinite cave levels	Proceedings of the 2010 Workshop on Procedural Content Generation in Games, pp. 1-4, 2010.	1	
+	Celtek E., Mobile advergames in tourism marketing, Journal of Vacation Marketing, 16, pp. 267-281, (2010)		1	
+L. Deng and X. Huang	Challenges in adopting speech recognition	Commun. ACM, vol. 47, no. 1, pp. 69-75, 2004.	1	
+	Chang D., Dooley L., Tuovinen J.E., Gestalt theory in visual screen design — A new look at an old subject, Proceedings of the Seventh world conference on computers in education conference on Computers in education: Australian topics, 8, pp. 5-12, (2002)		1	
+	Chang H. H., Wang I. C., An investigation of user communication behavior in computer mediated environments, Computers in human behavior, 24, 5, pp. 2336-2356, (2008)		1	
+	Chang J.H., Zhang H.X., Analyzing online game player: From materialism and motivation to attitude, CyberPsychology & Behavior, 11, pp. 711-714, (2008)		1	
+	Charmaz K., Constructing grounded theory, (2014)		1	
+	Charmaz K., Constructing grounded theory, (2014)		1	
+	Charsky D., From edutainment to serious games: A change in the use of game characteristics, Games and Culture, 5, 2, pp. 177-198, (2010)		1	
+	Chattopadhyay B., Reconstructing Atmospheres: Ambient Sound in Film and Media Production, Commun. Public, 2, pp. 352-364, (2017)		1	
+	Chen F.X., King A.C., Hekler E.B., Healthifying exergames: Improving health outcomes through intentional priming, Proceedings of the 32nd Annual ACM Conference on Human Factors in Computing Systems, pp. 1855-1864, (2014)		1	
+	Chen J., Flow in games (and Everything Else), Communications of the ACM, 50, 4, (2007)		1	
+	Chen J., Flow in games: Flow theory, JenovaChen.com, (2006)		1	
+	Cheng J.M.S., Kao L.L.Y., Lin J.Y.C., An investigation of the diffusion online games in Taiwan: An application of roger's diffusion of innovation theory, Journal of American Academy of Business, 5, pp. 439-445, (2004)		1	
+	Chin J., Dukes R., Gamson W., Assessment in Simulation and Gaming: A review of the last 40 years, Simulation & Gaming, 40, 9, pp. 553-568, (2009)		1	
+	Choi D., Kim J., Why people continue to play online games: In search of critical design factors to increase customer loyalty to online contents, CyberPsychology & Behavior, 7, pp. 11-24, (2004)		1	
+	Chou C., Tsai M.J., Gender differences in Taiwan high school students' computer game playing, Computers in Human Behavior, 23, pp. 812-824, (2007)		1	
+	Clanton C., An interpreted demonstration of computer game design, CHI'98, pp. 1-2, (1998)		1	
+	Clarke-Willson S., Applying game design to virtual environments, Gamasutra, 2, 1, (1998)		1	
+	Coello Coello C.A., Theoretical and numerical constraint-handling techniques used with evolutionary algorithms: A survey of the state of the art, Computer Methods in Applied Mechanics and Engineering, 191, 11-12, pp. 1245-1287, (2002)		1	
+	Cohen J., Cohen P., West S.G., Aiken L.S., Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences, (2002)		1	
+	Cohen J., Defining Identification: A Theoretical Look at the Identification of Audiences with Media Characters, Mass Commun. Soc, 4, pp. 245-264, (2001)		1	
+	Cohen P., Empirical Methods in Artificial Intelligence, (1995)		1	
+	Cole T., Gillies M., Thinking and doing: Challenge, agency, and the eudaimonic experience in video games, Games and Culture, 16, 2, pp. 187-207, (2021)		1	
+	Collins H., Tacit and explicit knowledge, (2010)		1	
+	Compas B.E., Wagner B.M., Slavin L.A., Vannatta K., A prospective study of life events, social support, and psychological symtomatology during the transition from high school to college, American Journal of Community Psychology, 14, pp. 241-257, (1986)		1	
+	Compton K., Mateas M., Procedural level design for platform games, 2nd Artificial Intelligence and Interactive Digital Entertainment Conference, pp. 109-111, (2006)		1	
+	Compton K., Mateas M., Procedural level design for platform games, Proc. 2nd Artif. Intell. Interactive Digit. Entertain. Conf., pp. 109-111, (2006)		1	
+	Compton K., Mateas M., Procedural Level Design for Platform Games, Proceedings of AIIDE 2006, (2006)		1	
+	Computational Aesthetics: Artificial Intelligence Approaches to Beauty and Happiness, (2006)		1	
+	Computer based simulation of laboratory experiments, British Journal of Educational Technology, 28, 1, pp. 51-63, (1997)		1	
+	Computerspiele—Anteil der Spieler in Deutschland, (2023)		1	
+	Computing at Chaos Manor: Optical disk daze, BYTE, 15, 2, pp. 99-114, (1990)		1	
+	Connolly T.M., Boyle E.A., Macarthur E., Hainey T., Boyle J.M., A systematic literature review of empirical evidence on computer games and serious games, Computers & Education, 59, 2, pp. 661-686, (2012)		1	
+M. Ware, P. McCullagh, A. McRoberts, G. Lightbody, C. Nugent, G. McAllister, et al.	Contrasting levels of accuracy in command interaction sequences for a domestic brain-computerinterface using SSVEP	Proc. 5th CIBEC, pp. 150-153, 2010.	1	
+	Conway S., Zombification?: Gamification, motivation, and the user, Journal of Gaming & Virtual Worlds, 6, 2, pp. 129-141, (2014)		1	
+	Corbin J., Strauss A., Basics of qualitative research: Techniques and procedures for developing grounded theory, (2008)		1	
+	Corbin J., Strauss A., Basics of qualitative research: Techniques and procedures for developing grounded theory, (2008)		1	
+	Corneliussen H., Rettberg J.W., Digital Culture, Play, and Identity: A World of Warcraft Reader, (2008)		1	
+	Cosmides L., Tooby J., The multimodular nature of human intelligence, Origin and Evolution of Intelligence, (1997)		1	
+	Costikyan G., I have no words & i must design, British Role-Playing Journal of Interactive Imaginativeness, 2, (1994)		1	
+	Cowley B., Et al., Experience assessment and design in the analysis of gameplay, Simul. Gaming, 45, pp. 41-69, (2014)		1	
+	Crawford C., Art of Computer Game Design, (1984)		1	
+	Crawford C., Networked interpersonal games, Interactive Entertainment Design, 8, (1995)		1	
+	Crawford C., Three levels of interaction, Journal of Computer Game Design, 1, (1987)		1	
+	Croll J.K., Neumark-Sztainer D., Story M., Healthy eating: What does it mean to adolescents?, Journal of Nutrition Education, 33, pp. 193-198, (2001)		1	
+	Crookall D., Serious games, debriefing, and simulation/gaming as a discipline, Simulation & Gaming, 41, 6, pp. 898-920, (2010)		1	
+	Csikszentmihalyi M., A systems perspective on creativity, Creative Management and Development, pp. 3-17, (2006)		1	
+	Csikszentmihalyi M., Beyond Boredom and Anxiety, (1975)		1	
+	Csikszentmihalyi M., Beyond boredom and anxiety: Experiencing flow in work and play, (1985)		1	
+	Csikszentmihalyi M., Beyond boredom and anxiety: The experience of play in work and games, (1975)		1	
+	Csikszentmihalyi M., Creativity: Flow and the Psychology of Discovery and Invention, (1997)		1	
+	Csikszentmihalyi M., Creativity: Flow and the psychology of discovery and invention, (1997)		1	
+	Csikszentmihalyi M., Creativity: Flow and the Psychology of Discovery and Invention, pp. 111-113, (1996)		1	
+	Csikszentmihalyi M., Csikszentmihalyi I.S., Optimal Experience: Psychological Studies of Flow in Consciousness, (1988)		1	
+	Csikszentmihalyi M., Finding Flow: The psychology of engagement with everyday life, (1998)		1	
+	Csikszentmihalyi M., Finding Flow: The Psychology of Engagement with Everyday Life, (1998)		1	
+	Csikszentmihalyi M., Flow: The psychology of optimal experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1990)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1991)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1991)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1991)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1991)		1	
+	Csikszentmihalyi M., Flow: The Psychology of Optimal Experience, (1991)		1	
+	Csikszentmihalyi M., Massimini F., On the psychological selection of bio-cultural information, New Ideas in Psychology, 3, 2, pp. 115-138, (1985)		1	
+	Csikszentmihalyi M., Society, culture, and person: A systems view of creativity, The Nature of Creativity, pp. 325-339, (1988)		1	
+	Csikszentmihalyi M., The systems model of creativity and its applications, The Wiley Handbook of Genius, pp. 533-545, (2014)		1	
+	Csikszentmihalyi M., Wolfe R., New conceptions and research approaches to creativity: Implications for a systems perspective of creativity in education, International Handbook of Giftedness and Talent, (2000)		1	
+	Culture of the Internet, pp. 143-155, (1997)		1	
+	CyberFeminism: Connectivity, critique & creativity, pp. 213-249, (1999)		1	
+	Cyberspace: First steps, pp. 81-118, (1991)		1	
+	Daneels R., Bowman N.D., Possler D., Mekler E.D., The 'eudaimonic experience': A scoping review of the concept in digital games research, Media and Communication, 9, 2, pp. 178-190, (2021)		1	
+	Danet D., Katriel T., No two alike: Play and aesthetics in collecting, Interpreting Objects and Collections, (1989)		1	
+	D'Aprix R., Tyler C.F., Four essential ingredients for transforming culture, Strategic Communication Management, 10, pp. 22-25, (2006)		1	
+	DATAFOLHA: Mercado De Games No Brasil		1	
+	Davis F. D., A technology acceptance model for empirically testing new end-user information systems: Theory and results, (1985)		1	
+	Davis F. D., Bagozzi R. P., Warshaw P. R., User acceptance of computer technology: A comparison of two theoretical models, Management science, 35, 8, pp. 982-1003, (1989)		1	
+	Davis F. D., Perceived usefulness, perceived ease of use, and user acceptance of information technology, MIS quarterly, 13, 3, pp. 319-340, (1989)		1	
+	Dawkins R., The Selfish Gene, (1976)		1	
+	De Freitas S., Oliver M., How can exploratory learning with games and simulations within the curriculum be most effectively evaluated?, Computers and Education, 46, 3, pp. 249-264, (2006)		1	
+	De Jean J., Upitis R., Koch C., Young J., The story of 'Phoenix Quest': How girls respond to a prototype language and mathematics computer game, Gender and Education, 11, pp. 207-223, (1999)		1	
+	De Martino B., Kumaran D., Seymour B., Dolan R., Frames, Biases and Rational Decision-making in the Human Brain, Science, 313, pp. 684-687, (2006)		1	
+	Dear Esther. Game [multi-format], (2012)		1	
+	Debord G., Society of the Spectacle, (2012)		1	
+	Deci E.L., Intrinsic Motivation, (1975)		1	
+	Deci E.L., Ryan R.M., Self-determination theory, Handbook of Theories of Social Psychology, 1, pp. 416-437, (2012)		1	
+J. Liu, A. Khalifa, Snodgrass, S. Risi, G. N. Yannakakis and J. T. Togelius	Deep learning for procedural content generation	Neural Computing and Applications volume, vol. 33, pp. 19-37, 2021.	1	
+	Definitions (Stanford Encyclopedia of Philosophy)		1	
+	Dempsey J.V., Rasmussen K., Lucassen B., Instructional gaming: Implications for instructional technology, Annual Meeting of the Association for Educational Communications and Technology, (1994)		1	
+	Dena C., Transmedia Practice: Theorising the Practice of Expressing A Fictional World Across Distinct Media and Environments, (2009)		1	
+	Denisova A., Ayumi Bopp J., Duong Nguyen T., Mekler E.D., Whatever the Emotional Experience, It's Up to Them": Insights from Designers of Emotionally Impactful Games, Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, (2021)		1	
+	Denisova A., Cairns P., Guckelsberger C., Zendle D., Measuring perceived challenge in digital games: development & validation of the challenge originating from recent gameplay interaction scale (CORGIS), International Journal of Human-Computer Studies, 137, (2020)		1	
+	Denisova A., Guckelsberger C., Zendle D., Challenge in Digital Games: Towards Developing a Measurement Tool, Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems, pp. 2511-2519, (2017)		1	
+	Dennett D.C., Darwin's Dangerous Idea: Evolution and the Meanings of Life, (1995)		1	
+	Design principles for online communities, PC Update, 15, 5, pp. 58-60, (1998)		1	
+Satrio Adi Rukmono, Fais Zharfan Azif and Muhammad Zuhri Catur Candra	Designing an Educational Game Evaluation Framework Based on Game Mechanics	2021 9th International Conference on Information and Communication Technology ICoICT 2021, pp. 98-103, Aug 2021.	1	
+T. Zander and S. Jatzev	Detecting affective covert user states with passive brain-computerinterfaces	Proc. 3rd ACII, pp. 1-9, 2009.	1	
+	Deterding S., Khaled R., Nacke L., Dixon D., (2011)		1	
+	Deterding S., Sicart M., Nacke L., O'Hara K., Dixon D., Gamification: using game-design elements in non-gaming contexts, Proceedings of the 2011 Annual Conference Extended Abstracts on Human Factors in Computing Systems-CHI EA 2011, (2011)		1	
+	Detroit: Become Human. Game [PS4 and PC], (2018)		1	
+	DeWinter J., Kocurek C.A., Nichols R., Taylorism 2.0: Gamification, scientific management and the capitalist appropriation of play, Journal of Gaming & Virtual Worlds, 6, 2, pp. 109-127, (2014)		1	
+	Dietz T.L., An examination of violence and gender role portrayals in video games: Implications for gender socialization and aggressive behavior, Sex Roles, 38, pp. 425-442, (1998)		1	
+D. B. Clark, E. Tanner-Smith and S. Killingsworth	Digital Games Design and Learning: A Systematic Review and Meta-Analysis	Review of Educational Research, 2015.	1	
+	Diller D., Roberts B., Blankenship S., Nielsen D., (2004)		1	
+	Dillon A., Morris M. G., User acceptance of information technology: Theories and models, Annual Review of Information Science and Technology (ARIST), 31, pp. 3-32, (1996)		1	
+	Din F.S., Calao J., The effects of playing educational video games on kindergarten achievement, Child Study Journal, 31, 1, pp. 95-102, (2001)		1	
+	Dipaola S., Gabora L., Incorporating characteristics of human creativity into an evolutionary art algorithm, Genetic Programming and Evolvable Machines, 10, 2, pp. 97-110, (2009)		1	
+	Djaouti D., Alvarez J., Jessel J.-P., Methel G., Molinier P., A gameplay definition through videogame classification, International Journal of Computer Games Technology, 2008, pp. 1-7, (2008)		1	
+	Doak C.M., Visscher T.L., Renders C.M., Seidell J.C., The prevention of overweight and obesity in children and adolescents: A review of interventions and programmes, Obesity Review, 7, pp. 111-136, (2006)		1	
+	Dormans J., Adventures in level design: Generating missions and spaces for action adventure games, Proc. Workshop Procedural Content Generat. Games, pp. 11-18, (2010)		1	
+	Dormans J., Adventures in level design: Generating missions and spaces for action adventure games, Proceedings of the 2010 Workshop on Procedural Content Generation in Games, (2010)		1	
+	Dormans J., Level Design as Model Transformation: A Strategy for Automated Content Generation, Proceedings of PCGames 2011, (2011)		1	
+	Dorner R., Gobel S., Effelsberg W., Wiemeyer, J, (2016)		1	
+	Dowell J., Long J., A conception of the cognitive engineering design problem, Ergonomics, 41, 2, pp. 126-139, (1998)		1	
+	Dowell J., Long J., Towards a conception for an engineering discipline of human factors, Ergonomics, 32, 11, pp. 1513-1535, (1989)		1	
+	Down to earth sociology, pp. 272-277, (2001)		1	
+	Dragon Quest VI: Realms of Reverie on Nintendo DS, (2010)		1	
+	Draper S.W., Oatley K., Action centered manuals or minimalist instruction? Alternative theories for Carroll's minimal manuals, Computers and Writing: State of the Art, pp. 222-243, (1992)		1	
+	Dubnov S., McAdams S., Reynolds R., Predicting Human Reactions to Music on the Basis of Similarity Structure and Information Theoretic Measures of Sound Signal. Proceedings of the AAAI Symposium on Style and Meaning in Language, Music, Art and Design, (2004)		1	
+	Dubnov S., Thoughts		1	
+	Ducheneaut N., Moore R.J., The social side of gaming: A study of interaction patterns in a massively multiplayer online game, Proc. of ACM CSCW, (2004)		1	
+	Dunne A., Hertzian Tales: Electronic Products, Aesthetic Experience, and Critical Design, (2006)		1	
+	Dunwell I., De Freitas S., Petridis P., Hendrix M., Arnab S., Lameras P., Stewart C., A game-based learning approach to road safety: He code of everand, Proc. CHI 2014, pp. 3389-3398, (2014)		1	
+	Dupuis E.C., Ramsey M.A., The relation of social support to depression in massively multiplayer online role-playing games, Journal of Applied Social Psychology, 41, pp. 2479-2491, (2011)		1	
+	Durkin K., Barber B., Not so doomed: Computer game play and positive adolescent development, Journal of Applied Developmental Psychology, 23, pp. 373-392, (2002)		1	
+	Dutton D., The Art Instinct: Beauty, Pleasure and Human Evolution, pp. 51-61, (2010)		1	
+	Dyer-Witheford N., de Peuter G., Games of empire: Global capitalism and video games, (2009)		1	
+	Edery D., Mollick E., Changing the Game: How Video Games Are Transforming the Future of Business, (2008)		1	
+	Editora Melhoramentos: Diversão. Michaelis On-Line		1	
+	Eifermann R.R., Social play in childhood, Child's Play, (1971)		1	
+Jung von Matt AG	Electronics Arts GmbH, and GEE Magazin (Redaktionswerft GmbH)	Spielplatz Deutschland. Hamburg: Jung von Matt AG, 2006, in German.	1	
+T. M. Cover and J. A. Thomas	Elements of Information Theory	USA, NY, New York:Wiley, 2006.	1	
+	Elliott E., Dweck C., Goals: An approach to motivation and achievement, Journal of Personality and Social Psychology, 54, 1, pp. 5-12, (1988)		1	
+	Entertainment-education and social change, (2004)		1	
+E. Tulving	Episodic memory: From mind to brain	Annual review of psychology, vol. 53, no. 1, pp. 1-25, 2002.	1	
+	Epstein R., Consciousness, art, and the brain: lessons from Marcel Proust, Consciousness and cognition, 13, 2, pp. 213-240, (2004)		1	
+	Eshach H., Bridging in-school and out-of-school learning: Formal, non-formal, and informal education, J. Sci. Educ. Technol., 16, 2, pp. 171-190, (2007)		1	
+B. van de Laar, B. Reuderink, D. P.-O. Bos and D. Heylen	Evaluating user experience of actual andimagined movement in BCI gaming	Int. J. Gaming Comput. Mediated Simulations, vol. 2, no. 4, pp. 33-47, 2010.	1	
+	Everybody's Gone to the Rapture, (2015)		1	
+S. M. Lucas and G. Kendall	Evolutionary Computation and Games	IEEE Computational Intelligence Magazine, pp. 10-18, 2006.	1	
+V. Volz, J. Schrum, J. Liu, S. M. Lucas, A. Smith and S. Risi	Evolving mario levels in the latent space of a deep convolutional generative adversarial network	Proceedings of the Genetic and Evolutionary Computation Conference, pp. 221-228, 2018.	1	
+G. N. Yannakakis and J. Hallam	Evolving Opponents for Interesting Interactive Computer Games	Proc. of the 8th International Conference on the Simulation of Adaptive Behavior, 2004.	1	
+G. N. Yannakakis and J. Togelius	Experience-driven procedural content generation	IEEE Transactions on Affective Computing, vol. 2, no. 3, pp. 147-161, 2011.	1	
+R. J. K. Jacob	Eye movement-based human-computerinteraction techniques: Toward noncommand interfaces	Advances Human-Comput. Interaction, no. 4, pp. 151-190, 1993.	1	
+R. Jacob and K. Karn	Eye tracking in human-computer interaction and usability research: Ready to deliverthe promises	Mind, vol. 2, no. 3, pp. 573-605, 2003.	1	
+	Falk J.H., Hall W., Understanding the informal science education landscape: An exploratory study, Public Underst. Sci., 21, 7, pp. 865-874, (2012)		1	
+	Fallout 4. Game [multi-format], (2015)		1	
+	Faul F., Erdfelder E., Lang A.-G., Buchner A., G*Power 3: A Flexible Statistical Power Analysis Program for the Social, Behavioral, and Biomedical Sciences, Behav. Res. Methods, 39, pp. 175-191, (2007)		1	
+	Feinstein N., Salvaging science literacy, Sci. Educ., 95, 1, pp. 168-185, (2011)		1	
+	Feldman J., Singh M., Information Along Contours and Object Boundaries, Psychological Review, 112, 1, pp. 243-252, (2005)		1	
+	Feynman R.P., Don't You Have Time to Think?, (2005)		1	
+	Feynman R.P., Photon-hadron Interactions, Frontiers in Physics, (1972)		1	
+	Fisher J., How to Make Insane, Procedural Platformer Levels. Gamasutra, (2014)		1	
+	Fizek S., Interpassivity and the joy of delegated play in idle games, Transactions of the Digital Games Research Association, 3, 3, pp. 137-163, (2018)		1	
+	Flanagan M., Critical Play: Radical Game Design, (2009)		1	
+	Flanagan M., Nissenbaum H., A game design methodology to incorporate social activist themes, Proc. CHI 2007, pp. 181-190, (2007)		1	
+M. Csikszentmihályi	Flow: The Psychology of Optimal Experience	New York: HarperCollins, 1990.	1	
+	Formanek R., Why they collect: Collectors reveal their motivations, Interpreting Objects and Collections, (1994)		1	
+	Fowler A., Informal STEM learning in game jams, hackathons and game creation events, Proceedings of the International Conference on Game Jams, Hackathons, and Game Creation Events, pp. 38-41, (2016)		1	
+	Frederick S., Cognitive Reflection and Decision Making, Journal of Economic Perspectives, 19, 4, pp. 25-42, (2005)		1	
+M. Zyda	From Visual Simulation to Virtual Reality to Games	Computer, vol. 38, no. 9, pp. 25-32, 2005.	1	
+	Fu C.S., Wu W.Y., The means-end cognitions of web advertising: A cross-cultural comparison, Online Information Review, 34, pp. 686-703, (2010)		1	
+	Fu X., Chen X., Shi Y.-T., Bose I., Cai S., User segmentation for retention management in online social games, Decision Support Systems, 101, pp. 51-68, (2017)		1	
+	Fuchs M., Fizek S., Ruffino P., Schrape N., Rethinking gamification, (2014)		1	
+	Fullerton T., Furmanski T., ValaNejad K., Journey of discovery: the night journey, ACM SIGGRAPH Video Game Symposium, (2007)		1	
+	Fullerton T., Game Design Workshop: A Playcentric Approach to Creating Innovative Games. 3rd Ed., (2014)		1	
+	Fumerton R.A., The paradox of analysis, Philos. Phenomenol. Res, 43, pp. 477-497, (1983)		1	
+A. Rollings and D. Morris	Game Architecture and Design: A New Edition	New Riders Games, 2003.	1	
+P. Sweetser and P. Wyeth	GameFlow: a model for evaluating player enjoyment in games	Computers in Entertainment (CIE) - Theoretical and Practical Computer Applications in Entertainment, vol. 3, no. 3, July 2005.	1	
+Sangkyun Kim, Kibong Song, Barbara Lockee and John Burton	Gamification in Learning and Education	Gamification in Learning and Education, 2018.	1	
+	Gaming—Anteil der Spieler in Deutschland nach Alter, (2023)		1	
+	Gardial S.F., Celmons D.S., Woodruff R.B., Schumann D.W., Burns M.J., Comparing consumers' recall of prepurchase and postpurchase product evaluation experiences, Journal of Consumer Research, 20, pp. 548-560, (1994)		1	
+	Gardner H., Frames of Mind: The Theory of Multiple Intelligences, (1983)		1	
+	Gardner H., The Unschooled Mind: How Children Think and How Schools Should Teach, (1991)		1	
+	Garlick D., Intelligence and the Brain: Solving the Mystery of Why People Differ in IQ and How A Child Can Be A Genius, (2010)		1	
+	Garris R., Ahlers R., Driskell J.E., Games, motivation, and learning: A research and practice model, Simulation & Gaming, 33, pp. 441-472, (2002)		1	
+	Gaver W., Bowers J., Kerridge T., Boucher A., Jarvis N., Anatomy of a failure: How we knew when our design went wrong, and what we learned from it, Proc. CHI 2009, pp. 2213-2222, (2009)		1	
+	Gaver W.W., Beaver J., Benford S., Ambiguity as a Resource for Design, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 233-240, (2003)		1	
+	Gears of War 3. Game [XBox360], (2011)		1	
+	Gee J.P., Pleasure, learning, video games, and life: The projective stance, E-learning and Digital Media, 2, 3, pp. 211-223, (2005)		1	
+	Gee J.P., What Video Games Have to Teach Us about Learning and Literacy, (2003)		1	
+	Gee J.P., What Video Games Have to Teach Us about Learning and Literacy, (2003)		1	
+	Gee J.P., What Video Games Have to Teach Us about Learning and Literacy, (2007)		1	
+D. Perez-Liebana, J. Liu, A. Khalifa, R. D. Gaina, J. Togelius and S. M. Lucas	General video game AI: A multitrack framework for evaluating agents games and content generation algorithms	IEEE Transactions on Games, vol. 11, no. 3, pp. 195-214, 2019.	1	
+D. Perez-Liebana, S. M. Lucas, R. D. Gaina, J. Togelius, A. Khalifa and J. Liu	General Video Game Artificial Intelligence	Morgan Claypool Publishers, 2019, [online] Available: https://gaigresearch.github.io/gvgaibook/.	1	
+R. N. Engelsvoll, A. Gammelsrød and B.- I. S. Thoresen	Generating levels and playing Super Mario Bros	with deep reinforcement learning using various techniques for level generation and deep q-networks for playing, 2020.	1	
+	Gengler C., Reynolds T., Consumer understanding and advertising strategy: Analysis and strategic translation of laddering data, Journal of Advertising Research, 35, pp. 19-32, (1995)		1	
+	Gerrig R.J., Experiencing Narrative Worlds, (1993)		1	
+	Gibson J.J., The theory of affordances, Perceiving, Acting, and Knowing, (1977)		1	
+	Giddens A., The consequences of modernity, (1990)		1	
+	Glaser B.G., Basics of grounded theory analysis: emergence vs forcing, (1992)		1	
+	Glaser B.G., Strauss A., The discovery of grounded theory: strategies for qualitative research, (1967)		1	
+	Glaser B.G., Strauss A.L., Discovery of substantive theory: A basic strategy underlying qualitative research, American Behavioral Scientist, 8, 6, pp. 5-12, (1965)		1	
+	Glaser B.G., Theoretical sensitivity: Advances in the methodology of grounded theory, (1978)		1	
+	Glass Brian D., Maddox Todd W., Love Bradley C., Real-time strategy game training: Emergence of a cognitive flexibility trait, PLoS ONE, 2013, 8, (2013)		1	
+	Global Entertainment and Media Outlook: 2012-2016, (2012)		1	
+G. S. Foundation	GNU General Public License, version 2	2001. [Online]. Available: http://www.gnu.org/licenses/gpl-2.0.httnl	1	
+	Goffman E., Encounters: Two studies in the sociology of interaction, (1972)		1	
+	Gomez J., The 8 Defining Characteristics of A Transmedia Production, (2007)		1	
+	Gorgu L., O'Hare G.M., O'Grady M.J., Towards mobile collaborative exergaming, Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services. Second International Conference on IEEE 2009, pp. 61-64		1	
+M. Slater	Grand Challenges in Virtual Environments	Frontiers in Robotics and AI, vol. 1, May 2014.	1	
+	Grand Theft Auto V. Game [multi], (2013)		1	
+	Graves L.E., Ridgers N.D., Stratton G., The contribution of upper limb and total body movement to adolescents' energy expenditure whilst playing Nintendo Wii, European Journal of Applied Physiology, 104, pp. 617-623, (2008)		1	
+	Green M.C., Brock T.C., The role of transportation in the persuasiveness of public narratives, Journal of Personality and Social Psychology, 79, pp. 701-721, (2000)		1	
+	Green M.C., Chatham C., Sestir M.A., Emotion and transportation into fact and fiction, Scientific Study of Literature, 2, 1, pp. 37-59, (2012)		1	
+	Greenberg B.S., Sherry J., Lachlan K., Lucas K., Holmstrom A., Orientations to video games among gender and age groups, Simulation & Gaming, 41, pp. 238-259, (2008)		1	
+	Gregor S., Jones D., The anatomy of a design theory, Journal of the Association for Information Systems, 8, 5, pp. 312-335, (2007)		1	
+	Griffiths M.D., Amusement machine playing in childhood and adolescence: a comparative analysis of video games and fruit machines, J. Adolesc, 14, pp. 53-73, (1991)		1	
+	Griffiths M.D., Davies M.N.O., Chappell D., Breaking the stereotype: The case of online gaming, CyberPsychology and Behavior, 6, pp. 81-91, (2003)		1	
+	Griffiths M.D., The educational benefits of videogames, Education and Health, 20, 3, pp. 47-51, (2002)		1	
+	Grimshaw M., Lindley C., Nacke L., Sound and Immersion in the First-Person Shooter: Mixed Measurement of the Player’s Sonic Experience, Proceedings of the Audio Mostly—A Conference on Interaction with Sound		1	
+	Gros L., Debue N., Lete J., Van De Leemput C., Video game addiction and emotional states: Possible confusion between pleasure and happiness?, Frontiers in Psychology, 10, (2020)		1	
+	Guo Y., Barnes S., Why people buy virtual items in virtual worlds with real money, The DATA BASE for Advances in Information Systems, 38, 4, pp. 69-76, (2007)		1	
+	Gutman J., A means-end chain model based on consumer categorization processes, Journal of Marketing, 46, pp. 60-72, (1982)		1	
+	Haehn L., Borowczak L., Schlittmeier S.J., Boffel C., Soundscaping the Game World: The Impact of Character and Ambient Sounds on Immersion and Avatar Identification, Proceedings of the 1st AUDICTIVE Conference, pp. 92-95		1	
+	Haehn L., Schlittmeier S.J., Boffel C., I Hear, Therefore I Am—Influence of Sound Design in Videogames, Proceedings of the DAGA 2023, pp. 1648-1651		1	
+	Hagopian M., The Legend of Zelda Walkthrough, (2018)		1	
+	Hainey T., Connolly T.M., Stansfield M.H., Boyle E.A., The differences in motivations of online game players and offline game players: A combined analysis of three studies at higher education level, Computers & Education, 57, pp. 2197-2211, (2011)		1	
+	Halberstam J., The queer art of failure, (2011)		1	
+	Halbert H., Nathan L.P., Designing for negative affect and critical reflection, Ext. Abstracts CHI 2014, pp. 2569-2574, (2014)		1	
+	Hallford N., Hallford J., Swords and Circuitry: A Designer's Guide to Computer Role Playing Games, (2001)		1	
+	Hallford: Swords and Circuitry: A Designer's Guide to Computer Role Playing Games, (2001)		1	
+	Harik G.R., Learning Gene Linkage to Efficiently Solve Problems of Bounded Difficulty Using Genetic Algorithms, (1997)		1	
+	Hartmann T., Media entertainment as a result of recreation and psychological growth, The International Encyclopedia of Media Studies, (2013)		1	
+	Hastings E., Guha R., Stanley K., Demonstrating automatic content generation in the Galactic Arms Race video game, Proceedings of Artificial Intelligence for Interactive Digital Entertainment Conference, (2009)		1	
+	Hastings E.J., Guha R.K., Stanley K.O., Interactive evolution of particle systems for computer graphics and animation, IEEE Trans. Evol. Comput., 13, 2, pp. 418-432, (2009)		1	
+	Hays R.T., The effectiveness of instructional games: A literature review and discussion, (2005)		1	
+W. A. IJsselsteijn, Y. A. W. Kort and K. Poels	he Game Experience Questionnaire	Eindhoven:Technische Universiteit Eindhoven, 2013.	1	
+	Healthy people 2010: Understanding and improving health, (2000)		1	
+	Heatey K.R., Thombs D.L., Fruit-vegetable consumption self-efficacy in youth, American Journal of Health Behavior, 21, 3, pp. 172-177, (1997)		1	
+	Heavy Rain. Game [PS3], (2010)		1	
+	Hebb D.O., Drives and the C.N.S (Conceptual nervous system), Psychological Review, 62, pp. 243-254, (1955)		1	
+	Hechanova-Alampay R., Beehr T.A., Christiansen N.D., Van Horn R.K., Adjustment and strain among domestic and international student sojourners: A longitudinal study, School Psychology International, 23, pp. 458-474, (2002)		1	
+	Hedden C., A Guided Exploration Model of Problem-solving Discovery Learning, (1998)		1	
+	Hedden C., Re: ITFORUM Paper #30 (Jones), (1998)		1	
+	Hefner D., Klimmt C., Vorderer P., Identification with the Player Character as Determinant of Video Game Enjoyment, Proceedings of the Entertainment Computing—ICEC 2007, pp. 39-48, (2007)		1	
+	Hefny A., Hatem A., Shalaby M., Atiya A., Cerberus: Applying supervised and reinforcement learning techniques to capture the flag games, Proc. 4th Artificial Intelligence and Interactive Digital Entertainment Conference, (2008)		1	
+	Helliar C.V., Michaelson R., Power D.M., Sinclair C.D., Using a portfolio management game (Finesse) to teach finance, Accounting Education, 9, 1, pp. 37-51, (2000)		1	
+	Hendrikx M., Meijer S., Van Der Velden J., Iosup A., Procedural content generation for games: A survey, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 9, 1, (2013)		1	
+	Henning B., Vorderer P., Psychological Escapism: Predicting the Amount of Television Viewing by Need for Cognition, J. Commun, 51, pp. 100-120, (2001)		1	
+	Henriksen T.D., (2006)		1	
+J. Pearl	Heuristics: Intelligent Search Strategies for Computer Problem Solving	Boston: Addison Wesley, 1984.	1	
+	Hevner A.R., March S.T., Park J., Ram S., Design science in information systems research, MIS Quarterly, 28, 1, pp. 75-105, (2004)		1	
+	Hight J., Novak J., Game Development Essentials: Game Project Management, (2007)		1	
+	Hochschild A.R., The managed heart: Commercialization of human feeling, (1983)		1	
+	Hoffman H., Patterson H., Virtual reality pain distraction, American Pain Society Bulletin, 15, 2, (2005)		1	
+	Hoffman R., Hayes P., The Pleasure Principle, IEEE Intelligent Systems, pp. 86-89, (2004)		1	
+	Hollins P., Playing is the new learning, E.Learning Age, (2003)		1	
+	Holsti O.R., Content Analysis for the Social Sciences and Humanities, (1969)		1	
+	Homer P., Kahle L., A structural equation test of the value-attitude-behaviour hierarchy, Journal of Personality and Social Psychology, 54, pp. 638-646, (1988)		1	
+	Honey M., Hilton M.L., Learning Science through Computer Games and Simulations, (2011)		1	
+	Hopkins I., Roberts D., Chocolate-covered Broccoli’? Games and the teaching of literature, Chang. Engl. Stud. Cult. Educ, 22, pp. 222-236, (2015)		1	
+	Hopson J., The Psychology of Choice, (2002)		1	
+	Horgan A., Lost in work, (2021)		1	
+	Horton D., Richard Wohl R., Mass communication and para-social interaction: observations on intimacy at a distance, Psychiatry, 19, 3, pp. 215-229, (1956)		1	
+	Hosseini S. M., Fattahi R., Databases’ interface interactivity and user self-efficacy: Two mediators for flow experience and scientific behavior improvement, Computers in human behavior, 36, pp. 316-322, (2014)		1	
+	Houssart J., Sams C., Developing mathematical reasoning through games of strategy played against the computer, International Journal for Technology in Mathematics Education, 15, pp. 59-71, (2008)		1	
+	Hoysniemi J., International survey on the Dace Dance Revolution game, ACM Computers in Entertainment, 4, 2, pp. 1-30, (2006)		1	
+	Hsu C.-L., Exploring the player flow experience in e-game playing, International Journal of Technology and Human Interaction (IJTHI), 6, 2, pp. 47-64, (2010)		1	
+	Hudlicka E., Affective computing for game design, GAMEON-NA'08: Proceedings of the 4th Intl. North American Conference on Intelligent Games and Simulation, (2008)		1	
+	Huizinga J., Homo Ludens, (2000)		1	
+	Huizinga J., Homo Ludens: A Study of the Play Element in Culture, (1950)		1	
+	Huizinga J., Homo Ludens: a Study of the Play Element in Culture, (1970)		1	
+	Huizinga J., Homo Ludens: A study of the play-element in culture, (1949)		1	
+	Huizinga J., Homo Ludens: A Study of the Play-Element in Culture, (2003)		1	
+	Huizinga J., In the shadow of tomorrow: A diagnosis of the spiritual distemper of our time, (1936)		1	
+	Hull D.C., Williams G.A., Griffiths M.D., Video game characteristics, happiness and flow as predictors of addiction among video game players: A pilot study, Journal of Behavioral Addictions, 2, 3, pp. 145-152, (2013)		1	
+D. Sjolie	Human brains and virtual realities: Computer-generated presence in theory and practice	05 2013.	1	
+K. M. Stanney, R. R. Mourant and R. S. Kennedy	Human Factors Issues in Virtual Environments: A Review of the Literature	Presence: Teleoperators and Virtual Environments, vol. 7, no. 4, pp. 327-351, August 1998.	1	
+L. Fadiga, L. Craighero and E. Olivier	Human motor cortex excitability during the perception of others action	Current Opin. Neurobiol., vol. 15, no. 2, pp. 213-218, 2005.	1	
+	Hunicke R., Chapman V., AI for dynamic difficulty adjustment in games, AAAI Workshop - Technical Report, WS-04-04, pp. 91-96, (2004)		1	
+	Hunicke R., Chapman V., Ai for dynamic difficulty adjustment in games, AAAI Workshop on Challenges in Game Artificial Intelligence, pp. 91-96, (2004)		1	
+	Hunicke R., Leblanc M., Zubek R., MDA: A formal approach to game design and game research, AAAI Work.-Tech. Rep. WS-04-04, pp. 1-5, (2004)		1	
+	Hunicke R., Leblanc M., Zubek R., MDA: A formal approach to game design and game research, AAAI Workshop - Technical Report, WS-04-04, pp. 1-5, (2004)		1	
+	Hunicke R., Leblanc M., Zubek R., MDA: a formal approach to game design and game research, AAAI Workshop-Technical report WS-04-04, pp. 1-5, (2004)		1	
+	Hunicke R., LeBlanc M., Zubek R., MDA: A formal approach to game design and game research, Challenges in Game AI Workshop, Nineteenth National Conference on Artificial Intelligence, pp. 1-5, (2004)		1	
+	Hunicke R., LeBlanc M., Zubek R., MDA: A Formal Approach to Game Design and Game Research, Proceedings of the 2004 AAAI Workshop on Challenges in Game Artificial Intelligence, (2004)		1	
+	Hunicke R., Leblanc M., Zubek R., MDA: A formal approach to game design and gameresearch, Challenges in Game Artificial Intelligence. 2004 AAAI Workshop, (2004)		1	
+	Hunicke R., The case for dynamic difficulty adjustment in games, Proc. ACM SIGCHI International Conference on Advances in Computer Entertainment Technology, pp. 429-433, (2005)		1	
+	Hupcey J.E., Morse J.M., Lenz E.R., Tason M.C., Wilsonian methods of concept analysis: a critique, Sch. Inq. Nurs. Pract, 10, pp. 185-210, (1996)		1	
+	Huron D., Sweet Anticipation: Music and the Psychology of Expectation, (2006)		1	
+	Hutchins E.L., Hollan J.D., Norman D.A., Direct manipulation interfaces, User Centered System Design, pp. 87-124, (1986)		1	
+	Iacovides I., Cox A.L., Designing persuasive games through competition, Paper Presented at Workshop on Persuasive Participatory Design for Serious Game Design: Truth and Lies, at CHI Play 2014, (2014)		1	
+	Iacovides I., McAndrew P., Scanlon E., Aczel J.C., The gaming involvement and informal learning framework, Simulation & Gaming		1	
+	Iacovides I., Mekler E.D., The Role of Gaming During Difficult Life Experiences, pp. 1-12, (2019)		1	
+	IJsselsteijn W., Et al., Measuring the experience of digital game enjoyment, (2008)		1	
+	IJsselsteijn W.A., de Kort Y.A.W., Poels K., The Game Experience Questionnaire, (2013)		1	
+	IJsselsteijn W.A., De Kort Y.A.W., Poels K., The Game Experience Questionnaire, (2013)		1	
+S. Thompson, W. Armstrong and C. Thomas	Illusions of control underestimations and accuracy: A control heuristicexplanation	Psychol. Bull., vol. 123, no. 2, pp. 143-143, 1998.	1	
+J. Yap Yin Gwee	Immersive Simulation Games: A case study of learning in a 3D multiuser virtual environment	ScholarBank@NUS Repository, 2012.	1	
+S. Risi and J. Togelius	Increasing generality in machine learning through procedural content generation	Nature Machine Intelligence, vol. 2, no. 8, pp. 428-436, 2020.	1	
+G. Birch, Z. Bozorgzadeh and S. Mason	Initial on-line evaluations of the LF-ASD brain-computer interface withable-bodied and spinal-cord subjects using imagined voluntary motor potentials	IEEE Trans. Neural Syst. Rehabilitat. Eng., vol. 10, no. 4, pp. 219-224, Dec. 2002.	1	
+G. Riva, J. Waterworth and D. Murray	Interacting with Presence: HCI and the Sense of Presence in Computer-mediated Environments	DE GRUYTER OPEN, jan 2014.	1	
+	Ito M., Sociocultural contexts of game-based learning. The National Academies of Sciences, Engineering, Medicine, Paper Presented at the Workshop for the National Academy of Science’s Committee on Learning Science: Computer Games, Simulations, and Education, (2009)		1	
+C. Mohs, J. Hurtienne, J. Israel, A. Naumann, M. Kindsmüller, H. Meyer, et al.	IUUI: Intuitive use of userinterfaces	Usability Professionals, vol. 6, pp. 130-133, 2006.	1	
+	Iyer V., Bilmes J., Wessel D., Wright M., A Novel Representation for Rhythmic Structure, Proceedings of the 23rd International Computer Music Conference, (Thessaloniki, Hellas, 1997), pp. 97-100, (1997)		1	
+	Jakobsson M., The achievement machine: Understanding Xbox 360 achievements in gaming practices, Game Studies, 11, 1, (2011)		1	
+	Janis I.L., King B.T., The influence of incentive conditions on the success of role playing in modifying attitudes, Journal of Personality and Social Psychology, 1, pp. 17-27, (1965)		1	
+	Janssen D.F., Puerilities/masculinities: Introducing a special issue on boyish temporalities, Boyhood Studies, 7, 2, pp. 97-104, (2013)		1	
+	Jenkins H., First Person: New Media As Story, (2004)		1	
+	Jenkins H., The Wow Climax: Tracing the Emotional Impact of Popular Culture, (2007)		1	
+	Jenkins H., Transmedia Storytelling, (2003)		1	
+	Jenkins H., Videogames on the Threshold of Art', (2001)		1	
+	Jennett C., Cox A.L., Cairns P., Dhoparee S., Epps A., Tijs T., Walton A., Measuring and Defining the Experience of Immersion in Games, Int. J. Hum.-Comput. Stud, 66, pp. 641-661, (2008)		1	
+	Jennings-Teats M., Smith G., Wardrip-Fruin N., Polymorph: Dynamic difficulty adjustment through level generation, Proc. Workshop Procedural Content Generat. Games, pp. 111-114, (2010)		1	
+	Jeremiassen K.S., Differences in students’ stem identity, game play motivations, and game preferences. Doctoral Dissertation, University of Houston-Clear Lake, (2018)		1	
+	Jhones E., Nascimento F., Abreu A.C.S., Lira F.A., Procedural Generation of Isometric Racetracks Using Chain Code for Racing Games, (2021)		1	
+	Johnson D., Wiles J., Effective affective user interface design in games, Ergonomics, 46, pp. 1332-1345, (2003)		1	
+	Jones M.G., Creating engagement in computer-based learning environments, ITForum, (1998)		1	
+	Jorge P.M., Tavares J., Cardoso A., Pereira F.B., Costa E., Evolving creativity, Computational Creativity Workshop, 7th European Conference in Case Based Reasoning, pp. 91-102, (2004)		1	
+	Juul J., Fear of failing? The many meanings of difficulty in video games, The Video Game Theory Reader, 2, pp. 237-252, (2009)		1	
+	Juul J., Half-real: Video games between real rules and fictional worlds, (2005)		1	
+	Juul J., The art of failure: An essay on the pain of playing video games, (2013)		1	
+	Juul J., The art of failure: An essay on the pain of playing video games, (2013)		1	
+	Kahle L.R., Beatty S.E., Homer P., Alternative measurement approaches to consumer values: The list of values (LOV) and values and life style (VALS), Journal of Consumer Research, 13, pp. 405-409, (1986)		1	
+	Kahle L.R., Social Values and Social Change, (1983)		1	
+	Kassarjian H.H., Content analysis in consumer research, Journal of Consumer Research, 4, pp. 8-18, (1977)		1	
+	Kato P.M., Beale I.L., Factors affecting acceptability to young cancer patients of a psychoeducational video game about cancer, Journal of Pediatric Oncology Nursing, 23, pp. 269-275, (2006)		1	
+	Katz E., Blumler J., Gurevitch M., Davison W.P., Yu F.T.C., Mass Communication Research: Major Issues and Future Directions, pp. 11-35, (1974)		1	
+	Kaur P., Dhir A., Chen S., Rajala R., Understanding online regret experience using the theoretical lens of flow experience, Computers in human behavior, 57, pp. 230-239, (2016)		1	
+	Kawale J., Pal A., Srivastava J., Churn Prediction in MMORPGs: A Social Influence Based Approach, International Conference on Computational Science and Engineering, pp. 423-428, (2009)		1	
+	Kaye L. K., Exploring flow experiences in cooperative digital gaming contexts, Computers in human behavior, 55, pp. 286-291, (2016)		1	
+	Kebritchia M., Hirumi A., Bai H., The effects of modern mathematics computer games on mathematics achievement and class motivation, Computers & Education, 55, 2, pp. 427-443, (2010)		1	
+	Kelly J.R., Freedom to Be: A New Sociology of Leisure, (2019)		1	
+	Kensing F., Blomberg J., Participatory Design: Issues and Concerns, Computer Supported Cooperative Work (CSCW), 7, 1993, pp. 167-185, (1998)		1	
+	Ketcheson M., Ye Z., Graham T.C.N., Designing for exertion: How heart-rate power-ups increase physical activity in exergames, CHI Play 2015-Proc. 2015 Annu. Symp. Comput. Interact. Play, pp. 79-90, (2015)		1	
+	Khalifa M., Limayem M., Liu V., A Contigency Theory for Online Customer Retention: The Role of Online Shopping Habit, Advanced Topics in Global Information Management, 3, pp. 39-55, (2004)		1	
+	Khan O., Ahmed I., Cottingham J., Rahhal M., Arvanitis T.N., Elliott M.T., Timing and Correction of Stepping Movements with a Virtual Reality Avatar, PLoS ONE, 15, (2020)		1	
+	Khoo E.T., Merritt T., Lim Fei V., Liu W., Rahaman H., Prasad J., Marsh T., Body music: physical exploration of music theory, ACM SIGGRAPH Video Games Symposium, (2008)		1	
+	Kicinger R., Arciszewski T., Jong K.D., Evolutionary computation and structural design: A survey of the state-of-the-art, Computers & Structures, 83, 23-24, pp. 1943-1978, (2005)		1	
+	Kimbrough S.O., Lu M., Wood D.H., Wu D.-J., Exploring a two-market genetic algorithm, Proc. Genetic Evol. Comput. Conf., pp. 415-422, (2002)		1	
+	Kimiecik J., Harris A., What is enjoyment? Conceptual/definitional analysis with implications for sport and exercise psychology, J. Sport Exerc. Psychol, 18, (1996)		1	
+	Kinder M., Playing with Power in Movies, Television, and Video Games: From Muppet Babies to Teenage Mutant Ninja Turtles, (1991)		1	
+	Kirkpatrick G., Computer games and the social imaginary, (2013)		1	
+	Kirriemuir J., McFarlane A., Literature Review in Games and Learning, (2004)		1	
+	Kirriemuir J., The Relevance of Video Games and Gaming Consoles to the Higher and Further Education Learning Experience, (2002)		1	
+	Klawe M.M., The educational potential of electronic games and the E-GEMS Project, Proceedings of the EDMEDIA 94 World Conference on Educational Multimedia and Hypermedia. Panel Discussion 'Can Electronic Games Make A Positive Contribution to the Learning of Mathematics and Science in the Intermediate Classroom?, (1994)		1	
+	Klimmt C., Possler D., May N., Auge H., Wanjek L., Wolf A.-L., Effects of Soundtrack Music on the Video Game Experience, Media Psychol, 22, pp. 689-713, (2019)		1	
+	Klug G., Schell J., Why people play games: An industry perspective, Playing Video Games: Motives, Responses, and Consequences, pp. 91-100, (2006)		1	
+	Knight J., Wood W.B., Teaching more by lecturing less, Cell Biology Education, 4, pp. 298-310, (2005)		1	
+	Koestler A., Janus: A Summing Up, (1978)		1	
+	Koestler A., The Act of Creation, (1964)		1	
+	Koestler A., The Ghost in the Machine, (1967)		1	
+	Kolar T., Linking customers and products by means-end chain analysis, Management, 12, pp. 69-83, (2007)		1	
+	Kolb A.Y., Kolb D.A., Learning styles and learning spaces: Enhancing experiential learning in higher education, Academy of Management Learning & Education, 4, 2, pp. 193-212, (2005)		1	
+	Kongmee I., Rebecca S., Montgomery C., Pickard A., Using massively multiplayer online role playing games (MMORPGs) to support second language learning: Action research in the real and virtual world, 2nd Annual IVERG Conference: Immersive Technologies for Learning: Virtual Implementation, Real Outcomes, (2011)		1	
+	Korean PC Game Development Company Communication, (1997)		1	
+	Kosterec M., Methods of Conceptual Analysis		1	
+	Kothari C.R., Research Methodology Methods & Techniques, (2004)		1	
+	Koufaris M., Applying the technology acceptance model and flow theory to online consumer behavior, Information Systems Research, 13, 2, pp. 205-223, (2002)		1	
+	Kragh Grodal T., Emotions, cognitions and narrative patterns in film, Passionate Views, Film, Cognition and Emotion, (1999)		1	
+	Kramarzewski A., Nucci E.D., Practical game design: Learn the art of game design through applicable skills and cutting-edge insights, (2018)		1	
+	Kremers R., Level Design: Concept, Theory, and Practice, (2009)		1	
+	Kreuter M., Farrell D., Olevitch L., Brennan L., Tailoring health messages: Customizing communication with computer technology, (2000)		1	
+	Kroeze W., Werkman A., Brug J., A systematic review of randomized trials on the effectiveness of computer-tailored education on physical activity and dietary behaviors, Annals of Behavioral Medicine, 31, pp. 205-223, (2006)		1	
+	Kuchcinski K., Szymanek R., JaCoP: Java Constraint Programming Library, (2010)		1	
+	Kuhn T.S., A Estrutura Das Revoluções Científicas (Tradução De Beatriz Vianna Boeira E Nelson Boeira), (2005)		1	
+	Kuppens R., Eriksen M.P., Adriaanse H.P., Nijhuis F.J.N., Aaron J.C., Determinants of fat and fiber consumption in American rural energy workers, Preventive Medicine, 25, pp. 212-217, (1996)		1	
+	Kyngas H., Duffy M.E., Kroll T., Conceptual analysis of compliance, J. Clin. Nurs, 9, pp. 5-12, (2000)		1	
+	LaBarbara P. A., Mazursky D., A longitudinal assessment of consumer satisfaction/dissatisfaction: the dynamic aspect of the cognitive process, Journal of marketing research, 20, 4, pp. 393-404, (1983)		1	
+	Lam S.F., Yim P.S., Law J.S.F., Cheung R.W.Y., The effects of competition on achievement motivation in Chinese classrooms, British Journal of Educational Psychology, 74, pp. 281-296, (2004)		1	
+	Langer E.J., The Power of Mindful Learning, (1997)		1	
+	Langford C.P.H., Bowsher J., Maloney J.P., Lillis P.P., Social support: a conceptual analysis, J. Adv. Nurs, 25, pp. 95-100, (1997)		1	
+	Lankoski P., Computer games and emotions, The Philosophy of Computer Games, pp. 39-55, (2012)		1	
+	Laszlo E., Introduction to Systems Philosophy: Toward A New Paradigm of Contemporary Thought, pp. 88-97, (1972)		1	
+	Laurel B., Computers as Theatre, (1993)		1	
+	Laurel B., Strickland R., Tow R., Placeholder: landscape and narrative in virtual environments, Computer Graphics, ACM SIGGRAPH, 28, pp. 118-126, (1994)		1	
+	Lave J., Wenger E., Situated learning: Legitimate peripheral participation, (1991)		1	
+	Law E.L.-C., Bruhlmann F., Mekler E.D., Systematic Review and Validation of the Game Experience Questionnaire (GEQ)—Implications for Citation and Reporting Practice, Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play, pp. 257-270, (2018)		1	
+	Law Y.Y., eSports players: Gender – A balance between community and competition, Global eSports: Transformation of cultural perceptions of competitive gaming, pp. 297-314, (2021)		1	
+	Layder D., Sociological practice - Linking theory and practice, (1998)		1	
+	Lazzaro N., Keeker K., What's my method? A game show on games, Extended Abstracts of the 2004 Conference on Human Factors in Computing Systems, pp. 1093-1094, (2004)		1	
+	Lazzaro N., Understand emotions, Beyond Game Design: Nine Steps Toward Creating Better Videogames, (2009)		1	
+	Lazzaro N., Why We Play Games: Four Keys to More Emotion Without Story, (2004)		1	
+	Lazzaro N., Why We Play Games: Four Keys to More Emotion Without Story, Game Dev. Conf., 8, (2004)		1	
+	Lazzaro N., Why we play games: four keys to more emotion without story, Game Developer Conference (GDC), pp. 1-8, (2004)		1	
+	League of Legends [Video game], (2009)		1	
+	Learning and teaching with interactive simulations, Social Education, 64, 3, pp. 142-145, (2000)		1	
+P. Shi and K. Chen	Learning constructive primitives for real-time dynamic difficulty adjustment in Super Mario Bros	IEEE Transactions on Games, vol. 10, no. 2, pp. 155-169, 2017.	1	
+	Learning tactics from a sports game-based simulation, International Journal of Computer Simulation, 5, 2, pp. 127-148, (1995)		1	
+M. Gallagher and A. Ryan	Learning to Play Pac-Man: An Evolutionary Rule-based Approach	in Proc. of the 2003 Congress on Evolutionary Computation (CEC'03), 2003. pp. 2462-2469.	1	
+	Leblanc M., Mechanics Dynamics, Aesthetics: A Formal Approach to Game Design, (2004)		1	
+	Lee G., Luo M., Zambetta F., Li X., Learning a super mario controller from examples of human play, Evolutionary Computation (CEC), 2014 IEEE Congress on, pp. 1-8, (2014)		1	
+	Lee K.C., Sul C.W., Wohn K.Y., Timeline-based virtual enviromnent description, HCI'97, pp. 29-34, (1997)		1	
+	Lee K.M., Peng W., A brief biography of computer game studies, Playing computer games: Motives, responses, and consequences, pp. 325-345, (2006)		1	
+	Lee S., I lose, therefore i think : A search for contemplation amid wars of push-button glare, Game Studies, (2003)		1	
+	Lee S., Jung K., Dynamic game level design using Gaussian mixture model, PRICAI'06: Proceedings of the 9th Pacific Rim International Conference on Artificial Intelligence, pp. 955-959, (2006)		1	
+	Lenhart A., Jones S., Macgill A.R., Adults and Video Games, (2008)		1	
+	Leonard Strauss A., Corbin J.M., Basics of qualitative research, 15, (1990)		1	
+	Leppard P., Russell C.G., Cox D.N., Improving means-end-chain studies by a ranking method to determine hierarchical value maps, Food Quality & Preference, 15, pp. 489-497, (2004)		1	
+	Lepper M.R., Greene D., The Hidden Costs of Reward: New Perspectives on the Psychology of Human Motivation, (1978)		1	
+	Lepper M.R., Malone T.W., Intrinsic motivation and instructional effectiveness in computer-based education, Aptitude, Learning and Instruction, pp. 255-286, (1987)		1	
+	Levy L.M., The Effects of Background Music on Video Game Play Performance, Behavior and Experience in Extraverts and Introverts, Georgia Institute of Technology, (2015)		1	
+	Li D., Browne G. J., Wetherbe J. C., Why do internet users stick with a specific web site? A relationship perspective, International journal of electronic commerce, 10, 4, pp. 105-141, (2006)		1	
+	Li R.Y., Wang C.H., Key factors and network model for location-based cultural mobile game design, Br. J. Educ. Technol., 51, pp. 2495-2512, (2020)		1	
+	Li Z., Cheng Y., Liu C., A constructionism framework for designing game-like learning systems: Its effect on different learners, British Journal of Educational Technology, 44, 2, pp. 208-224, (2013)		1	
+	Liang Y., Yau P.W., Effects of active videogames on physical activity and related outcomes among healthy children: A systematic review, GAMES for HEALTH: Research, Development, and Clinical Applications, 3, 3, pp. 122-144, (2014)		1	
+	Liapis A., Yannakakis G.N., Togelius J., Sentient Sketchbook: Computer-aided game level authoring, FDG, pp. 213-220, (2013)		1	
+	Lieberman D.A., Dance Games and Other Exergames: What the Research Says, (2006)		1	
+	Lieberman D.A., Interactive video games for health promotion: Effects on knowledge, self-efficacy, social support, and health, Health promotion and interactive technology, pp. 103-120, (1997)		1	
+	Lieberman D.A., What can we learn from playing interactive games?, Playing computer games: Motives, responses, and consequences, pp. 379-398, (2006)		1	
+	Lieberoth A., Shallow gamification, Games Cult, 10, pp. 229-248, (2015)		1	
+	Life is Strange. Game [multi], (2015)		1	
+	Life on the screen: Identity in the age of the Internet, (1997)		1	
+	Lim T., Louchart S., Suttie N., Ritchie J.M., Aylett R.S., Stanescu I.A., Moreno-Ger P., Strategies for effective digital games development and implementation, Cases on digital game-based learning: Methods, models, and strategies, pp. 168-198, (2013)		1	
+	Lin C.F., Quality-delivery system: A conceptual framework of attribute level-value linkages, Total Quality Management & Business Excellence, 14, pp. 1079-1092, (2003)		1	
+	Lin H., Sun C.T., Cash trade within the magic circle: Free-to-play game challenges and massively multiplayer online game player responses, Proceedings of DiGRA 2007, (2007)		1	
+	Lin J. C.-C., Online stickiness: its antecedents and effect on purchasing intention, Behaviour & information technology, 26, 6, pp. 507-516, (2007)		1	
+	Lin J.J., Mamykina L., Lindtner S., Delajoux G., Strub H.B., Fish'n'steps: Encouraging physical activity with an interactive computing game, Proc. UbiComp'06, pp. 261-278, (2006)		1	
+	Lin Y.L., Lin H.W., A study on the goal value for massively multiplayer online role-playing games players, Computers in Human Behavior, 27, pp. 2153-2160, (2011)		1	
+	Linehan C., Kirman B., Lawson S., Doughty M., Blow tooth: Pervasive gaming in unique and challenging environments, Ext. Abstracts CHI 2010, pp. 2695-2704, (2010)		1	
+	Liu C.-C., A model for exploring players flow experience in online games, Information Technology & People, 30, 1, pp. 139-162, (2017)		1	
+	Loewenstein G., Anticipation and the valuation of delayed consumption, The Economic Journal, 97, pp. 666-684, (1987)		1	
+	Loewenstein G., The psychology of curiosity: A review and reinterpretation, Psychological Bulletin, 116, 1, pp. 75-98, (1994)		1	
+	Lombard M., Snyder-Duch J., Bracken C.C., Content analysis in mass communication: Assessment and reporting of intercoder reliability, Human Communication Research, 28, pp. 587-604, (2002)		1	
+	Long J.D., Stevens K.R., Using technology to promote self-efficacy for healthy eating in adolescents, Journal of Nursing Scholarship, 36, pp. 134-139, (2004)		1	
+	Lopez-Mosquera N., Sanchez M., The influence of personal values in the economic-use valuation of peri-urban green spaces: An application of the means-end chain theory, Tourism Management, 32, pp. 875-889, (2011)		1	
+	Love Plus, (2009)		1	
+	Lu Y., Zhou T., Wang B., Exploring Chinese users’ acceptance of instant messaging using the theory of planned behavior, the technology acceptance model, and the flow theory, Computers in human behavior, 25, 1, pp. 29-39, (2009)		1	
+	Lucas K., Sherry J.L., Sex differences in video game play: A communication-based explanation, Communication Research, 31, pp. 499-523, (2004)		1	
+	Luhmann N., Social Systems, Writing Science, (1995)		1	
+	Luhmann N., Soziale Systeme: Grundriss Einer Allgemeinen Theorie, (1987)		1	
+	Ma J., Betts N.M., Horacek T., Georgiou C., White A., Assessing stages of change for fruit and vegetable intake in young adults: A combination of traditional staging algorithms and foodfrequency questionnaires, Health Education Research, 18, pp. 224-236, (2003)		1	
+	MacGlashan J., Burlap: Brown-UMBC Reinforcement Learning and Planning, (2016)		1	
+	MacQuarrie A., (2018)		1	
+	Mader S., Natkin S., Levieux G., How to analyse therapeutic games: The player/game/therapy model, Entertainment Computing-ICEC 2012, pp. 193-206, (2012)		1	
+	Maggiorini D., Nigro A., Ripamonti L.A., Trubian M., Loot Distribution in Massive Online Games: Foreseeing Impacts on the Players Base, Proc. of ICCCN 2012, (2012)		1	
+	Maggiorini D., Nigro A., Ripamonti L.A., Trubian M., The Perfect Looting System: Looking for a Phoenix?, Proc IEEE Conference on Computational Intelligence and Games (CIG 2012), (2012)		1	
+	Malone T., Toward a theory of intrinsically motivating instruction, Cognitive science, 5, pp. 333-369, (1981)		1	
+	Malone T.W., Heuristics for designing enjoyable user interfaces: Lessons from computer games, Proceedings of the 1982 Conference on Human Factors in Computing Systems, pp. 63-68, (1982)		1	
+	Malone T.W., Toward a theory in intrinsically motivating instruction, Cognitive Science, 5, pp. 333-369, (1981)		1	
+	Malone T.W., Toward a theory of intrinsically motivating instruction, Cogn. Sci, 5, pp. 333-369, (1981)		1	
+	Malone T.W., Toward a theory of intrinsically motivating instruction, Cognitive Science, 4, pp. 258-277, (1981)		1	
+	Malone T.W., Toward a theory of intrinsically motivating instructions, Cognitive Science, 5, 4, pp. 333-369, (1981)		1	
+	Malouf D.B., The effect of instructional computer games on continuing student motivation, Journal of Special Education, 21, pp. 27-38, (1987)		1	
+	Mandryk R.L., Atkins M.S., A fuzzy physiological approach for continuously modeling emotion during interaction with play technologies, Int. J. Hum. Comput. Stud., 65, pp. 329-347, (2007)		1	
+	Mark B., Berechet T., Mahlmann T., Togelius J., Procedural Generation of 3D Caves for Games on the GPU, Proceedings of Foundations of Digital Games (FDG), (2015)		1	
+	Marks J., Hom V., Automatic design of balanced board games, Proceedings of AIIDE, (2007)		1	
+	Marsh T., Activity-based scenario design, development and assessment in serious games, Gaming and Cognition: Theories and Practice from the Learning Sciences, pp. 214-227, (2010)		1	
+	Marsh T., Costello B., Lingering serious experience as trigger to raise awareness, encourage reflection and change behavior, Persuasive Technology, pp. 116-124, (2013)		1	
+	Marsh T., Li Zhiqiang N., Chuang X., Klopfer E., Osterweil S., Haas J.-M., Narrative and puzzle-based serious games and their relationship to students' engaged learning experience. CGames 2010, 15th International Conference on Computer Games: AI, Animation, Mobile, Interactive Multimedia, Educational & Serious Games, (2010)		1	
+	Marsh T., Presence as Experience: film informing ways of staying there, PRESENCE: Teleoperators and Virtual Environments, 12, 5, pp. 538-549, (2003)		1	
+	Marsh T., Presence as Experience: Framework to Assess Virtual Corpsing, Presence 2001: 4th International Workshop on Presence, (2001)		1	
+	Martin A., The design and evolution of a simulation/game for teaching information systems development, Simulation & Gaming, 31, 4, pp. 445-463, (2000)		1	
+	Martocchio J.J., Webster J., Effects of feedback and cognitive playfulness on performance in microcomputer software training, Personnel Psychology, 45, pp. 553-578, (1992)		1	
+	Marton F., Hounsell D., Entwistle N., The Experience of Learning, (1984)		1	
+	Maslow A.H., A theory of human motivation, Psychological Review, 50, 4, pp. 370-396, (1943)		1	
+	Mathieson K., Predicting user intentions: comparing the technology acceptance model with the theory of planned behavior, Information systems research, 2, 3, pp. 173-191, (1991)		1	
+	Matsuura M., Vib-ribbon, (1999)		1	
+	Mattila A., An analysis of means-end hierarchies in cross-cultural context: What motivates Asian and western business travelers to stay in luxury hotels?, Journal of Hospitality and Leisure Marketing, 6, pp. 19-28, (1999)		1	
+	Matvienko O., Lewis D.S., Schafer E., A college nutrition science course as an intervention to prevent weight gain in female college freshmen, Journal of Nutrition Education, 33, pp. 95-101, (2001)		1	
+	Maynard Smith J., Evolution and the Theory of Games, (1982)		1	
+	Mayo M.J., Video games: A route to large-scale stem education?, Science, 323, 5910, pp. 79-82, (2009)		1	
+	Mayra F., Pokémon GO: Entering the Ludic society, Mobile Media & Communication, 5, 1, pp. 47-50, (2017)		1	
+	McEntee C., Rational Design: The Core of Rayman Origins, Gamasutra, (2012)		1	
+	McGowan T., End of Dissatisfaction? The: Jacques Lacan and the Emerging Society of Enjoyment, (2012)		1	
+	McGuigan J., Neoliberal culture, (2016)		1	
+	McIntyre P., Creativity and Cultural Production: Issues for Media Practice, (2012)		1	
+	McMahan A., Immersion, engagement, and presence: A method for analyzing 3-d video games, Video Game Theory, pp. 67-86, (2003)		1	
+B. G. Witmer and M. J. Singer	Measuring presence in virtual environments: A presence questionnaire	Presence Teleoperators Virtual Environments, vol. 7, no. 3, pp. 225-240, 1998.	1	
+B. G. Witmer and M. J. Singer	Measuring Presence in Virtual Environments: A Presence Questionnaire	Presence: Teleoperators and Virtual Environments, vol. 7, no. 3, pp. 225-240, 1998.	1	
+	Meece J.L., Glienke B.B., Burg S., Gender and motivation, Journal of School Psychology, 44, pp. 351-373, (2006)		1	
+	Meier S., Civilization, (1991)		1	
+	Mekler E.D., Ayumi Bopp J., Tuch A.N., Opwis K., A Systematic Review of Quantitative Studies on the Enjoyment of Digital Entertainment Games, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp. 927-936, (2014)		1	
+	Mekler E.D., Bopp J.A., Tuch A.N., Opwis K., A systematic review of quantitative studies on the enjoyment of digital entertainment games, Proc. CHI 2014, pp. 927-936, (2014)		1	
+	Mekler E.D., Hornbaek K., Momentary Pleasure or Lasting Meaning Distinguishing Eudaimonic and Hedonic User Experiences, Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, pp. 4509-4520, (2016)		1	
+	Mekler E.D., Rank S., Steinemann S.T., Birk M.V., Iacovides I., Designing for Emotional Complexity in Games: The Interplay of Positive and Negative Affect, Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play Companion Extended Abstracts, pp. 367-371, (2016)		1	
+	Michael D., Chen S., Serious Games: Games that Educate, Train, and Inform, (2006)		1	
+	Michael D.R., Chen S.L., Serious Games: Games that Educate, Train, and Inform		1	
+	Michinov N., Jamet E., Metayer N., Le Henaff B., The eyes of creativity: Impact of social comparison and individual creativity on performance and attention to others’ ideas during electronic brainstorming, Computers in Human Behavior, 42, pp. 57-67, (2014)		1	
+	Miller J.G., Living Systems, (1978)		1	
+	Missura O., Gartner T., Player modeling for intelligent difficulty adjustment, DS '09: Proceedings of the 12th International Conference on Discovery Science, pp. 197-211, (2009)		1	
+	Mitchell A., The Nine American Lifestyles, (1983)		1	
+	Miyamoto S., Donkey Kong, (1981)		1	
+	Miyamoto S., Hino S., Tezuka T., Super Mario World, (1990)		1	
+	Miyamoto S., Nakago T., Tezuka T., The Legend of Zelda, (1986)		1	
+	Miyamoto S., Yamauchi H., Tezuka T., Super Mario Bros, (1987)		1	
+	Montola M., The positive negative experience in extreme role-playing, Proc. of 1st Nordic Di GRA 2010, (2010)		1	
+	Moreno R., Mayer R.E., Engaging students in active learning: The case for personalized multimedia messages, Journal of Educational Psychology, 92, pp. 724-733, (2000)		1	
+	Moser C., Fuchsberger V., Tscheligi M., Rapid assessment of game experiences in public settings, ACM Int. Conf. Proceeding Ser, pp. 73-82, (2012)		1	
+	Mouzelis N., Self and self–other reflexivity: The apophatic dimension, European Journal of Social Theory, 13, 2, pp. 271-284, (2010)		1	
+D. McFarland, L. Miner, T. Vaughan and J. Wolpaw	Mu and beta rhythm topographies duringmotor imagery and actual movements	Brain Topography, vol. 12, no. 3, pp. 177-186, 2000.	1	
+	Muller S.D., Ulrich F., Nielsen P.A., When process is getting in the way of creativity and innovation, pp. 221-229, (2014)		1	
+	Muller S.D., Ulrich F., The competing values of hackers: The culture profile that spawned the computer revolution, pp. 3434-3443, (2015)		1	
+	Mulligan J., Patrovsky B., Developing Online Games: An Insider's Guide, (2003)		1	
+Gerard Vergnaud	Multiplication Structures	in Acquisition of mathematics concepts and processes, London:Academic Press, pp. 128-175, 1983.	1	
+Gerard Vergnaud	Multiplicative Structures	in Numbers concepts and operations in middle grades, Hillsdale, NJ:Erlbaum, pp. 141-161, 1988.	1	
+	Muriel D., Crawford G., Video games as culture: Considering the role and importance of video games in contemporary society, (2018)		1	
+	Myers I.B., The Myers-Briggs Type Indicator: Manual (1962)., (1962)		1	
+	Myths and Mechanisms, (2003)		1	
+	Nacke L.E., Bateman C., Mandryk R.L., BrainHex: A neurobiological gamer typology survey, Entertain. Comput., 5, pp. 55-62, (2014)		1	
+	Nacke L.E., Drachen A., Goebel S., Methods for evaluating game play experience in a serious gaming context, International Journal of Computer Science in Sport, 9, 2, (2010)		1	
+	Nacke L.E., Grimshaw M.N., Lindley C.A., More than a Feeling: Measurement of Sonic User Experience and Psychophysiology in a First-Person Shooter Game, Interact. Comput, 22, pp. 336-343, (2010)		1	
+	Nah F. F.-H., Eschenbrenner B., DeWester D., Park S. R., Impact of flow and brand equity in 3D virtual worlds, Journal of Database Management, 21, 3, pp. 69-89, (2010)		1	
+	Narmour E., The Analysis and Cognition of Basic Melodic Structures: The Implication-Realization Model, (1990)		1	
+	Neal L., Implications of computer games for system design, Human Computer Interaction: INTERACT '90, pp. 93-99, (1990)		1	
+Global Digital Gaming Market (2018–2023)	Netscribes	pp. 90-100, May 2018, [online] Available: https://www.researchonglobalmarkets.com/global-digital-gaming-market-2018-2023.html.	1	
+	Neuendorf K.A., The Content Analysis Guidebook, (2002)		1	
+	Ng A.Y., Russell S.J., Algorithms for inverse reinforcement learning, Icml, pp. 663-670, (2000)		1	
+	Night in the Woods, (2017)		1	
+	Nine principles for making virtual communities work, Wired, 2, pp. 72-73, (1994)		1	
+	Nintendo R., The Legend of Zelda. Game [NES]., (1986)		1	
+	Nishikado T., Space Invaders, (1978)		1	
+M. Babuskov	NJam	2003. [Online]. Available: http://njam.sourceforge.net/	1	
+	Norman D.A., Affordance, conventions and design, Interactions, 6, 3, pp. 38-43, (1999)		1	
+	Novak T. P., Hoffman D. L., Duhachek A., The influence of goal‐directed and experiential activities on online flow experiences, Journal of consumer psychology, 13, 1-2, pp. 3-16, (2003)		1	
+	Novak T. P., Hoffman D. L., Yung Y.-F., Measuring the customer experience in online environments: A structural modeling approach, Marketing science, 19, 1, pp. 22-42, (2000)		1	
+	Nulty D.D., The adequacy of response rates to online and paper surveys: What can be done?, Assessment & Evaluation in Higher Education, 33, 3, pp. 301-314, (2008)		1	
+Terezinha	Nunes and Peter Bryant	Children doing mathematics, pp. 268, 1996.	1	
+	Oillespie T., Digital storytelling and computer game design, CHI '97, pp. 148-149, (1997)		1	
+	Olivas M., Li C., Understanding stressors for international students in higher education: What college counselors and personnel need to know, Journal of Instructional Psychology, 33, 3, pp. 217-222, (2006)		1	
+	O'Loughlin E.K., Dugas E.N., Sabiston C.M., O'Loughlin J.L., Prevalence and correlates of exergaming in youth, Pediatrics, 130, 5, pp. 806-814, (2012)		1	
+W. R. Thompson	On the likelihood that one unknown probability exceeds another in view of the evidence of two samples	Biometrika, vol. 25, no. 3/4, pp. 285-294, 1933.	1	
+K. O’hara, R. Harper, H. Mentis, A. Sellen and A. Taylor	On the naturalness of touchless: Putting the “interaction” back into NUI	ACM Trans. Comput. Hum. Interact, vol. 20, no. 1, pp. 25, April 2013.	1	
+P. Shi and K. Chen	Online level generation in Super Mario Bros via learning constructive primitives	2016 IEEE Conference on Computational Intelligence and Games (CIG), pp. 1-8, 2016.	1	
+	onwards. Assassins Creed series, (2007)		1	
+Angeliki Leonardou, Maria Rigou and John D Garofalakis	Opening User Model Data for Motivation and Learning: The Case of an Adaptive Multiplication Game	CSEDU, no. 1, pp. 383-390, 2019.	1	
+	Orlikowski W.J., Gash D.C.C., Technological frames - Making sense of information technology in organizations, ACM Transactions on Information Systems, 12, 2, pp. 174-207, (1994)		1	
+	Pagulayan R.J., Keeker K., Wixon D., Romero R.L., Fuller T., User-centered design in games, The Human-computer Interaction Handbook, pp. 883-906, (2003)		1	
+	Papastergiou M., Digital game-based learning in high school computer science education: Impact on educational effectiveness and student motivation, Computers & Education, 52, pp. 1-12, (2009)		1	
+	Papers, Please, (2013)		1	
+	Pasch M., Berthouze N., Dijk B., Nijholt A., Motivations, Strategies, and Movement Patterns of Video Gamers Playing Nintendo Wii Boxing, pp. 27-33, (2008)		1	
+	Pasch M., Bianchi-Berthouze N., Van Dijk B., Nijholt A., Movement-based sports video games: Investigating motivation and gaming experience, Entertainment Computing, 9, pp. 169-180, (2009)		1	
+	Patton M.Q., Qualitative Research and Evaluation Methods, (2002)		1	
+	Pausch R., Snoddy J., Taylor R., Watson S., Haseltine E., Disney's Aladdin: first steps toward storytelling in virtual reality, Digital Illusion: Entertaining the Future with High Technology, pp. 357-372, (1996)		1	
+A. Khalifa, P. Bontrager, S. Earle and J. Togelius	PCGRL: Procedural content generation via reinforcement learning	Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, vol. 16, no. 1, pp. 95-101, 2020.	1	
+	Pearl J., Causality: Models, Reasoning and Inference, (2000)		1	
+	Pedercini P., Videogames and the spirit of capitalism, Time & motion … redefining working life, pp. 61-67, (2013)		1	
+	Pedersen C., Togelius J., Yannakakis G., Modeling player experience in Super Mario Bros, Proc. IEEE Symp. Comput. Intell. Games, pp. 132-139, (2009)		1	
+	Peeren E., You must (not) be bored!, Boredom, Shanzhai, and Digitisation in the Time of Creative China, pp. 101-109, (2019)		1	
+	Peffers K., Tuunanen T., Rothenberger M.A., Chatterjee S., A design science research methodology for information systems research, Journal of Management Information Systems, 24, 3, pp. 45-77, (2008)		1	
+	Peng W., Crouse J., Playing in parallel: The effects of multiplayer modes in active video game on motivation and physical exertion, Cyberpsychology, Behavior, and Social Networking, 16, 6, pp. 423-427, (2013)		1	
+	Peng W., Klein J., Lee K.M., Will role playing video game influence how you judge? Favoritism towards similar roles and social judgments towards criminality, (2006)		1	
+	Peng W., Lin J.-H., Crouse J., Is playing exergames really exercising? A meta-analysis of energy expenditure in active video games, Cyberpsychology, Behavior and Social Networking, 14, 11, pp. 681-688, (2011)		1	
+	Peng W., Playing computer and video games: Entertainment, education, and beyond, (2005)		1	
+	Peng W., Theoretical guidance for using computer and video games for health intervention, (2005)		1	
+	Peng X., Huang J., Denisova A., Chen H., Tian F., Wang H., A Palette of Deepened Emotions: Exploring Emotional Challenge in Virtual Reality Games, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1-13, (2020)		1	
+	Perception as Bayesian Inference, (1996)		1	
+	Persausive Games., (2010)		1	
+B. L. A. van de Laar, H. Gürkök, D. P.-O. Bos, F. Nijboer and A. Nijholt	Perspectives on user experience evaluation of brain-computerinterfaces	Proc. 6th UAHCI, vol. LNCS 6766, pp. 600-609, 2011-Jun.	1	
+	Persson M., Terrain Generation, Part 1, (2011)		1	
+	Peter J.P., Olson J.C., Consumer Behavior & Marketing Strategy, (2010)		1	
+	Petri G., von Wangenheim C.G., Borgatto A.F., MEEGA+: Um modelo para a avaliação de jogos educacionais para o ensino de computação, Rev. Bras. Informática Na Educ., 27, pp. 52-81, (2019)		1	
+M. Meehan, B. Insko, M. Whitton and F. P. Brooks	Physiological measures of presence in stressful virtual environments	ACM Transactions on Graphics; Proceedings of ACM SIGGRAPH 2002, vol. 21, pp. 645-652, 2002.	1	
+	Pichlmair M., Johansen M., Designing Game Feel: A Survey, IEEE Transactions on Games, pp. 138-152, (2022)		1	
+	Pinker S., How the Mind Works, (1997)		1	
+	Pinker S., The Blank Slate: The Modern Denial of Human Nature, (2002)		1	
+	Piselli P., Claypool M., Doyle J., Relating cognitive models of computer games to user evaluations of entertainment, Proc. 4th Int. Conf. Found. Digit. Games, pp. 153-160, (2009)		1	
+	Piselli P., Relating Cognitive Models of Computer Games to User Evaluations of Entertainment, (2006)		1	
+	Pittman T.S., Emery J., Boggiano A.K., Intrinsic and extrinsic motivational orientations: Reward-induced changes in preference for complexity, Journal of Personality and Social Psychology, 42, 5, pp. 789-797, (1982)		1	
+	Pitts R.E., Wong J.K., Whalen D.J., Consumer's evaluative structures in two ethical situations: A means-end approach, Journal of Business Research, 22, pp. 119-130, (1991)		1	
+	Plantinga C.R., Smith G.M., Passionate views: film, cognition, and emotion, (1999)		1	
+D. Stammer, T. Günther and M. Preuss	Player-adaptive spelunky level generation	2015 IEEE Conference on Computational Intelligence and Games (CIG), pp. 130-137, 2015.	1	
+	Polites G. L., Williams C. K., Karahanna E., Seligman L., A Theoretical Framework for Consumer E-Satisfaction and Site Stickiness: An Evaluation in the Context of Online Hotel Reservations, Journal of Organizational Computing and Electronic Commerce, 22, 1, pp. 1-37, (2012)		1	
+M. Jennings-Teats, G. Smith and N. Wardrip-Fruin	Polymorph: A model for dynamic level generation	Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, vol. 5, no. 1, 2010.	1	
+	Popescu M., Bellotti F., Approaches on metrics and taxonomy in serious games, pp. 351-358, (2012)		1	
+	Popper K.R., All Life is Problem Solving, (1999)		1	
+	Popper K.R., Conjectures and Refutations: The Growth of Scientific Knowledge (Essays and Lectures), (1963)		1	
+	Population dynamics of sleeping sickness: A microsimulation, Simulation & Gaming, 32, 2, pp. 215-227, (2001)		1	
+	Porter G., Starcevic V., Berle D., Fenech P., Recognizing problem video game use, Australian & New Zealand Journal of Psychiatry, pp. 120-128, (2010)		1	
+	Possamai D.S., Hounsell M.S., Gasparini I., A Criatividade no Design de Jogos Digitais: Um Mapeamento Sistemático da Literatura, Nuevas Ideas En Informática Educ, pp. 186-193, (2018)		1	
+	Postman N., Amusing ourselves to death: public discourse in the age of show business, (2006)		1	
+	Postmes T., Spears R., Lea M., The formation of group norms in computer-mediated communication, Human Communication Research, 26, 3, pp. 341-371, (2000)		1	
+	Postrel V., The Substance of Style: How the Rise of Aesthetic Value is Remaking Commerce, Culture and Consciousness, (2003)		1	
+	Poyrazli S., Grahame K., Barriers to adjustment: Needs of international students within a semi-urban campus community, Journal of Instructional Psychology, 34, 1, pp. 28-45, (2007)		1	
+	Prensky M., Digital Game-based Learning, (2001)		1	
+	Prensky M., Digital Game-based Learning, (2001)		1	
+	Prensky M., Digital Game-based Learning, (2007)		1	
+	Price S., Rogers Y., Scaife M., Stanton D., Neale H., Using 'tangibles' to promote novel forms of playful learning, Interacting with Computers, 15, pp. 169-185, (2003)		1	
+	Pries-Heje J., Baskerville R., The design theory Nexus, MIS Quarterly, 32, 4, pp. 731-755, (2008)		1	
+N. Shaker, J. Togelius and M. J. Nelson	Procedural content generation in games	Springer, 2016.	1	
+A. Summerville, S. Snodgrass, M. Guzdial, C. Holmgård, A. K. Hoover, A. Isaksen, et al.	Procedural content generation via machine learning (PCGML)	IEEE Transactions on Games, vol. 10, no. 3, pp. 257-270, 2018.	1	
+J. Togelius, A. J. Champandard, P. L. Lanzi, M. Mateas, A. Paiva, M. Preuss, et al.	Procedural content generation: Goals challenges and actionable steps	Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik, 2013.	1	
+B. De Kegel and M. Haahr	Procedural puzzle generation: A survey	IEEE Transactions on Games, vol. 12, no. 1, pp. 21-40, 2020.	1	
+	Producers Guild of America Code of Credits -New Media, (2010)		1	
+	Przybylski A.K., Deci E.L., Rigby C.S., Ryan R.M., Competence-impeding electronic games and players' aggressive feelings, thoughts, and behaviors, Journal of Personality and Social Psychology, 106, 3, pp. 441-457, (2014)		1	
+	R: A Language and Environment for Statistical Computing 2022		1	
+	Raessens J., Homo Ludens 2.0. The Ludic turn in media theory, (2010)		1	
+	Randel J.M., Morris B.A., Wetzel C.D., The effectiveness of games for educational purposes-a review of recent research, Simulation & Gaming, 23, pp. 261-276, (1992)		1	
+	Randel J.M., Morris B.A., Wetzel C.D., Whitehill B.V., The effectiveness of games for educational purposes: A review of recent research, Simulation and Gaming, 23, 3, pp. 261-276, (1992)		1	
+	Raney A.A., Beth Oliver M., Bartsch A., Eudaimonia as media effect, Media effects: Advances in theory and research, pp. 258-274, (2020)		1	
+	Rausch J.R., Maxwell S.E., Kelley K., Analytic methods for questions pertaining to a randomized pretest, posttest, follow-up design, Journal of Clinical Child and Adolescent Psychology, 32, pp. 467-486, (2003)		1	
+	Raymen T., Smith O., Lifestyle gambling, indebtedness and anxiety: A deviant leisure perspective, Journal of Consumer Culture, 20, 4, pp. 381-399, (2020)		1	
+S. Greuter, J. Parker, N. Stewart and G. Leach	Real-time procedural generation of pseudo infinite cities	Proceedings of the 1st international conference on Computer graphics and interactive techniques in Australasia and South East Asia, pp. 87-ff, 2003.	1	
+	Reeves B., Nass C., The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places, (1996)		1	
+	Reeves B., Read J.L., Total Engagement: Using Games to Change the Way People Work and Businesses Compete, (2009)		1	
+	Remo C., MIGS: Far Cry 2's Guay on the Importance of Procedural Content, (2008)		1	
+	Remo C., MIGS: Far cry 2's guay on the importance of procedural content, Gamasutra, (2008)		1	
+T. Donovan	Replay: The History of Video Games	Yellow Ant, 2010.	1	
+	Resisting the virtual life: The culture and politics of information, pp. 131-143, (1995)		1	
+	Resnicow K., Davis-Hearn M., Smith M., Baranowski T., Lin L.S., Baranowski J., Et al., Social-cognitive predictors of fruit and vegetable intake in children, Health Psychology, 16, pp. 272-276, (1997)		1	
+	Reynolds A.J.W., Evaluation of A Design for An Educational Computer Game: Learning Outcome and Attitude Response, (1987)		1	
+	Reynolds K.D., Yaroch A.L., Franklin F.A., Maloy J., Testing mediating variables in a school-based nutrition intervention program, Health Psychology, 21, pp. 51-60, (2002)		1	
+	Reynolds T.J., Dethloff C., Westberg S.J., Reynolds T.J., Olson J.C., Understanding Consumer Decision Making: A Means-end Approach to Marketing and Advertising Strategy, pp. 283-298, (2001)		1	
+	Reynolds T.J., Gutman J., Laddering theory, method, analysis and interpretation, Journal of Advertising Research, 28, pp. 11-31, (1988)		1	
+	Ribeiro G., Rogers K., Altmeyer M., Terkildsen T., Nacke L.E., Game Atmosphere: Effects of Audiovisual Thematic Cohesion on Player Experience and Psychophysiology, Proceedings of the Annual Symposium on Computer-Human Interaction in Play, pp. 107-119, (2020)		1	
+	Ricci K.E., Salas E., Cannonbowers J.A., Do computer-based games facilitate knowledge acquisition and retention?, Military Psychology, 8, pp. 295-307, (1996)		1	
+	Ricci K.E., The use of computerbased videogames in knowledge acquisition and retention, Journal of Interactive Instruction Development, 7, 1, pp. 17-22, (1994)		1	
+	Ridley D., Puzzling experiences in higher education: Critical moments for conversation, Studies in Higher Education, 29, 1, pp. 91-107, (2004)		1	
+	Rieber L.P., Seriously considering play: Designing interactive learning environments based on the blending of microworlds, simulations, and games, Educational Technology Research and Development, 44, 2, pp. 43-58, (1996)		1	
+	Rieber L.P., Smith L., Noah D., The value of serious play, Educational Technology, 38, 6, pp. 29-37, (1998)		1	
+	Rigby S., Ryan R., The player experience of need satisfaction (PENS) model, (2007)		1	
+	Ritchie D., Dodge B., Integrating technology usage across the curriculum, Annual Conference on Technology and Teacher Education, (1992)		1	
+	Rivest P., Far Cry 2, (2008)		1	
+	Rizzo A.A., Difede J., Rothbaum B.O., Reger G., Spitalnick J., Cukor J., Mclay R.		1	
+	Robinson K., The design is the game: Writing games, teaching writing, Computers and Composition, 25, 4, pp. 359-370, (2008)		1	
+	Rodrigues F., Et al., A perceção de divertimento em jovens, adultos e idosos: Um estudo comparativo, Cuad. Psicol. Del Deport., 20, pp. 26-36, (2020)		1	
+	Rokeach M., The Nature of Human Values, (1973)		1	
+	Rollings A., Adams E., Andrew Rollings and Ernest Adams on Game Design, (2003)		1	
+	Ross S., Do I really have to eat that?": A qualitative study of schoolchildren's food choices and preferences, Health Education Journal, 54, pp. 312-321, (1995)		1	
+	Rouse R., Game Design Theory and Practice, (2001)		1	
+	Roy D., Banana time”: Job satisfaction and informal interaction, Human Organization, 18, 4, pp. 158-168, (1959)		1	
+	Rozin P., Preadaptation and the puzzles and properties of pleasure, Well-Being: The Foundations of Hedonic Psychology, (1999)		1	
+	Ruffino P., The end of capitalism: Disengaging from the economic imaginary of incremental games, Games and Culture, 16, 2, pp. 208-227, (2021)		1	
+	Ruggiero D., Spent: Changing students' affective learning toward homelessness through persuasive video game play, Proc. CHI 2014, pp. 3423-3432, (2014)		1	
+	Rumelhart D., Smolensky P., McClelland J., Hinton G.		1	
+	Runco M.A., Jaeger G.J., The standard definition of creativity, Creativity Research Journal, 24, 1, pp. 92-96, (2012)		1	
+	Ryan K.M., Kanjorski J., The enjoyment of sexist humor, rape attitudes, and relationship aggression in college students, Sex Roles, 38, pp. 743-756, (1998)		1	
+	Ryan M.-L., Narrative as Virtual Reality 2, (2015)		1	
+	Ryan R., Rigby S., Przybylski A., The motivational pull of video games: A self determination theory approach, Motivation and Emotion, 30, pp. 347-363, (2006)		1	
+	Ryan R.M., Deci E.L., Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being, American psychologist, 55, 1, (2000)		1	
+	Ryan R.M., Scott Rigby C., Przybylski A., The motivational pull of video games: A self-determination theory approach, Motivation and emotion, 30, 4, pp. 344-360, (2006)		1	
+	Ryan T., Beginning level design, Gamasutra, 3, 15, (1999)		1	
+	Ryckman R.M., Hamel J., Perceived physical ability differences in the sport participation motives of young athletes, International Journal of Sport Psychology, (1993)		1	
+	Saaty T.L., Decision Making for Leaders: The Analytic Hierarchy Process for Decisions in A Complex World, (1995)		1	
+	Sakuda L.O., Fortim I., II Censo Da Indústria Brasileira De Jogos Digitais, (2018)		1	
+	Saldana J., The Coding Manual for Qualitative Researchers, (2009)		1	
+	Sampson S., Evolution changes everything, This Will Change Everything: Ideas That Will Shape the Future, (2010)		1	
+	Sanders T.A., Cairns P., Time Perception, Immersion and Music in Videogames, Proceedings of the HCI 2010, pp. 160-167		1	
+	Sansone C., Sachau D.A., Weir C., Effects of instruction on intrinsic interest: The importance of context, Journal of Personality and Social Psychology, 57, 5, pp. 819-829, (1989)		1	
+	Sapp S.G., Jensen H., Reliability and validity of nutrition knowledge and diet-health awareness tests developed from the 1989-1991 diet and health knowledge survey, Journal of Nutrition Education, 29, pp. 63-72, (1997)		1	
+	Sawyer B., (2007)		1	
+	Sawyer B., (2010)		1	
+	Sawyer B., Smith P., (2008)		1	
+	Schell J., A Arte De Game Design, (2010)		1	
+	Schell J., The Art of Game Design: A Book of Lenses, (2008)		1	
+	Schell J., The art of game design: A book of lenses, (2008)		1	
+	Schell J., The Art of Game Design: A Book of Lenses. 2nd Ed., (2015)		1	
+	Schramm H., Wirth W., Exploring the paradox of sad-film enjoyment: The role of multiple appraisals and meta-appraisals, Poetics, 38, 3, pp. 319-335, (2010)		1	
+	Schwartz B., Ward A., Monterosso J., Lyubomirsky S., White K., Lehman D.R., Maximizing versus satisficing: Happiness is a matter of choice, Journal of Personality and Social Psychology, 83, pp. 1178-1197, (2002)		1	
+	Scott M., Wheeless L., Communication apprehension, student attitudes, and levels of satisfaction, Western Journal of Speech Communication, 41, pp. 188-198, (1975)		1	
+J. Togelius, G. N. Yannakakis, K. O. Stanley and C. Browne	Search-based procedural content generation: A taxonomy and survey	IEEE Transactions on Computational Intelligence and AI in Games, vol. 3, no. 3, pp. 172-186, 2011.	1	
+	Sedighian K., Playing styles for computer and video games, Proceedings of the ED-MEDIA 94 World Conference on Educational Multimedia and Hypermedia. Panel Discussion 'Can Electronic Games Make A Positive Contribution to the Learning of Mathematics and Science in the Intermediate Classroom?', (1994)		1	
+	Seo D., Ranganathan C., Babad Y., Two-level model of customer retention in the US mobile telecommunications service market, Telecommunications policy, 32, 3-4, pp. 182-196, (2008)		1	
+	Seo H., Jang S., Kyungdong, Ko H., An evaluation for the visual reality of virtual environment, HCI'99, pp. 41-47, (1999)		1	
+	Seonju K., An empirical analysis of children's thinking and learning in a computer game context, Educational Psychology, 22, pp. 219-233, (2002)		1	
+	SEPTET (2012). Sustainable Energy Pathways Through Education and Technology. Retrieved December 17, 2014 from		1	
+	Shaffer D.W., Epistemic frames for epistemic games, Comput. Educ., 46, 3, pp. 223-234, (2006)		1	
+	Shaker N., Liapis A., Togeluis J., Lopes R., Bidarra R., Constructive generation methods for dungeons and levels, Procedural Content Generation in Games: A Textbook and An Overview of Current Research, pp. 31-55, (2016)		1	
+	Shaker N., Yannakakis G., Togelius J., Towards automatic personalized content generation for platform games, Proc. AI Interactive Digit. Entertain. Conf., pp. 63-68, (2010)		1	
+	Shaker N., Yannakakis G., Togelius J., Towards Automatic Personalized Content Generation for Platform Games, Proceedings of AIIDE 2010 - 6th AAAI Conf. Artif. Intell. Interact. Digital Entertain., (2010)		1	
+	Shannon C., Weaver W., The Mathematical Theory of Communication, (1949)		1	
+	Sharp C.E., Rowe M., Online games and e-business: Architecture for integrating business models and services into online games, IBM System Journal, 45, pp. 161-179, (2006)		1	
+	Shen Y.C., What do people perceive in watching video game streaming? Eliciting spectators’ value structures, Telematics Inform, 59, (2021)		1	
+	Shepherd M.M., Briggs R.O., Reinig B.A., Yen J., Nunamaker F.J., Invoking social comparison to improve electronic brainstorming: Beyond anonymity, Journal of Management Information Systems, 12, 3, pp. 155-170, (1996)		1	
+	Sherry J., Lucas K., Video game uses and gratifications as predictors of use and game preference, Mass Communication Division, International Communication Association Annual Convention, (2003)		1	
+	Sheth J.N.B.I., Newman B.L., Gross B.L., Consumption Values and Market Choice: Theory and Application, (1991)		1	
+	Simonton D.K., Creative thought as blind-variation and selective-retention: Combinatorial models of exceptional creativity, Physics of Life Reviews, 7, 2, pp. 156-179, (2010)		1	
+	Simonton D.K., Creativity in Science: Chance, Logic, Genius, and Zeitgeist, (2004)		1	
+	Simonton D.K., Fields, domains, and individuals (chapter), Handbook of Organizational Creativity, pp. 67-86, (2012)		1	
+	Simonton D.K., Great Flicks: Scientific Studies of Cinematic Creativity and Aesthetics, (2011)		1	
+	Sims K., Artificial evolution for computer graphics, SIGGRAPH '91: Proceedings of the 18th Annual Conference on Computer Graphics and Interactive Techniques, 25, pp. 319-328, (1991)		1	
+M. Quek, D. Boland, J. Williamson, R. Murray-Smith, M. Tavella, S. Perdikis, et al.	Simulating the feel of brain-computer interfaces for design developmentand social interaction	Proc. CHI, pp. 25-28, 2011-May.	1	
+	Simulation modeling in political science, American Behavioral Scientist, 42, 10, pp. 1509-1530, (1999)		1	
+	Simulation: A new way of doing social science, American Behavioral Scientist, 42, 10, pp. 1845-1847, (1999)		1	
+	Simulation: Analytic and algorithmic analyses of Condorcet's paradox-Variations on a classical theme, Social Science Computer Review, 16, 1, pp. 72-95, (1998)		1	
+	Sinclair J., Hingston P., Masek M., Considerations for the design of exergames, Proceedings of the 5th International Conference on Computer Graphics and Interactive Techniques in Australia and Southeast Asia, pp. 289-295, (2007)		1	
+	Skadberg Y. X., Kimmel J. R., Visitors’ flow experience while browsing a Web site: its measurement, contributing factors and consequences, Computers in human behavior, 20, 3, pp. 403-422, (2004)		1	
+	Slater M.D., Rouner D., Entertainment-education and elaboration likelihood: Understanding the processing of narrative persuasion, Communication Theory, 12, pp. 173-191, (2002)		1	
+	Slater M.D., Social influences and cognitive control as predictors of self-efficacy and eating behavior, Journal Cognitive Therapy and Research, 13, pp. 231-245, (1989)		1	
+	Slimani N., Deharveng G., Charrondierea R.U., van Kappel A.L., Ockeb M.C., Welch A., Et al., Structure of the standardized computerized 24-hour diet recall interview used as reference method in the 22 centres participating in the EPIC project, Computer Methods and Programs in Biomedicine, 58, pp. 251-266, (1999)		1	
+	Smith G., Cha M., Whitehead J., A framework for analysis of 2D platformer levels, Proc. ACM SIGGRAPH Symp. Video Games, pp. 75-80, (2008)		1	
+	Smith G., Cha M., Whitehead J., A framework for analysis of 2d platformer levels, Sandbox '08: Proceedings of the 2008 ACM SIGGRAPH Symposium on Video Games, pp. 75-80, (2008)		1	
+	Smith G., Gan E., Othenin-Girard A., Whitehead J., PCG-based Game Design: Enabling New Play Experiences through Procedural Content Generation, Proc. of PCGames 2011, (2010)		1	
+	Smith G., Othenin-Girard A., Whitehead J., Wardrip-Fruin N., PCG-Based Game Design: Creating Endless Web, Proceedings of Foundations of Digital Games 2012 (FDG '12), (2012)		1	
+	Smith G., Treanor M., Whitehead J., Mateas M., Rhythm-based level generation for 2d platformers, FDG '09: Proceedings of the 4th International Conference on Foundations of Digital Games, pp. 175-182, (2009)		1	
+	Smith G., Treanor M., Whitehead J., Mateas M., Rhythm-based level generation for 2d platformers, Proc. 4th Int. Conf. Found. Digit. Games, pp. 175-182, (2009)		1	
+	Smith G., Treanor M., Whitehead J., Mateas M., Rhythm-based level generation for 2D platformers, Proceedings of the 2009 Int'l Conference on the Foundations of Digital Games, (2009)		1	
+	Smith G., Whitehead J., Analyzing the Expressive Range of a Level Generator, Proceedings of the 2010 Workshop on Procedural Content Generation in Games, (2010)		1	
+	Smith G., Whitehead J., Mateas M., Tanagra: A mixed-initiative level design tool, Proc. 5th Int. Conf. Found. Digit. Games, pp. 209-216, (2010)		1	
+	Smith G., Whitehead J., Mateas M., Tanagra: Reactive Planning and Constraint Solving for Mixed- Initiative Level Design, IEEE Transactions on Computational Intelligence and AI in Games, 3, 3, (2011)		1	
+	Smith G., Whitehead J., Treanor M., March J., Cha M., Launchpad: A Rhythm-Based Level Generator for 2D Platformers, IEEE Transactions on Computational Intelligence and AI in Games, 3, (2011)		1	
+	Smith M., Howard Gardner, Multiple Intelligences and Education, (2002)		1	
+	Soderman B., Against flow: Video games and the flowing subject, (2021)		1	
+	SOMA, (2015)		1	
+	Sorenson N., Pasquier P., Towards a generic framework for automated video game level creation, Applications of Evolutionary Computation, pp. 131-140, (2010)		1	
+	Spector W., Remocleling RPGs for the new millennium, Gammasutra, 3, 2, (1998)		1	
+	Spronck P., Ponsen M., Sprinkhuizen-Kuyper I., Postma E., Adaptive game AI with dynamic scripting, Mach. Learn., 63, 3, pp. 217-248, (2006)		1	
+	Squire K., Jenkins H., Holland W., Miller H., O'Driscoll A., Tan K.P., Todd K., Design principles of next-generation digital gaming for education, Educational Technology, pp. 17-23, (2003)		1	
+	Squire K., Patterson N., Games and simulations in informal science education, The National Academies of Sciences, Engineering, Medicine, Washington, DC, Paper Commissioned for the National Research Council Workshop on Gaming and Simulations, (2009)		1	
+	Squire K., Video games in education, International Journal of Intelligent Games & Simulation, 2, pp. 49-62, (2003)		1	
+	Staiano A.E., Calvert S.L., Exergames for physical education courses: Physical, social, and cognitive benefits, Child Development Perspectives, 5, 2, pp. 93-98, (2011)		1	
+	Steinkuehler C., Duncan S., Scientific habits of mind in virtual worlds, Journal of Science Education and Technology, 17, 6, pp. 530-543, (2008)		1	
+	Steinkuehler C., Williams D., Where everybody knows your (screen) name: Online games as "third places, Journal of Computer-Mediated Communication, 11, pp. 885-909, (2006)		1	
+	Stenseng F., Rise J., Kraft P., Activity engagement as escape from self: The role of self-suppression and self-expansion, Leisure Sciences, 34, 1, pp. 19-38, (2012)		1	
+	Street R.L., Rimal R.N., Health promotion and interactive technology: A conceptual foundation, Health promotion and interactive technology: Theoretical applications and future directions, pp. 1-18, (1997)		1	
+David J. Shernoff, Mihaly Csikeszentmihalyi, Barbara Schneider and Elisa Steele Shernoff	Student engagement in high school classrooms from the perspective of flow theory	School Psychology Quarterly, vol. 18, no. 2, pp. 158-176, Jun 20	1	
+	Summerville A., Snodgrass S., Guzdial M., Holmgard C., Hoover A.K., Isaksen A., Nealen A., Togelius J., Procedural content generation via machine learning (PCGML), IEEE Transactions on Games, (2018)		1	
+	Summerville A.J., Behrooz M., Mateas M., Jhala A., The learning of zelda: Data-driven learning of level topology, Proceedings of the FDG Workshop on Procedural Content Generation in Games, (2015)		1	
+	Sun C.T., Lin H., Ho C.H., Sharing tips with strangers: Exploiting gift culture in computer gaming, CyberPsychology & Behavior, 9, 5, pp. 560-570, (2006)		1	
+R. Nintendo	Super Mario Bros	in Game [NES].(13 September 1985), Kyoto, Japan:Nintendo, 1985.	1	
+J. Brooke	SUS: A ”quick and dirty” usability scale" in Usability Evaluation in Industry	London:Taylor and Francis, 1996.	1	
+J. Brooke	SUS: a retrospective	J. Usability Studies, vol. 8, no. 2, pp. 29-40, February 2013.	1	
+	Susi T., Johannesson M., Backlund P., (2007)		1	
+	Sutton R.S., Barto A.G., Reinforcement Learning: An Introduction, (1998)		1	
+	Sutton-Smith B., The Ambiguity of Play, (1997)		1	
+	Swartout W., van Lent M., Making a game of system design, Communications of the ACM, 46, 7, pp. 32-39, (2003)		1	
+	Sweerser P., Johnson D., Player-centred game environments: Assessing player opinions, experiences and issues, Entertainment Computing-ICEC 2004: Third International Conference. LNCS 3166, pp. 321-332, (2004)		1	
+	Sweetser P., Wyeth P., GameFlow, Comput. Entertain, 3, (2005)		1	
+	Sweetser P., Wyeth P., Gameflow: A model for evaluating player enjoyment in games, Comput. Entertain, 3, 3, (2005)		1	
+	Sweetser P., Wyeth P., Gameflow: A model for evaluating player enjoyment in games, Comput. Entertain., 3, 3, (2005)		1	
+	Sweetser P., Wyeth P., Gameflow: A model for evaluating player enjoyment in games, Computational Entertainment, 3, (2005)		1	
+	Sweetser P., Wyeth P., GameFlow: A Model for Evaluating Player Enjoyment in Games, Computers in Entertainment (CIE) Theoretical and Pratical Computer Applications in Entertainment, 3, 3, (2005)		1	
+	Sweetser P., Wyeth P., Gameflow: A model for evaluating player enjoyment in games, Computers in Entertainment, 3, 3, pp. 1-24, (2005)		1	
+	Sweetser P., Wyeth P., Gameflow: A model for evaluating player enjoyment in games, Computers in Entertainment, 3, 3, pp. 3-27, (2005)		1	
+	Swink S., The Future of Game Feel, (2008)		1	
+	Taherdoost H., Zamani M., Namayandeh M., Study of smart card technology and probe user awareness about it: A case study of Middle Eastern students, 2009 2nd IEEE International Conference on Computer Science and Information Technology, pp. 334-338, (2009)		1	
+L. Farwell and E. Donchin	Talking off the top of your head: Toward a mental prosthesis utilizing event-related brainpotentials	Electroencephalography Clin. Neurophysiol., vol. 70, no. 6, pp. 510-523, 1988.	1	
+	Tamborini R., Bowman N.D., Eden A., Grizzard M., Organ A., Defining media enjoyment as the satisfaction of intrinsic needs, Journal of Communication, 60, 4, pp. 758-777, (2010)		1	
+	Tan S., Emotion and the structure of narrative film: film as an emotion machine, (2013)		1	
+	Ter Hofstede F., Audenaert A., Steenkamp J.B.E.M., Wedel M., The association pattern technique: An alternative approach to measuring means-end chains, International Journal of Research in Marketing, 15, pp. 37-50, (1998)		1	
+	thatgamecompany, (2012)		1	
+M. G. Bellemare, Y. Naddaf, J. Veness and M. Bowling	The arcade learning environment: An evaluation platform for general agents	Journal of Artificial Intelligence Research, vol. 47, pp. 253-279, 2013.	1	
+C. Crawford	The Art of Computer Game Design	Berkeley, CA: McGraw-Hill/Osborne Media, 1984.	1	
+	The Artful Mind: Cognitive Science and the Riddle of Human Creativity, (2006)		1	
+	The best videogame stories ever, GamesRadar Staff., (2013)		1	
+	The cyberculture reader, pp. 29-44, (2000)		1	
+	The design of virtual environment, (1996)		1	
+Jee-Hyun Park and Terezinha Nunes	The development of the concept of multiplication	Cognitive Development, vol. 16, pp. 763-773, 2001.	1	
+P. Tozour	The Evolution of Game AT	in AI Game Programming-Wisdom. Boston: Charles River Media, 2002. vol. 1, pp. 3-	1	
+Wijnand Ijsselsteijn, Yvonne A.W. de Kort and K Poels	The Game Experience Questionnaire	Technical report Technische Universiteit Eindhoven Eindhoven, 2013.	1	
+E. Langer	The illusion ofcontrol	J. Personality Social Psychol., vol. 32, no. 2, pp. 311-328, 1975.	1	
+L. Allan and H. Jenkins	The judgment of contingency and the nature of the responsealternatives	Canad. J. Psychol./Revue Canad. Psychol., vol. 34, no. 1, pp. 1-11, 1980.	1	
+H. Abdi	The Kendall Rank Correlation Coefficient	in Encyclopedia of Measurement and Statistics, N. Salkind. Ed.. Thousand Oaks, CA. 2007.	1	
+	The NetHack DevTeam: Nethack, (2009)		1	
+Efraim Fischbein, Maria Deri, Maria Sainati Nello and Maria Sciolis Marino	The Role of Implicit Models in Solving Verbal Problems in Multiplication and Division	Journal for Research in Mathematics Education, vol. 16, no. 1, pp. 3, Jan 1985.	1	
+	The virtual community: Homesteading on the electronic frontier, (1993)		1	
+	The Walking Dead. Game [multi-format], (2012)		1	
+Jean Piaget	The’ ‘Childs Conception of Number	New York:Norton, 1965.	1	
+P. M. Fitts	Theinformation capacity of the human motor system in controlling the amplitude of movement	J. Exp. Psychol., vol. 47, no. 6, pp. 381-391, 1954.	1	
+	Thomas R., Cahill J., Santilli L., Using an interactive computer game to increase skill and self-efficacy regarding safer sex negotiation: Field test results, Health Education & Behavior, 24, pp. 71-86, (1997)		1	
+	Thomson J.A.K., Tredennick H., Barnes J., Aristotle: The Nicomachean ethics, (2004)		1	
+	Thorn A., Game Engine Design and Implementation. 1st Ed., (2010)		1	
+	Thornham H., Ethnographies of the videogame: Gender, narrative and praxis, (2011)		1	
+	Tisza G., Et al., The role of age and gender on implementing informal and non-formal science learning activities for children, Proceedings of the Fablearn Europe 2019 Conference, 10, pp. 1-10, (2019)		1	
+	To A., Ali S., Kaufman G.F., Hammer J., integrating curiosity and uncertainty in game design, Digra/fdg, (2016)		1	
+N. Beume, T. Hein, B. Naujoks, G. Neugebauer, N. Piatkowski, M. Preuss, R. Stüer, and A. Thom	To Model or Not to Model: Controlling PacMan Ghosts Without Incorporating Global Knowledge	in Proc. of the 2008 IEEE World Congress on Computational Intelligence, 2008, (in print).A. P. Engelbrecht, Computational Intelligence: An Introduction. Weinheim: Wiley-VCH Verlag, 2002.	1	
+	Togelius J., De Nardi R., Lucas S.M., Towards automatic personalised content creation in racing games, Proceedings of the IEEE Symposium on Computational Intelligence and Games, (2007)		1	
+	Togelius J., Kastbjerg E., Schedl D., Yannakakis G.N., What is Procedural Content Generation? Mario on the borderline, Proceedings of PCGames 2011, (2011)		1	
+	Togelius J., Schmidhuber J., An experiment in automatic game design, IEEE Symposium on Computational Intelligence and Games, pp. 111-118, (2008)		1	
+	Togelius J., Schmidhuber J., An experiment in automatic game design, Proc. IEEE Symp. Comput. Intell. Games, pp. 111-118, (2008)		1	
+	Togelius J., Schmidhuber J., An experiment in automatic game design, Proceedings of CIG'08: IEEE Symposium on Computational Intelligence and Games, (2008)		1	
+	Togelius J., Shaker N., Nelson M.J., Introduction, Procedural Content Generation in Games: A Textbook and An Overview of Current Research, pp. 1-15, (2016)		1	
+	Togelius J., Yannakakis G., Stanley K., Browne C., Search-based procedural content generation, Applications of Evolutionary Computation, 6024, pp. 141-150, (2010)		1	
+	Tomassini M., Island models, Spatially Structured Evolutionary Algorithms, pp. 11-18, (2005)		1	
+	Tooby J., Cosmides L., Conceptual foundations of evolutionary psychology, The Handbook of Evolutionary Psychology, (2005)		1	
+	Tooby J., Cosmides L., Does beauty build adapted minds?, Evolution, Literature and Film: A Reader, pp. 174-183, (2010)		1	
+	Tory Higgins E., Beyond pleasure and pain, American psychologist, 52, 12, (1997)		1	
+	Tory Higgins E., Promotion and prevention: regulatory focus as a motivational principle, Advances in experimental social psychology, 30, pp. 1-46, (1998)		1	
+C. Vidaurre and B. Blankertz	Toward a cure for BCIilliteracy	Brain Topography, vol. 23, no. 2, pp. 194-198, 2010.	1	
+A. L. Blackler, V. Popovic and D. P. Mahar	Toward a design methodology for applying intuitive interaction	Proc. WonderGround 2006 Design Research Soc. Int. Conf..	1	
+N. Shaker, G. Yannakakis and J. Togelius	Towards automatic personalized content generation for platform games	Proceedings of the Sixth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, pp. 63-68, 2010.	1	
+G. N. Yannakakis and J. Hallam	Towards Capturing and Enhancing Entertainment in Computer Games	in Proc. of the 4th Hellenic Conference on Artificial Intelligence. Heraklion, Crete, Greece: Springer-Verlag, 2006, pp. 432-442.	1	
+	Toy M., Et al., Rogue (PC Game), (1980)		1	
+	Toy M., Wichman G., Arnold K., Lane J., Artificial Intelligence Design, (1983)		1	
+	Trevino L. K., Webster J., Flow in computer-mediated communication: Electronic mail and voice mail evaluation and impacts, Communication research, 19, 5, pp. 539-573, (1992)		1	
+	Tseng W.C., Newton F.B., International students' strategies for well-being, College Student Journal, 36, 4, pp. 591-597, (2002)		1	
+A. Nijholt, D. P.-O. Bos and B. Reuderink	Turning shortcomings into challenges: Brain-computer interfaces forgames	Entertainment Comput., vol. 1, no. 2, pp. 85-94, Oct. 2009.	1	
+M Ntourlia, Dimitris Gouscos and Michalis Meimaris	TuxMath: Is it Possible for a Game to Enhance Multiplication Skills?	Proceedings of the 4th European Conference on Games Based Learning, pp. 280-291, 2010.	1	
+	Tversky A., Kahneman D., The framing of decisions and the psychology of choice, Science, New Series, 211, pp. 453-458, (1981)		1	
+	Tyack A., Mekler E.D., Self-Determination Theory in HCI Games Research: Current Uses and Open Questions, Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1-22, (2020)		1	
+	Tyack A., Wyeth P., Exploring Relatedness in Single-Player Video Game Play, Proceedings of the 29th Australian Conference on Computer-Human Interaction, pp. 422-427, (2017)		1	
+	Ulam P., Jones J., Goel A., Combining model-based meta-reasoning and reinforcement learning for adapting game-playing agents, Proc. 4th Artificial Intelligence and Interactive Digital Entertainment Conference, (2008)		1	
+	Ulrich F., Mengiste S.A., Muller S.D., Informal evaluation and institutionalization of neoteric technology ideas: The case of two Danish organizations, Communications of the Association for Information Systems, 37, 1, pp. 949-974, (2015)		1	
+J. Nielsen	Usability Engineering	USA, CA, San Mateo:Morgan Kaufmann, 1993.	1	
+L. Nedel, V. C. De Souza, A. Menin, L. Sebben, J. Oliveira, F. Faria, et al.	Using Immersive Virtual Reality to Reduce Work Accidents in Developing Countries	IEEE Computer Graphics and Applications, vol. 36, no. 2, pp. 36-46, 2016.<<FIM>	1	
+M. Usoh, E. Catena, S. Arman and M. Slater	Using presence questionnaires in reality	Presence: Teleoperators and Virtual Environments, pp. 1-16, 2000.	1	
+	Vahlo J., An enactive account of the autonomy of videogame gameplay, Game Stud, 17, (2017)		1	
+	Van der Linden R., Lopes R., Bidarra R., Designing procedurally generated levels, Proceedings of the The Second Workshop on Artificial Intelligence in The Game Design Process, (2013)		1	
+	van der Linden R., Lopes R., Bidarra R., Procedural generation of dungeons, IEEE Transactions on Computational Intelligence and AI in Games, 6, 1, pp. 78-89, (2014)		1	
+	van der Spek E.D., Sidorenkova T., Porskamp P., Rauterberg M., The effect of familiar and fantasy aesthetics on learning and experience of serious games, ICEC 2014. LNCS, 8770, pp. 133-138, (2014)		1	
+	Van Eck R., Digital Game-Based Learning: It’s not just the digital natives who are restless		1	
+	Van Eck R., Digital Game-Based Learning: It's Not Just the Digital Natives Who Are Restless, EDUCAUSE Review, 41, 2, (2006)		1	
+	Van Laer T., De Ruyter K., Visconti L.M., Wetzels M., The extended transportation-imagery model: A meta-analysis of the antecedents and consequences of consumers' narrative transportation, Journal of Consumer Research, 40, pp. 797-817, (2014)		1	
+	Van Noort G., Voorveld H.A., Van Reijmersdal E. A., Interactivity in brand web sites: cognitive, affective, and behavioral responses explained by consumers’ online flow experience, Journal of Interactive Marketing, 26, 4, pp. 223-234, (2012)		1	
+	Van Peer W., Two laws of literary canon: Growth and predictability in canon formation, Mosaic: A Journal for the Interdisciplinary Study of Literature, 30, 2, pp. 113-132, (1997)		1	
+	Velikovsky J.T., A hierarchy of memes, Practical Memetics, (2014)		1	
+	Velikovsky J.T., Animation and narrative in videogames: A case study -looney tunes: Acme arsenal, Animation Practice, Process & Production, 2, 1-2, pp. 11-48, (2012)		1	
+	Velikovsky J.T., Creative practice theory, StoryAlity, (2012)		1	
+	Velikovsky J.T., The holon-parton structure of the meme (and, Narreme): A structure for the unit of culture, StoryAlity, (2013)		1	
+	Velikovsky J.T., Transmedia Practice: A Collective Approach, (2014)		1	
+	Venkatesh V., Creation of favorable user perceptions: Exploring the role of intrinsic motivation, MIS Quarterly, 23, 2, pp. 239-261, (1999)		1	
+	Venkatesh V., Speier C., Computer technology training in the workplace: A longitudinal investigation of the effect of mood, Organizational Behavior and Human Decision Processes, 79, 1, pp. 1-28, (1999)		1	
+G. C. Burdea and P. Coiffet	Virtual reality technology	2003	1	
+M. Kempka, M. Wydmuch, G. Runc, J. Toczek and W. Jaśkowski	Vizdoom: A Doom-based AI research platform for visual reinforcement learning	2016 IEEE Conference on Computational Intelligence and Games (CIG), pp. 1-8, 2016.	1	
+	von Ehren S., (2020)		1	
+	Vorderer P., Hartmann T., Klimmt C., Explaining the enjoyment of playing video games: The role of competition, Proceedings of the Second International Conference on Entertainment Computing, pp. 1-9, (2003)		1	
+	Vorderer P., Hartmann T., Klimmt C., Explaining the enjoyment of playing video games: The role of competition, The Second International Conference on Computer Games, (2003)		1	
+	Vygotsky L.S., Imagination and creativity in childhood, Journal of Russian and East European Psychology, 42, pp. 7-97, (2004)		1	
+	Waker, (2010)		1	
+	Walsham G., Doing interpretive research, European Journal of Information Systems, 15, 3, pp. 320-330, (2006)		1	
+	Walsham G., Interpreting information systems in organizations, (1993)		1	
+	Walsham G., Interpretive case studies in IS research: Nature and method, European Journal of Information Systems, 4, 2, pp. 74-81, (1995)		1	
+	Walz S.P., Deterding S., The gameful world. Approaches, issues, applications, (2014)		1	
+	Wang J., Wang M., Wu J., Empirical study on flow experience in China tourism e-commerce market, Journal of Industrial Engineering and Management (JIEM), 8, 2, pp. 349-364, (2015)		1	
+	Wang L.C., Chen M.P., The effects of game strategy and preference-matching on flow experience and programming performance in game-based learning, Innovations in Education and Teaching International, 47, pp. 39-52, (2010)		1	
+	Watt R.G., Sheiham A., Towards an understanding of young people's conceptualization of food and eating, Health Education Journal, 56, pp. 340-349, (1997)		1	
+	Watzlawick P., The Invented Reality: How Do We Know What We Believe We Know? Contributions to Constructivism, (1984)		1	
+	Wayne O.D., Krishnagiri S., Parents' leisure: The impact of raising a child with Down syndrome, Occupational Therapy International, 12, pp. 180-194, (2005)		1	
+	Weber M., The protestant ethic and the spirit of capitalism		1	
+	Webster J., Trevino L. K., Ryan L., The dimensionality and correlates of flow in human-computer interactions, Computers in human behavior, 9, 4, pp. 411-426, (1993)		1	
+	Weibel D., Wissmath B., Habegger S., Steiner Y., Groner R., Playing online games against computer-vs. human-controlled opponents: Effects on presence, flow, and enjoyment, Computers in human behavior, 24, 5, pp. 2274-2291, (2008)		1	
+	Westera W., Nadolski R.J., Hummel H.G.K., Woperels I.G.J.H., Serious games for higher education: A framework for reducing design complexity, Journal of Computer Assisted Learning, 24, pp. 420-432, (2008)		1	
+	Wharton A., Collins K., Subjective Measures of the Influence of Music Customization on the Video Game Play Experience: A Pilot Study, Game Stud, 11, (2011)		1	
+F. P. Brooks	What’s real about virtual reality?	IEEE Comput. Graph. Appl., vol. 19, pp. 16-27, 1999.	1	
+	Wheeler S., Lord L., Denial: a conceptual analysis, Arch. Psychiatr. Nurs, 13, pp. 311-320, (1999)		1	
+R. Chen	When You Change the Insides, Nobody Notices	in The old new thing. Munich: Addison Wesley, 2006, pp. 336-337.	1	
+	Whitehead A., Johnston H., Nixon N., Welch J., Exergame effectiveness: What the numbers can tell us, Proceedings of the 5th ACM SIGGRAPH Symposium on Video Games 2010, pp. 55-62		1	
+	Wiertz C., de Ruyter K., Beyond the call of duty: Why customers contribute to firm-hosted commercial online communities, Organization studies, 28, 3, pp. 347-376, (2007)		1	
+	Willett W., Lenart E., Reproducibility and validity of foodfrequency questionnaires, Nutritional Epidemiology, 6, (1998)		1	
+	William G., Alexander M., Towards Genre as a Game Design Research Approach, (2017)		1	
+	Williamson B., Facer K., More than “just a game”: The implications for schools of children’s computer games communities, Educ. Commun. Inform., 4, pp. 255-270, (2004)		1	
+	Wilson D., Sicart M., Now it's personal: On abusive game design, Proc. of Future Play, 2010, pp. 64-71, (2010)		1	
+	Wilson E.O., Consilience: The Unity of Knowledge, (1998)		1	
+	Wilson J., Thinking with Concepts, (1963)		1	
+	Wimmer R.D., Dominick J.R., Mass Media Research: An Introduction, (2003)		1	
+	Wirth W., Hofer M., Schramm H., Beyond pleasure: exploring the eudaimonic entertainment experience, Human Communication Research, 38, 4, pp. 406-428, (2012)		1	
+	Wiseman S., Cox A.L., Gould J.S.J., Brumby D.P., Exploring the effects of non-monetary reimbursement for participants in HCIresearch, Human Computation, 4, 1, pp. 1-24, (2017)		1	
+	Witmer B.G., Singer M.G., Measuring presence in virtual environments: A presence questionnaire, Teleoperators and Virtual Environments, 7, 3, pp. 225-240, (1998)		1	
+	Wolf M.J.P., The Medium of the Video Game, (2002)		1	
+	Woodruff R.B., Customer value: The next source for competitive advantage, Journal of the Academy of Marketing Science, 25, pp. 139-153, (1997)		1	
+	Woodside A., Frey L. L., Daly R. T., Linking service quality, customer satisfaction, and behavior, Journal of Health Care Marketing, 9, 4, pp. 5-17, (1989)		1	
+	World of Warcraft, (2004)		1	
+R. T. Llamas	Worldwide Augmented and Virtual Reality Hardware Forecast 2018–2022	January 2018,[online] Available: https://www.idc.com/getdoc.jsp?containerId=US43510618.	1	
+	Wu J. J., Chang Y. S., Towards understanding members’ interactivity, trust, and flow in online travel community, Industrial Management & Data Systems, 105, 7, pp. 937-954, (2005)		1	
+	Wu P. F., User acceptance of emergency alert technology: A case study, Proceedings of the 6th International Conference on Information Systems for Crisis Response and Management (ISCRAM), pp. 1-9, (2009)		1	
+	Xu J., Liu Z., Study of online stickiness: its antecedents and effect on repurchase intention, International Conference on e-Education, e-Business, e-Management and e-Learning, pp. 116-120, (2010)		1	
+	Yannakakis G., Hallam J., Real-time Game Adaptation for Optimizing Player Satisfaction, IEEE Transactions on Computational Intelligence and AI in Games, 1, 2, pp. 121-133, (2009)		1	
+	Yannakakis G., Lund H., Hallam J., Modeling Children's Entertainment in the Playwear Playground, Proceedings of the IEEE Conference on Computational Intelligence in Games, (2006)		1	
+	Yannakakis G.N., Hallam J., Towards capturing and enhancing entertainment in computer games, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 3955, pp. 432-442, (2006)		1	
+	Yannakakis G.N., Hallam J., Towards optimizing entertainment in computer games, Applied Artificial Intelligence, 21, 10, pp. 933-971, (2007)		1	
+	Yee N., Motivations for play in online games, Cyberpsychology Behav, 9, pp. 772-775, (2006)		1	
+	Yee N., Motivations for Play in Online Games, CyberPsychology Behav, 9, pp. 772-775, (2006)		1	
+	Yee N., Motivations of play in online games, CyberPsychology & Behavior, 9, pp. 772-775, (2007)		1	
+	Yerkes R.M., Dodson J.D., The relation of strength of stimulus to rapidity of habit-formation, J. Comparat. Neurol. Psychol., 18, pp. 459-482, (1908)		1	
+	Zhai L., Studying international students: Adjustment issues and social support, Journal of International Agricultural and Extension Education, 11, 1, pp. 97-104, (2004)		1	
+	Zhang J., Fu X., The Influence of Background Music of Video Games on Immersion, J. Psychol. Psychother, 5, (2015)		1	
+	Zhang P., Aikman S. N., Sun H., Two types of attitudes in ICT acceptance and use, International Journal of Human-Computer Interaction, 24, 7, pp. 628-648, (2008)		1	
+	Zhao C.M., Kuh G.D., Carini R.M., A comparison of international and American student engagement in effective educational practices, The Journal of Higher Education, 76, 2, pp. 209-231, (2005)		1	
+	Zott C., Amit R., Donlevy J., Strategies for value creation in e-commerce: best practice in Europe, European Management Journal, 18, 5, pp. 463-475, (2000)		1	
+H. Danielsiek, C. Eichhorn, T. Hein, E. Kurtić, G. Neugebauer, N. Piatkowski, M. Puchowezki, J. Quadflieg, S. Schnelker, R. Stüer, A. Thorn, and S. Wessing	Zwischenbericht der PG 511	Technical University of Dortmund, Technical Report of the Collaborative Research Centre 531 Computational Intelligence 236/07, 20	1	
+	Zyda M., (2005)		1	
+	Zyda M., From visual simulation to virtual reality to games, Computer, 38, 9, pp. 25-32, (2005)			

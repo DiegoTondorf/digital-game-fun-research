@@ -15,6 +15,7 @@ Each study is organized in a dedicated, self-contained folder. This structure al
 | Folder | Study |
 |---|---|
 | [`systematic-mapping/`](./systematic-mapping/) | Systematic Mapping Study on Fun in Digital Games |
+| [`fun-reviews-analysis/`](./fun-reviews-analysis/) | FUN Reviews Analysis |
 
 ---
 

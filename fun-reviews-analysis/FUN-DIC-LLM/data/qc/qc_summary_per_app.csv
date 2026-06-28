@@ -1,0 +1,11 @@
+appid,name,pairIndex,type,totalEnglishReviews,fetched_reviews,english_positive_ratio,sampled_reviews,sample_pos,sample_neg,sample_time_span_days
+1273440,OverDrift Festival,5,top,637,637,0.7943485086342229,150,119,31,1107
+1555650,HEXCRAFT: Harlequin Fair,4,bottom,55,55,0.8727272727272727,55,48,7,1399
+1929360,Tumbleweed Destiny,3,top,84,84,0.9880952380952381,84,83,1,1172
+250460,Bridge Constructor,2,top,916,915,0.7147540983606557,150,108,42,4199
+312370,"Warhammer 40,000: Armageddon",4,top,714,714,0.8263305322128851,150,123,27,3932
+3584190,Three Sisters,1,bottom,112,112,0.7410714285714286,112,83,29,180
+415880,Disc Jam,1,top,819,819,0.7557997557997558,150,114,36,2777
+435020,AFL Evolution,5,bottom,101,101,0.7524752475247525,101,76,25,2319
+435480,Trials of the Blood Dragon,2,bottom,146,146,0.6232876712328768,146,91,55,3343
+48110,Silent Hunter 5: Battle of the Atlantic,3,bottom,1459,1459,0.41946538725154214,150,63,87,4880

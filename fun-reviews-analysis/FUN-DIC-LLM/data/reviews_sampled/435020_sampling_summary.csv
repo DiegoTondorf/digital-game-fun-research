@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+435020,AFL Evolution,5,bottom,101.0,150.0,101.0,76.0,25.0,101.0,3.501551,,,,,,
+435020,AFL Evolution,5,bottom,,,,,,,,pos,short,25.0,25.0,25.0,2200.0
+435020,AFL Evolution,5,bottom,,,,,,,,pos,medium,25.0,25.0,25.0,2318.0
+435020,AFL Evolution,5,bottom,,,,,,,,pos,long,26.0,26.0,26.0,1873.0
+435020,AFL Evolution,5,bottom,,,,,,,,neg,short,8.0,8.0,8.0,889.0
+435020,AFL Evolution,5,bottom,,,,,,,,neg,medium,8.0,8.0,8.0,1183.0
+435020,AFL Evolution,5,bottom,,,,,,,,neg,long,9.0,9.0,9.0,1080.0

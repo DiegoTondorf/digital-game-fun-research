@@ -1,0 +1,28 @@
+Query String:	
+Scopus: 	TITLE-ABS-KEY ((fun) AND ((videogame*) OR ((video OR digital OR computer OR pervasive OR serious OR mobile) PRE/0 (game*))) AND (design))
+	
+	
+IEEE:	("All Metadata":fun) AND (("videogame*") OR (("video" OR "digital" OR "computer" OR "pervasive" OR "serious" OR "mobile") NEAR/1 ("game*"))) AND (design)
+	
+	
+Restriction String:	LANGUAGE (english) DOCTYPE ((ar) OR (cp))
+	
+Criterias:	
+I1: 	Focus on the theory of fun in digital games.
+I2: 	Address the discussion or comparison of fun in digital games.
+I3: 	Meet the specified objective criteria below:
+a) 	Studies in English. 
+b) 	Studies from peer-reviewed events or journals. 
+c) 	Full studies (more than 4 pages).
+d) 	Primary and original studies (not reviews, mappings, or similar). 
+e) 	Studies available as full text.
+	
+Notes	
+ACM DL was included in the early stages of the mapping. Changes in its advanced search features created gaps in the retrieved years, so the source was removed from the analysis. The raw data is retained for transparency.	
+	
+	
+	Initial String	Selection	Dup
+SCOPUS	816	30	
+IEEE	336	8	1
+SB		6	
+Total	43		

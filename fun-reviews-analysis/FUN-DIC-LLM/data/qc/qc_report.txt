@@ -1,0 +1,9 @@
+=== QC REPORT ===
+Step02 rows: 86538
+Step03 rows: 15346
+Pairs rows (Step04): 10
+Apps with reviews (Step05): 10
+Issues: ERROR=0, WARN=0, INFO=0
+
+
+Charts directory: D:\OneDrive - ETS\__Doutorado\GAME REVIEW STUDY\data\qc\charts

@@ -1,0 +1,464 @@
+pairIndex,type,appid,name,rankAcceptance,rankFiltered,acceptanceScore,totalEnglishReviews,reviewId,language,review,isPositive,voted_up,timestamp_created,timestamp_updated,authorSteamId,playtime_forever,playtime_last_two_weeks,received_for_free,written_during_early_access,steam_purchase,comment_count,votes_up,votes_funny,weighted_vote_score,charLen,lengthBucket,sampleIndexWithinApp
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116084187,english,"such a good game, reminds me a little of horizon but just with drifting. alot better on controller then steering wheel atm but that could just be me",1,True,1653654014,1653654014,76561198328913286,468,0,False,True,True,0,2,1,0.5199999809265136,148,long,1
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116089176,english,"Once a moose got stuck between two trees and said: ""the fourth time is the same!""",1,True,1653661671,1653661671,76561198082128728,72862,224,True,True,False,0,3,6,0.4813540279865264,81,medium,2
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116115697,english,Game sucks and is full of woke crybaby liberals that will kick you if you say anything they don't like. There's like 30 people that play this game lol. Seriously save your money or get CarX!,0,False,1653702898,1724892137,76561199282387963,2604,0,False,True,True,0,0,0,0.5,190,medium,3
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116126823,english,"⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿
+⣿⣿ ⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿
+⣿⣿⣿⣿⡏⣀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿
+⣿⣿⣿⢏⣴⣿⣷⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿
+⣿⣿⣟⣾⣿⡟⠁⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣷⢢⠀⠀⠀⠀⠀⠀⠀⢸⣿
+⣿⣿⣿⣿⣟⠀⡴⠄⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣿
+⣿⣿⣿⠟⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⢴⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⣿
+⣿⣁⡀⠀⠀⢰⢠⣦⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⡄⠀⣴⣶⣿⡄⣿
+⣿⡋⠀⠀⠀⠎⢸⣿⡆⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠗⢘⣿⣟⠛⠿⣼
+⣿⣿⠋⢀⡌⢰⣿⡿⢿⡀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣧⢀⣼
+⣿⣿⣷⢻⠄⠘⠛⠋⠛⠃⠀⠀⠀⠀⠀⢿⣧⠈⠉⠙⠛⠋⠀⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣧⠀⠈⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠀⠀⠀⠀⢀⢃⠀⠀⢸⣿⣿⣿⣿
+⣿⣿⡿⠀⠴⢗⣠⣤⣴⡶⠶⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡸⠀⣿⣿⣿⣿
+⣿⣿⣿⡀⢠⣾⣿⠏⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠉⠀⣿⣿⣿⣿
+⣿⣿⣿⣧⠈⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿
+⣿⣿⣿⣿⡄⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣦⣄⣀⣀⣀⣀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠙⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠁⠀⠀⠹⣿⠃⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠿⠛⠉⠉⠁⠀⢻⣿⡇⠀⠀⠀⠀⠀⠀⢀⠈⣿⣿⡿⠉⠛⠛⠛⠉⠉
+⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠⣤⣤⠄⠀",1,True,1653724622,1653724622,76561198856761500,597,0,False,True,True,0,3,7,0.4499728679656982,774,long,4
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116207679,english,"This game is SUPER fun and pretty good for being available for barely over 24 hours. The only things I can recommend are: Having a waypoint functionality and more intuitive tuning. It's kind of annoying having to pause the game every few seconds to see where you're trying to go, and realize you missed a turn a while ago and have to double-back. I think the tuning is okay, its just not very obvious what to do. I don't think you should copy it exactly...but a tuning system similar to Forza Horizon would be spectacular.",1,True,1653850105,1653850105,76561198854925045,8311,0,False,True,True,0,3,0,0.5417190194129943,522,long,5
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116342324,english,"Great fun, plays extremely well considering its in early access! i would love some more chase cam options with that are a bit further away from the car as the cam is very close! cant wait to see the future this game has though, would love to see full customisation and a progression system, and hopefully a better way to earn money! engine sounds need adjusting but hey cant complain at the moment. 10/10 considering the early access!",1,True,1654104633,1654104633,76561199031617363,874,0,False,True,True,0,1,0,0.5,434,long,6
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116431435,english,"drifto
+",1,True,1654275318,1654275318,76561198431203458,573,0,False,True,True,0,1,0,0.5,7,short,7
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116493598,english,"Do not buy if you plan on using a steering wheel, at least for now. Wheel support is nearly non-existent and it feels like if an arcade racer tried to make it feel realistic but over tuned all the values. However, the controller feels fine. 
+*edit* 
+After the most recent update with physics changes wheel drivability is much better and more fun, however still not on the level of games like carX, Asetto or Forza this is a good change, but there are still other issues, here's a list.
+1. very little to do in the game 
+2. navigation is annoying without waypoints or better GPS
+3. cars are locked to pre-customized body kits and all tires are super stretched
+4. input mapping is a chore and very limited  
+5. car Ai is just annoying and ruins driving on the open road with how narrow the roads are 
+6. the car damage system only acts as an annoyance towards players and serves no point except to take players money and extend the already grindy progression",0,False,1654379681,1654400816,76561198213850936,510,0,False,True,False,0,0,0,0.5,956,long,8
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116526059,english,"Fix the controller support, then we'll talk. As for now, no sirre.",0,False,1654438346,1654438346,76561198940811016,5,0,False,True,True,0,0,0,0.472385287284851,66,short,9
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116548352,english,"Game is ok, physics feel decent on wheel coming from a diehard assetto fan, but cars require quite a lot of tuning to get it right. The game definetly needs to have fast travel point to every track and a gps system. I personally wouldnt pay full price, so you should buy on sale. Altough i feel like this game is just a cash grab considering that almost everything is flipped from RDS.",1,True,1654466722,1654466722,76561199261662047,137,0,False,True,True,0,2,0,0.5235223174095153,385,long,10
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116551443,english,it need some more work but other then that its a great game wood recommend,1,True,1654472239,1654472239,76561199154026888,10417,0,False,True,True,0,3,0,0.5249550342559814,74,medium,11
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116575511,english,123,1,True,1654522842,1654522842,76561199022415259,3511,0,False,True,True,0,2,0,0.4738713502883911,3,short,12
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116684885,english,"No customization bodykit or more specific but good game for the grapich and handling, open world is the best but no customization bodykit or more specific is worse for drift or racing game",1,True,1654708255,1654708255,76561199277451343,14,0,False,True,True,0,2,0,0.4992754757404327,188,long,13
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116740642,english,"If this is Early Access then I don't know how awesome the full version is going to be.
+The game is still in development and it definitely has the potential to be a great.",1,True,1654811509,1656022407,76561199045006887,5271,0,False,True,True,0,2,0,0.5093647837638854,170,long,14
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116752903,english,"Smooth
+
+",1,True,1654838120,1654838120,76561199043484756,16686,0,False,True,True,0,2,0,0.4851114749908447,8,short,15
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,116888819,english,First lets start with the game has huge potential. I enjoy it alot but i will agree with most the price is kinda insane. I hope they continue to work on and improve it. Good work so far,1,True,1655066944,1655066944,76561199005638570,1209,0,False,True,True,1,0,0,0.5,185,long,16
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117002147,english,"Love this game! 
+All I can say is keep up the awesome work",1,True,1655258841,1655258841,76561198398256956,1100,0,False,True,True,0,0,0,0.4935194253921508,58,medium,17
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117089838,english,"hell hole.
+",1,True,1655409037,1655552814,76561198875252183,368,0,False,True,True,0,0,0,0.4794520437717437,11,short,18
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117179354,english,one of the best open world drift games,1,True,1655556822,1655556822,76561198325868852,2372,0,False,True,True,0,0,0,0.5,38,medium,19
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117202099,english,"Quite an enjoyable game, I see great potential in it and personally, devs if you read this you should allow people to do like workshop made maps as I think itd be really cool and fit the game. I would recommend. Also the customization could have more to it, and most of all, Where are little friend the Miata",1,True,1655586468,1655586468,76561198139680931,3800,0,False,True,True,0,1,0,0.5238095521926879,308,long,20
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117299490,english,fun drift game,1,True,1655744204,1655744204,76561199060478734,3082,0,False,True,True,0,0,0,0.5,14,short,21
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117308419,english,Dogshit,0,False,1655754860,1661950392,76561198896551868,1121,0,True,True,True,0,0,0,0.5,7,short,22
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117447354,english,this game is very fun I would like there to be options to race with people though,1,True,1655971714,1655971714,76561199103550968,1079,0,False,True,True,0,3,0,0.5257558822631835,81,medium,23
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117610842,english,"lets be honest. i dont hate the game controls anymore. i just wonder why my steamvr opens every time i launch this game if its not vr supported.. also please let us adjust the cockpit cameras distance. i dont like being so close to the wheel and if you can make it vr then.. also add more things to do than just drift for money. the games not too bad. its actually fun at times so to the DEVS, dont miss your opportunity with this title. make things happen.",1,True,1656194664,1656194664,76561198354391774,1817,0,False,True,True,0,0,0,0.5,457,long,24
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117694860,english,Love the game 1 of the best drift games out there,1,True,1656294816,1656294816,76561199172160342,666,0,False,True,True,0,1,0,0.5,49,medium,25
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117743855,english,Where R My Mirrors,1,True,1656357907,1656458242,76561199179593929,293,0,False,True,True,0,0,0,0.4576771557331085,18,short,26
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,117943599,english,I like the game. would love if you made a MAP/WORLD keybind and or make it to where you can mark on the map for some directions.,1,True,1656612063,1656612063,76561198361377007,468,0,False,True,True,0,0,0,0.5,128,long,27
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118180061,english,Good,1,True,1656919126,1656919126,76561198278524894,276,0,False,True,False,0,0,0,0.5,4,short,28
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118271337,english,its a great game but they need to fix all the bugs like the crashes its annoying when you in a line,1,True,1657041517,1657041517,76561198863962032,2296,0,False,True,True,0,1,0,0.5,99,medium,29
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118356795,english,i really love this game. i originally got it because i was looking for a drift game with better graphics and when i saw the images taken in this game i decided to get it. not only are the graphics the best out of all the drift games i have played but the most immersive with the open world drifting and the very custom options on the cars. love it and am going to keep loving it.,1,True,1657153703,1657153703,76561199087529344,1605,0,False,True,True,0,1,0,0.4761904776096343,379,long,30
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118535794,english,i cant get into the game and its really frustrating when i just spent 30 dollars. not happy,0,False,1657403400,1657403400,76561199103845777,70,0,False,True,True,0,1,0,0.4852550625801086,91,short,31
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118547954,english,good,1,True,1657422276,1657422276,76561199068837307,660,0,False,True,True,0,1,0,0.5,4,short,32
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118632798,english,"Game is cool but overpriced. Refounded.
+
+EDIT: game is way cheaper now, get this game ASAP, its very good on wheel",1,True,1657550877,1748260599,76561198245794538,769,0,False,True,False,0,9,8,0.5330955386161804,114,medium,33
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118732863,english,"great game came from carx cant drift with my wheel tho i can on car x and asseto but this game no the map for atleast my wheel is so garbage i can barely drive so drifting is impossible unless i set it to 360 and even then its still horrible. great game if you use a controller.  YOU NEED A BELT DRIVEN WHEEL TO PLAY or controller if you want,",0,False,1657693083,1657693083,76561198088668551,1291,0,False,True,True,0,4,1,0.5266051888465881,343,long,34
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118804884,english,"not about drift, about their ""physics"" of it. Wheel is unplayable idk how ppl playing it on wheel.",0,False,1657812550,1657812674,76561198053009618,193,0,False,True,True,3,3,1,0.506248950958252,98,medium,35
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,118874623,english,"OK this might be long but ive been playing this game for a week an half on a controller and g29 wheel OK so these are some things that can be tweak.
+
+1.Add full controller and wheel support plus accessories (hand brake).
+2.physic for controller isn't sync well.
+3.Add feature to adjust caster on fully upgraded cars. 
+4.physic for tires can be seriously adjusted when on controller and gaming wheel the turning registration only register when driving super slow. 
+5.adjust smoothness for head turning in cockpit camera setting.
+6.add feature that physically/visually changes tire compound when upgrading tires. 
+7.add feature to open hood/car doors/and trunks.
+8.add feature to create custom driver for in car only.
+9.add feature to save tunes.
+10.the most important feature of them all add clutch with manual transmission. 
+11.fix vinyl for front and rear bumper vinyl will not show.
+12.add window tint vinyl.
+13.add feature for upgrading transmission (example 3 gears,4 gears,5 gears) street sport pro racing transmission.
+14.add feature that doubles drift points when in or hitting clipping points.
+15.add feature to change cockpit features like steering wheel gauges rear view mirror shifter hand brake driver seat tow hooks basic jdm /drift things 
+
+im pretty sure im missing some small things but i know the community will comment what they are so please add these features to the next update.",1,True,1657924343,1657924996,76561198324793341,1577,0,False,True,True,0,1,0,0.4924242496490478,1399,long,36
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,119349068,english,"great game, good physics love the custom livery editor, but would love to see more tracks rather than the standard map.",1,True,1658616469,1658616469,76561198157417456,1166,0,False,True,True,0,2,0,0.5238095521926879,119,long,37
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,119454969,english,Its cool. U can play with friends. It has a cool mechanic. Overall 9/10,1,True,1658771600,1658771600,76561199229415548,574,0,False,True,True,0,1,0,0.5,71,medium,38
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,119619361,english,"Long story short, 
+[b]It plays between Forza Horizon and Carx.[/b]
+
+[b]Pros:[/b]
+- Best custom livery edit i've seen lately (window stickers included c'mon forza bite my a$$)
+- Nice psychs
+- Constantly Updated
+
+[b]Cons:[/b]
+- No bodykit customization (yet?)
+- Host disconnects and takes everyone with him
+
+[i]If reviews make you question if it's worth it: Totally worth with a discount, but at full price, maybe wait for the devs to improve it further.[/i]",1,True,1658981354,1658981354,76561198093051870,353,0,False,True,False,0,30,2,0.735397219657898,456,long,39
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,119742663,english,love the game. i want personal bodymodifications and less backfire from exhaust gets annoying,1,True,1659158489,1659158489,76561199227686077,1167,0,False,True,True,0,2,0,0.5238095521926879,93,medium,40
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,119978065,english,"great on controller and decent on wheel, using 500* rotation on a g-29 fyi",1,True,1659508287,1659508287,76561198149150210,851,0,False,True,True,0,1,0,0.5,74,medium,41
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,119980318,english,xd,1,True,1659512990,1659512990,76561198891426893,547,0,False,True,True,0,1,0,0.5,2,short,42
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,120353604,english,"A lovely game, just a lot of annoying features, like the AI, and the fact you lightly tap a wall and you lose all your points, as well as the fact you need to be near players for AI to be unhittable, but you can still hit players, like make up your mind, either no AI's or No players, or make an AI free zone where players are ghosted, or at least make it an option, like a cinematic mode where nothing can bother you AI and Players alike, I would like to see it that the car would be able to take a little bit more punishment before you lose your points, I lost 70.k worth of points because i did a wall tap which didn't set me off course or ruin my drift, What destroyed my drift was seeing all my hard-earned points just dissipate into nothingness and I only get like 500 out of 70.k, one time I had over 180.k points and i lost it all because a player hit me while drifting which was apparently due to de-sync, if that player was ghosted, i would be 180.k plus richer in the game. As I said, amazing game, one of the best I've seen, just very very annoying. EDIT: FOR THE LOVE OF GOD PLEASE REMOVE THE AI, YOU ARE RUINING YOUR GAME JUST BECAUSE OF THE STUPID AI.",0,False,1660075500,1660150076,76561198963420022,2061,0,False,True,True,0,1,3,0.5238095521926879,1166,long,43
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,120481687,english,Please Please Please give us an option to turn off traffic. Every time I get a decently high multiplier some stupid ai pops up. Other than that a very solid game if you don't mind grinding a lil bit.,1,True,1660284920,1660284920,76561199185945625,1736,0,False,True,True,0,14,1,0.6424705386161804,199,long,44
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,120492562,english,Great physics and graphics... wish there was a campaign,1,True,1660305269,1660305269,76561198158917296,2199,0,False,True,True,0,1,1,0.5,55,medium,45
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,120753298,english,a,1,True,1660689284,1660689284,76561199006720107,577,0,False,True,True,0,1,0,0.5,1,short,46
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,121358731,english,"Well, the game is great, still early access but already has shown that the developers are working on it, and expanding on whats already implemented, loving it so far, just needs car bodykit customization",1,True,1661672241,1661672241,76561199062633116,1705,0,False,True,True,0,1,0,0.5,203,long,47
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,121759727,english,mint,1,True,1662332463,1662332463,76561198104913858,1324,0,False,True,True,0,1,0,0.5,4,short,48
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,121962767,english,"Loving the game so far, I play a lot of racing games (casually) and this has to have one of the most rewarding drift physics. Keep up the good work devs!",1,True,1662701223,1662701223,76561197994450854,488,0,False,True,True,0,1,0,0.5,153,long,49
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,121978552,english,the game is amazing and so much fun,1,True,1662731022,1662731022,76561198892238442,476,0,False,True,True,0,1,0,0.5,35,medium,50
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,122313305,english,i like how its chill,1,True,1663317104,1663317104,76561199228669531,4319,0,False,True,True,0,1,0,0.5,20,short,51
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,122654012,english,quailty drift game  at its best when with a  steering wheel,1,True,1663885856,1663885856,76561198169168354,546,0,False,True,True,0,2,0,0.4935897290706634,59,medium,52
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,122801084,english,"Don't buy this game save your money
+
+close to 700 hour why you recommand to not buy this game
+
+Well i create a crew on this game to keep player in this game i put lot effort i even put money for keep player on the game with event but after all of those dev are not pro at all they don't like you if you give any negative feedback on thing that need to be change on the game so this game will never progress 
+
+They also will ban you from everywhere (discord and other media) if you say something bad on their game 
+
+Here is some proof of how you gonna be treated :
+https://imgur.com/a/chkxB7E
+
+So if you don't like to be direspected go away from this game",0,False,1664101889,1688911846,76561198079591116,43130,0,False,True,True,0,6,0,0.5921538472175598,654,long,53
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,122880542,english,Ye boy,1,True,1664216519,1664216519,76561199395390304,1814,0,False,True,True,0,1,0,0.5,6,short,54
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,123866725,english,plz fix u online lag agter the last update its to have,0,False,1665838483,1665838483,76561198401575282,3302,0,False,True,True,0,0,0,0.4697986543178558,54,short,55
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,123898277,english,yeh,1,True,1665882667,1665882667,76561199154545422,1307,0,False,True,True,0,1,0,0.4697986543178558,3,short,56
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,124188946,english,This game has no sense of direction it does not give a tutorial when you start so you have no idea what your doing and the wheel support is just awful,0,False,1666401665,1666401665,76561198081770010,5,0,False,True,True,0,5,0,0.5439151525497437,150,medium,57
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,124346536,english,"You can drive a Bus... That's all you need. 
+
+
+Btw, very nice optimization, didn't see that coming from a small team with an Early Access game.",1,True,1666654651,1666654651,76561198140179591,325,0,False,True,True,0,1,1,0.5,143,long,58
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,124730952,english,great game,1,True,1667238703,1667238703,76561199200397868,3078,0,False,True,True,0,2,0,0.4935897290706634,10,short,59
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,124861376,english,"love overdrift, but as someone coming from carx the fov and camera angles in this game need more options",1,True,1667444040,1667444040,76561198876955687,834,0,False,True,True,0,7,0,0.5712473392486572,104,medium,60
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,125371051,english,VERRY NICE,1,True,1668284143,1668284143,76561199132891247,573,0,False,True,True,0,1,1,0.4684040248394012,10,short,61
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,125678703,english,fun game to play and chill on carx and forza mixed together new physic are approved for wheel will play more in future but wait for sale 25$ is not that little,1,True,1668765730,1668765730,76561198884788557,548,0,False,True,True,0,2,0,0.5114302635192871,159,long,62
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,125733567,english,"Drift is life, drift is fate",1,True,1668839119,1668839119,76561198453964480,1621,0,False,True,True,0,2,0,0.5152444243431091,28,medium,63
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,126411329,english,da,1,True,1669224989,1669224989,76561199045635643,435,0,False,True,True,0,1,1,0.5,2,short,64
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,126444709,english,thx gossiest for showing me this game,1,True,1669232115,1669232115,76561198884199755,406,0,False,True,True,0,105,8,0.7709090709686279,37,medium,65
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,127083870,english,:,1,True,1669489644,1669489644,76561198443933746,91,0,False,True,True,0,1,0,0.5,1,short,66
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,127117080,english,car goes bap bap vroom vrooooom,1,True,1669503731,1669503731,76561199417820035,262,0,False,True,True,1,2,0,0.4679828584194183,31,medium,67
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,127649338,english,"When the game was small and unpopular, it was great. Now that it's famous, developers saw the opportunity to put as much microtransactions in the game as possible. 50% of the game is locked behing microtransactions actually. Initally you were able to obtain every car simply just by grinding. Now you can buy like 8 free cars and the rest you have to buy with DLCs and THEN grind for them and buy them with the in-game currency. If the developers don't A) lower the prices of the DLCs, because they are ridiculously expensive (you can get a whole game for the price of some of them) or B) remove them entirely and let players enjoy playing a game they paid not so small money for, players are definitelly going to quit playing it, like I am now. Maybe if they didn't give away tens of steam codes for free, they wouldn't need to scrub as much money off of the players as possible.",0,False,1669837263,1739994800,76561199118588967,1708,0,True,True,False,0,0,0,0.5058139562606812,880,long,68
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,127673979,english,amazing,1,True,1669870683,1669870683,76561198896065830,4909,0,False,True,True,1,1,0,0.4941860437393188,7,short,69
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,127736567,english,"This game is not perfect, but that's ok. Fun is at the center of the experience and it delivers. If you have even an intro wheel and pedal with a hand brake; this game blows away everything else for fun drifting! I absolutely love this game!",1,True,1669956800,1669956800,76561198206375799,5885,0,False,True,True,0,3,1,0.5104824304580688,241,long,70
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,128137925,english,Better than Forza horizon 5,1,True,1670469718,1670469718,76561198054646251,5036,0,False,True,True,0,6,3,0.4917581975460052,27,medium,71
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,128222378,english,"When the game is launched,it stays on the opening screen and no menu is shown.Please fix this if possible",0,False,1670590096,1670590096,76561198875527125,86,0,False,True,False,1,0,0,0.4918032586574554,105,medium,72
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,128363529,english,Horrible traffic and light poles. GET RID OF THE CARS AND LET US ROAM YOU ASSHOLES. FIX YOUR FUCKING BUGS TOO. Good game tho.,1,True,1670766266,1670766266,76561198215711063,337,0,False,True,True,0,1,0,0.4918032586574554,125,long,73
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,128869815,english,its pretty fun wish you could do a lil more customizing to the cars tho,1,True,1671479305,1671479305,76561199138188433,9091,0,False,True,True,0,1,0,0.5,71,medium,74
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,129375465,english,Really good game on wheel not as fun on other devices but its abit grindy to get good drift cars you should buy the  car dlc if you wanna remove 50hours of grinding.(you also get 12 cars. and if you sell the car you can go back into dlc and get it again so you can keep the car/livery for car),1,True,1672094511,1672094511,76561198997714706,1053,0,False,False,False,0,1,0,0.5,293,long,75
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,129919198,english,Waiting for a new update....,0,False,1672642750,1735956740,76561198282052595,2940,0,False,False,True,0,0,0,0.5,28,short,76
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,130059291,english,"It does freeze sometimes but otherwise its a very Fun game
+",1,True,1672782015,1672782015,76561198882556486,2783,0,False,False,True,0,1,0,0.5,59,medium,77
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,130134868,english,k,1,True,1672863496,1672863496,76561199216387416,1901,0,False,False,True,0,1,0,0.4784558117389678,1,short,78
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,131135361,english,"Great game! The drifting is extremely satisfying once you get the hang of it. It gives me a CarX x Forza vibe. I opened the game and within a short time I was doing clean a$$ donuts and cutting corners sideways :P I saw a bunch of cars by the mall so I teleported there. Showed up and cars were running the course in tandem. I said sheeeit.. I won't learn if I don't hop in. So I did and smashed into a car trying to keep up and keep sideways. A couple of corrections later I was parallel riding tandem with another car on the track for almost 10 seconds. Being that I'm a complete noob to drifting, this was such an accomplishment on the g920 wheel + h-shifter // Oddor e-brake!!! First time ever hitting a clean a$$ tandem. So yea, needless to say I'm hooked and need more lol",1,True,1674119864,1674119864,76561198014033493,1150,0,False,False,True,0,1,0,0.4761904776096343,778,long,79
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,131306929,english,"Steam deck controls were hard to figure out 0 tutorial if i hadent found a youtube video explaining the currency in the game iwould have requested a refund i bought the deluxe edition with all dlc cars for $32 on sale i would say its worth about $20-$25 with all dlc cars fps avwrage is 20-35 on steam deck ""only"" one crash in 2 hours of play",0,False,1674350625,1674350625,76561198119596451,2372,0,False,False,True,0,0,1,0.4566090703010559,342,medium,80
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,132655626,english,fun as hell,1,True,1676150505,1676150505,76561199251345148,843,0,False,False,True,0,1,0,0.5,11,short,81
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,132790709,english,this game made my friend lose me,0,False,1676315917,1676315917,76561199029367643,278,0,False,False,True,0,0,0,0.4769874513149261,32,short,82
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,133534593,english,"Absolute crap. That is my simplified overall view of this game. It is most definitely not worth the money they are asking for, especially for the additional DLC. For reference, I use a controller with my driving games. I do not use a steering wheel, so I cannot comment on how it is when using one in this game.
+
+Pros:
+- Well, it looks good for the most part. But, looking good can only get you so far.
+- That's pretty much it.
+
+Cons:
+- There are some obvious spelling issues.
+- There is no mouse support. So, when it first starts up, you're going to instinctively move the mouse and see about clicking on the whatever servers are available at the time to find that doesn't work. You have to use the arrow keys on your keyboard. This is the first game I've ever encountered that didn't have basic keyboard AND MOUSE support. Why the developers thought this was a smart idea is beyond me, as it makes absolutely no sense whatsoever.
+- For me, the game started up in a small window; I'd say it was about 800 x 600. Which made seeing it on my 65"" 4k TV difficult to figure out what I was supposed to do to start an actual game (which only showed 3 ""sessions/servers"" to choose from). I had to hit Ctrl + Enter to force it into full-screen just so I could continue.
+- No ""main menu"" from the start to setup the game to your liking. No, common sense and basic human intelligence were not considered when it came to making this game. You do not gain access to the menu system until after you've picked a session to join.
+- The overall main menu is a clusterf**k and looks sloppy/busy.
+- The Graphics Settings menu doesn't actually do a proper full-screen ability. You can choose different resolutions to try and make it fill the entire screen, but it's not an actual full-screen. It's more like full windowed mode.
+- I could not enable V-sync. It was an option, but it was an option that you could not enable.
+- Control mapping is defaulted to the keyboard. This is almost always a sign that the people responsible for this genuinely do not know what they're doing when it comes to making a game. A DRIVING game. With keyboard mapping as default. A DRIVING. GAME. When the usual thing you'd use is a controller or a steering wheel. And, the control mapping menu doesn't even have the ability to give a selection of whether you want to use a keyboard, a controller, or a steering wheel. You can only manually edit each function individually.
+- It appears that you cannot freely rotate the camera around. Why? Every other driving game out there can. It's pretty much standard practice. Oh right, I forgot. That whole ""common sense and basic human intelligence"" bit I spoke about earlier.
+- When driving, my car wanted to just veer to the right on its own, with no input from me. Try to get it back inline and it'll just repeat the process. Naturally, steering the car and trying to keep it behaving normally wasn't going to happen. So, there's something going on with this game and having issues with tracking. It seems this is a bit of a known problem on the discussion boards.
+
+That's pretty much it for pros and cons. I haven't put much time into this game because I didn't want to continue. When a game starts up and immediately comes across as a badly put-together attempt with no logical line of thinking involved, that tells me that it is not worth my time to mess with it anymore. A user shouldn't have to trudge through a sea of bulls**t to try and get the game to their liking before they even turn the wheel. There should be common practices already in place to make the first impression a welcoming one. Even the discussion threads show that the developer doesn't really bother addressing issues. And, a few users have commented about how this is another game that is going to die out real soon. I can see why.
+
+OverDrift Festival is what happens when you get people who don't understand what the words ""organized"" and ""thought-out"" mean. Poorly laid out menu system, nonsensical mapping selection system, and broken features make this game Early-Access, in my opinion. It's not polished at all.",0,False,1677281780,1677281780,76561198017048624,67,0,False,False,False,0,0,1,0.4545454680919647,4099,long,83
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,133977846,english,vroom... stu tu tu... skrrrrrrt,1,True,1677852410,1677852410,76561198152191744,799,0,False,False,True,0,0,1,0.3981611728668212,31,medium,84
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,134111150,english,"Absolutely no direction in game. Load it up, join a server and spent 7 minutes trying to figure out how to make the car go. Used both Controller and Keyboard + Mouse. How the hell is this out of EA.",0,False,1678012846,1678012846,76561198118927344,7,0,False,False,True,0,3,2,0.5349915027618408,198,medium,85
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,134246785,english,good game,1,True,1678205164,1678205164,76561199217425236,1890,0,True,False,True,1,1,1,0.5,9,short,86
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,134563489,english,"T500RS review:
+
+Mixed feelings for this one. Its a fun game with great gameplay. But its very arcady and the force feedback is not that good. Let me explain:
+
+The autosteering is off, its hard to explain but ill try. The car straightens too much because the autosteering is countersteering too much so you constantly have to ""steer"" into the corner to stay drifting. (Im not talking about assists or anything like that, if you know you know...) And another thing is that it feels like the autosteer starts to slow during a transition and then the turning speed picks up at the end. (Ive got around 2000h in sim driving, my FFB settings are not the issue).
+
+The rear is not really controlled with throttle but rather using the steeringwheel and the weight transfer is almost nonexistent.
+Its hard to explain but its very off from RL. This is not a realistic sim but its playable but it takes some getting used to, car upgrades and some extreme tuning makes it OK. 
+
+Even tho it has issues with FFB i really like this game, if you are thinking of buying it just be aware of this if you are playing with a wheel. 
+
+What makes me like this game is the community and the gameplay. People are really nice and helpful. The maps are amazing. If they just tune the force feedback a little bit this will be a really good game!
+
+As of right now its playable and fun and if they improve the FFB i will update this review.",1,True,1678652883,1692555103,76561198023493917,753,0,False,False,True,0,0,0,0.5238095521926879,1409,long,87
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,136245437,english,top game highly recommended,1,True,1680834995,1680834995,76561199041475668,1946,0,False,False,True,0,1,0,0.5,27,medium,88
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,136841460,english,"EHHHH NOICE
+",1,True,1681704650,1681704650,76561199191476092,959,0,False,False,True,0,0,0,0.4784558117389678,12,short,89
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,137458151,english,"I use a Thrustmaster T300rs GT and this is a very fun game to get sideways in, Although its not a simulator you can still have fun with friends.",1,True,1682738184,1682738184,76561199367862585,501,0,False,False,True,0,0,0,0.5,144,long,90
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,137531735,english,no csl dd souport and i wanna play this game so bad and everytime i wait a year or so i come back and no luck just fix then id love this game,0,False,1682833340,1682833340,76561199086019673,127,0,False,False,True,0,0,1,0.4761904776096343,141,medium,91
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,137783791,english,this is all you need to know. dont buy :),0,False,1683214693,1683214693,76561199166264372,2473,0,False,False,True,0,3,1,0.4115967452526092,41,short,92
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,138627624,english,Played for five hours but i didnt even join a online lobby.,1,True,1684605103,1684605103,76561199197211529,3077,0,False,False,True,0,0,0,0.5,59,medium,93
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,138695553,english,,1,True,1684683421,1684683421,76561199135599448,1035,0,False,False,True,0,0,0,0.5,0,short,94
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,139520744,english,"Really chill game. Took some time to get used to but once I got used to it, it has been great! I use a T300 With the 599 Ferrari Alcantara edition wheel. It has good ffb and I enjoy this game. I play music or stream while on this game and it is so chill. You have to repair your car every so often and there are two large open-world maps. They both have so much to offer. The graphics are alright but I use ReShade and when I use it, the graphics look great. I absolutely recommend this game to people who like to drift!",1,True,1685857657,1685857657,76561199124434404,13320,0,False,False,True,0,1,0,0.5,520,long,95
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,140968733,english,is ok but you rlly need a wheel,1,True,1688126933,1688126933,76561199245285787,504,0,False,False,True,0,1,0,0.5,31,medium,96
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,142512446,english,j,1,True,1689926215,1689926215,76561199220063080,1178,0,False,False,True,0,1,0,0.4679802954196929,1,short,97
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,142799555,english,Its so good. you should def. buy it,1,True,1690326060,1690326060,76561199121688142,815,0,False,False,True,0,1,0,0.5,35,medium,98
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,144931458,english,"Cool game, bought it for the drifting and it excels in that area.
+The game saves to the root of the C drive rather than your user profile directory, not a fan of that.
+The multiplayer system was a bit confusing, you auto join a public lobby but, afterwards you're free to make a private lobby for friends.
+It's nearly there, just a few tweaks needed to make it decent.",0,False,1692897884,1692897884,76561197999076041,27,0,False,False,True,0,0,0,0.5,368,long,99
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,145699497,english,"This games i fun when you can get on a server with other people , when you CAN get on a server.
+This game revolves around the servers and this is it BIGGEST flaw.
+you can create your own server BUT you have to get into a server FIRST. Twilight zone anyone..
+This game is not like most game you can play solo with the option to connect to a server if you wish.
+I was working on a livery, BTW you are still in the game even if you are in menus so other people can still hit you,this is annoying when trying to do a livery. i spent about 15 min on a livery then the server went down lost all progress then was unable to reconnect.
+things like livery's you should be able to do off line.
+I can not totally recommend this game when there are a lot of others that are bigger and well thought out for the players to have hassle free enjoyment. 6/10",1,True,1693906005,1693906005,76561198138010048,6011,0,False,False,True,0,2,0,0.5098039507865905,841,long,100
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,146362589,english,"Neon, exhausts, and engine swap are behind a paywall now.
+They were included in the price before. 
+Matter of fact 50% of all customization menu items are behinde the 10€ paywall now.
+As an owner of the deluxe  edition this is like spitting in my face and asking money for it.",0,False,1694816728,1694816728,76561198196129045,587,0,False,False,True,2,79,1,0.8792023062705993,275,medium,101
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,146799383,english,The physics are so fun and also the game itself is fun,1,True,1695407535,1695407535,76561198438881973,1412,0,True,False,False,0,1,0,0.5,54,medium,102
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,146985792,english,"Love it :)
+Logitech G920 + H-Shifter works excellent!
+You have to map the buttons on the steering wheel and after that everything works great????",1,True,1695623843,1695623843,76561198338396286,9715,0,False,False,True,0,5,0,0.56521737575531,145,long,103
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,148310699,english,"i recommend this game, because the Devs are always playing. they have an incredible community of drifters on their team and it helps us, the players, to get bugs and glitches fixed as well as get things added into the game that we feel is necessary. love this game ever since i played the Demo and i bought the full game and all DLC. it's worth it in the long run, because the game only JUST came out, not even a year ago, so there's still room for improvement. this is gonna be the game that takes out CarX without hesitation.",1,True,1697415045,1697415045,76561199071351520,8925,0,False,False,True,0,9,0,0.5791986584663391,527,long,104
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,149231315,english,Buy it,1,True,1698723196,1698723196,76561198298757308,1325,0,False,False,True,0,1,0,0.5,6,short,105
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,149236252,english,Good game BUT the tandeming sucks! no one wants to drift alone.,1,True,1698733642,1698733642,76561198350464904,1645,0,False,False,True,0,2,0,0.49696946144104,63,medium,106
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,149594092,english,"Honestly a really fun game, i love the fact its open world and u can drive/teleport anywhere on the map within seconds, the graphics is great, and the car packs offers a lot of content for what u pay for, although im usualy against pay to win type of packs. Also a huge bonus that the game gets updated quite often and the developers genuinely seem to care to update the game and listen to the community wich is great!
+
+However there is a few major cons about this game i'd like to see fixed/improved in the future. For starters there is massive server desync when u try to tandem with other people, Second of all no body modifications? and third of all when ur making liveries there should be an autosave/manual save feature on unfinished projects so that u don't have to do it all in 1 go. Also no way of sharing liveries with friends wich is sad. And also for cinematic/photo settings it lacks on some features compared to games like CarX and Forza Horizon 4/5.
+Also there is no mods for the game wich is kinda sad, that's what makes games like CarX and Assetto Corsa so great so would love to see that in the future.
+
+It will be probably take a while before this game can be compared with something like CarX/Assetto Corsa but im hoping it'll be better with time as it is extremly fun to play
+
+Other than that i can definately recommend picking up the game.
+
+Overall rating of the game : 8/10",1,True,1699197679,1699197679,76561198268515812,1906,0,False,False,True,0,3,0,0.5335029959678649,1396,long,107
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,150878724,english,Greatttttt,1,True,1700635618,1700635618,76561198000535137,412,0,False,False,True,0,1,0,0.5,10,short,108
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,151461898,english,"played for 104 hours crashed once and lost all of my progress, my cars, my liveries everything.....
+this new update has pulled a daybreak games situation",0,False,1700792880,1700792880,76561198320974386,6553,0,False,False,True,0,0,0,0.5,153,medium,109
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,151468745,english,Good game but can be a bit tough at first,1,True,1700796658,1700796658,76561198287090085,289,0,False,False,True,0,1,0,0.5,41,medium,110
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,151495991,english,Good Game,1,True,1700812414,1700812414,76561198103109753,2718,0,False,False,True,0,1,0,0.5,9,short,111
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,152256048,english,hhh,1,True,1701102596,1701102596,76561198839696224,1256,0,False,False,False,0,2,0,0.4806029796600341,3,short,112
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,152412450,english,Very chill drifting game with awesome drifting physics and great visuals.,1,True,1701178739,1701178739,76561197994601688,10862,0,False,False,True,0,2,0,0.4674894213676452,73,medium,113
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,152967924,english,"ill be honest, im not too impressed with this game... i guess i was expecting more.. i assume the game will be updated as time goes on ... maybe i play too much assetto and beam..idk lol its not terrible... i think the game looks pretty good. the drifting is easier than assetto ans esp beam. but it just didnt "" excite "" me. im not like eager to play like how i am with beam and assetto. im not gonna return it, as i did purchase on sale. so hopefully the user interface gets some updates. that was my major issue honestly. game has alot of potential though. if the U.I gets a rework, and they add in some other quality of life updates... it would make a big difference.",0,False,1701839417,1701839417,76561198115793422,129,0,False,False,True,0,3,0,0.522064983844757,671,long,114
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,153450270,english,"drift physics are ass and hard to make money ui is just gay, just get carx",0,False,1702395411,1703451540,76561199387198636,12,0,False,False,True,0,5,2,0.5257357954978942,74,short,115
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,154319256,english,"Definitely the best drifting game I've played in a while. 
+-Selection of cars is amazing
+-Customisation is amazing
+-Physics feel amazing
+-Game looks amazing. 
+
+The only two things i'd change with the game right now are :
+-The servers have pretty bad lag compensation (for me being an NA player, it has a couple seconds of desync.)
+-The handbrake needs a bit more tweaking as it feels pretty weak right now.
+
+The best part of the game surely has to be the Tandem lead/chase feature. For this price i say you have no reason to not buy it. The livery editor is also pretty nice to work with.  
+
+I give it a solid 8.5/10 as of right now, could easily be a 10 with more updates.",1,True,1703446962,1703446962,76561198081370159,3352,0,False,False,False,0,4,0,0.5172688961029052,673,long,116
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,154480726,english,good game to kill time.,1,True,1703621981,1703621981,76561198395029100,6192,0,False,False,True,0,2,0,0.5107619166374207,23,short,117
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,155199831,english,"very enjoyable drift game, good progression, a nice selection of cars and pretty damn good physics and mechanics.",1,True,1704341340,1704341340,76561198090424965,1091,0,False,False,True,0,2,0,0.5106761455535888,113,medium,118
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,155251220,english,Game,1,True,1704397233,1704397233,76561199224903275,1508,0,False,False,True,0,2,1,0.491580307483673,4,short,119
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,156328518,english,really hard to drift when you first start out when you keep on learning the controls and you practise a lot with drifting then you will become pro,1,True,1705702858,1705702858,76561199121693271,1160,0,False,False,True,0,4,0,0.5122111439704895,146,long,120
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,157217231,english,good,1,True,1706651112,1706651112,76561198287388726,295,0,False,False,True,0,1,1,0.5,4,short,121
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,157249051,english,"Ass on the logitech wheel, For some reason they expect you to know how the controls work and you're supposed to sit there tweaking the wheel controls for 20 minutes tryna find a way to fix it, And even then when i my wheel was straight the car would go to the right, Very weird they gotta polish it a lil more on the wheel and it'd be goated",0,False,1706697463,1706697463,76561198331309940,109,0,False,False,True,1,2,0,0.5390898585319519,341,medium,122
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,157493473,english,prob most realistic arcade drifting game with assist on controller,1,True,1706969215,1706969215,76561199220607357,304,0,False,False,True,0,1,0,0.5,66,medium,123
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,160025079,english,"- Play for 2 hrs like me
+- Get some cash
+- Open the store and see that so many cars are dlc only
+- Do a race
+- Money that I previously cashed in Disappeared 
+- Get sad
+- Ask in lobby if anyone else had this issue
+- No one talks in English
+- Sad. 
+
+Game has potential but dang it feels wonky .
+Good music, Good graphics, Drifting wonky ""star"" rating
+Takes too much time to get some money that will disappear randomly.
+DLC + DLC = bruh why",0,False,1709803545,1709803545,76561198134502029,53,0,False,False,False,0,2,1,0.5238095521926879,437,long,124
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,160281205,english,"good drifting mechanics , cool car selection",1,True,1710095073,1710095073,76561198078194810,33320,0,False,False,True,0,1,0,0.5,44,medium,125
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,160682344,english,good game,1,True,1710606755,1710606755,76561198215348337,1381,0,False,False,True,0,1,0,0.5,9,short,126
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,160706634,english,"i do like this game truly, its fun, physics are great, music is decent, wheel support works well with my setup...
+
+BUT
+
+Progression to earn cars is just way too few and far between, and you get random unlocks instead of being able to buy a car with in game currency, youre basically forced to wade through countless cars just to get the few you want, unless you just spend copious amounts of money, i bought the overpass hoping to have an easier time with progressing and earning money, but it barely helps and the overpass cars all have to be unlocked in the same tedious fashion.
+
+If you guys just made this game what it is ( Heavily Forza Horizon influenced) and allowed us to buy cars in what order we want from an auto dealership of sorts, id def put way more hours into it",1,True,1710626744,1710626744,76561198816098821,736,0,False,False,True,0,8,0,0.6251637935638427,778,long,127
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,162759199,english,thanks for getting me thru the horrors of seasonal depression over my regular mental illnesses.,0,False,1712969445,1714133367,76561198993169425,26914,0,False,False,True,0,0,1,0.5,95,short,128
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,162812826,english,funn   just dont hit polls,1,True,1713034099,1713034099,76561199287312960,752,0,False,False,True,0,0,0,0.5,26,medium,129
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,163527360,english,ITS FUN BUT I CAN'T MAKE MY CAR TO LOOK AS I LIKE,1,True,1713998161,1713998161,76561199661762732,74,0,True,False,True,0,0,0,0.5,49,medium,130
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,163552258,english,"I could say that this game is CarX competitor, but I will not. I could say this game is cheaper than Asseto Corsa but I will not. Why? Because my mama told me that lying is a bad bad thing.
+
+This game is grindy, expensive and you get more for less money in the games stated above. I have 8 hours in the game and I already told myself I don't want another game where I'll feel like a slave and grind those $$ just to drive with the car which I bought with real money. Yep, you heard that right. Most of the cars are paywalled. You get couple of cars (not a single one more than mid-low tier). And the system is total mess. Budget per car is the most stupid thing i ever witness in ""sim"" games which this one is not. Game  is arcade, feels like arcade and plays like arcade.",0,False,1714043069,1714043131,76561197967145714,483,0,False,False,True,4,6,0,0.563862919807434,772,long,131
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,165025665,english,its a very nice and polished game. You can get a high drift score. Ive played it 25 hours this week and bought the full virsion yesterday,1,True,1715298064,1715298064,76561199680736389,1682,0,False,False,True,0,0,0,0.5,137,long,132
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,165154609,english,Aweosome game,1,True,1715447556,1715447556,76561199571536636,367,0,False,False,True,0,0,0,0.5,13,short,133
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,166626066,english,"drifting mechanics are decent, but the community is amazing",1,True,1717455556,1717455556,76561199506459074,1571,0,False,False,True,0,0,0,0.5,59,medium,134
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,168764921,english,"A really cool drifting game just for the fun of it.
+The community seems to be very friendly. You either encounter people who don't communicate at all or do it in a friendly way. I have yet to encounter anyone who is rude or toxic.
+
+The driving physics feel great. Or should I say drifting physics, since this is what the game is all about?
+
+The customization is nice! You don't have to stick to premade liveries, you can create your very own one ingame.
+Lots of decals, wheels, tires, exhausts, etc. to choose from. Sadly no wings though. I'd love to put the iconic Evo2 wing on my 190E.
+
+Money is earned by drifting, either in events or just in freeride.
+
+Why so many negative reviews? 
+While the people do have a point about the dlc stuff and having some customization like neon and tire smoke behind a paywall, they are exaggerating badly by saying ""almost all cars are behind paywall"". That's not true. You can unlock many cars with just the base game. I bought the ""overpass"" and the car pack that included my dream car. That's all I'll ever need in the game.
+
+The graphics are quite okay, definitely better than comparable drift games though.
+
+The sound design isn't too great. The car sounds are low quality and the music... ugh... It's a matter of your own personal music taste, but I'm grateful for the ability to turn the music volume to 0%. All in game music is some kind of techno dubsteb gangsterrap combined.
+
+It plays very well with a steering wheel and uses 900°, so no worries, no only 180° ratio like in other games.
+
+What definitely needs to be added in my opinion is an option to make the camera automatically look in the direction your drifting in cokpit view. I play only in cockpit view and tandem drifting is basically a gamble because I can't see the other car or even the track. 
+Or maybe even a VR option. That would be ideal for me.
+
+All in all probably one of the best dedicated drifting games around!",1,True,1719912172,1719912172,76561198052207281,523,13,False,False,True,0,3,0,0.5478582978248596,1930,long,135
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,169592603,english,"Great game! ""Easy"" to play with a controller.",1,True,1720704009,1720704009,76561199146749024,7872,0,False,False,True,0,4,0,0.5319915413856506,45,medium,136
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,170544797,english,"yes
+",1,True,1721732400,1721732400,76561199213061361,359,0,False,False,True,0,0,0,0.5,5,short,137
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,171647541,english,pretty sigma,1,True,1723072544,1723072544,76561199700303168,294,0,False,False,True,0,0,2,0.4325549900531768,12,short,138
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,173899252,english,"[h1]      ⚖️  MATCHING EXPECTATION:[/h1] 
+* 🟢 = Available = Fun +1
+* 🔴 = Not Available = Fun -1
+* Match Nothing = 0 Fun
+
+🟢 Open world with public players
+🟢 Mystery Exploration = No gameplay introduction
+🟢 Wall-less circuit drifting 
+🟢 Redo same drifting until time is up
+🟢 Long hours gameplay = Content unlock slowly
+🔴 Versus personal best record as a challenge
+🔴 Versus same ranked / ghost opponent 
+🔴 Playable when server is down / offline
+🔴 Diverse game mode
+
+[table]
+    [tr]
+        [th]fMeter[/th]
+        [th]FUN[/th]
+        [th]fUN METER[/th]
+        [th]DISCOUNT[/th]
+ [th]COMMUNITY[/th]
+        [th]REVIEWER[/th]
+    [/tr]
+    [tr]
+        [th]A+[/th]
+        [td]5[/td]
+        [td]Loving it [/td]
+        [td]No Wait[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]A[/th]
+        [td]4[/td]
+        [td]Liked it[/td]
+        [td]No Wait[/td]
+        [td] ✔[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]B[/th]
+        [td]2-3[/td]
+        [td]Half satisfied[/td]
+        [td]Wait 50%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+    [tr]
+        [th]C[/th]
+        [td] 1[/td]
+        [td]Less interested[/td]
+        [td]Wait 75%[/td]
+        [td] -[/td]
+        [td] ✔[/td]
+    [/tr]
+    [tr]
+        [th]D[/th]
+        [td] 0[/td]
+        [td]Not what you need[/td]
+        [td]Wait 100%[/td]
+        [td] -[/td]
+        [td] -[/td]
+    [/tr]
+[/table]
+
+🏅 Community Rating: [b] Very Positive [/b]
+⚖️ [b]fMeter {B-}[/b] Worth a play, if you enjoy Free Roaming Aimlessly doing repetitive tasks. However, if you're looking for training to break record, those are unavailable.
+🔎 Long Version Checklist ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/1/4763207146661766064/]Reveal[/url][/u]
+
+[h1] 🕘          IMPRESSION:[/h1]
+* Year 2022: Game released 
+* 15 min later: Started playtest on Demo, sadly it is not what I expected
+* Year 2024: A well-edited video review pulled me back in
+* 2 hours earlier: Cannot find an informative review but ""very positive"" rating on Steam?
+* 2 hours later: Uncover the facts behind the beautiful rating
+
+[h1]  🔊         TESTER MUST KNOW:[/h1]
+* We can create a server with custom setting
+* Click and wait 5 sec to teleport in the map
+* Damage Penalty = Losing drift ability 
+* Free roam to earn style points & convert into cash
+* Enter cash zone to earn style points money
+* Earned money is tied to each car, cannot spend on another car
+* Disqualify event when player gone too far away from the circuit
+* Lack of community livery to download, limited to 1 livery for only specific car
+* Downloaded free demo will not able to join server anymore
+
+[h1] 💎 SAME GENRE COMPARISON:[/h1]
+* No race menu, must fast travel to each location to start a game
+* No track wall, no AI bot, no ghost car
+* Complete multiple circuit mode to unlock more cars
+* Completed circuit track will not mark as completed
+* Car collision with online players when drifting
+* Deep customization option on tuning
+* Many visual customization moved to DLC
+* All the beautiful cars moved to DLC
+* List of repetitive challenges for Daily Task & Weekly Task
+* No ping display in the server list
+
+[h1]  ⚠️        RUMOR CHECKING:[/h1]
+* It is a fun game to play ➜ Happen only if you love free roam with public players
+* Huge desync between players & poor optimized ➜ Disagree
+* UI is terrible ➜ Because there are too many buttons on the screen at once
+* Car become undriftable when drifting is the only way to earn money ➜ True, when the money is tied to each car, and damaged car require money to repair. This idea makes the car unplayable.
+
+[quote]
+[b]Remember  to 👍 for me if you liked this review:[/b]
+🔔 More similar reviews ➜ [u][url=http://store.steampowered.com/curator/31940448-Expectation-Checklist/]Browse Here[/url][/u] and follow this Curator, or
+🤝 Visit Our Gaming Discussion ➜ [u] [url=https://steamcommunity.com/groups/expectationchecklist]We're Here[/url][/u]
+📢 Disclaimer regarding Short Hours & English Errors ➜ [u][url=https://steamcommunity.com/groups/expectationchecklist/discussions/0/4594180031254224809/]Read Here[/url][/u]
+[/quote]",0,False,1725112835,1725205825,76561198087794419,286,0,False,False,True,0,17,0,0.6602608561515808,4140,long,139
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,175352489,english,"This game and Carx Drift Racing, the best 2 drift car games EVER",1,True,1726811050,1726811050,76561199225539662,26,0,False,False,True,0,0,0,0.5,64,medium,140
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,176670635,english,very cool cars,1,True,1728440834,1728440834,76561199202783864,573,140,False,False,True,0,0,0,0.5,14,short,141
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,177272490,english,"THIS GAME IS AMAZING!!!!! but the cons aboout this game (for me) 1. every time i want to play i have to restart my pc or it will freeze when i get in the game. 2. most of the time when i close it i will go like 2 or 3 levels behind when i reopen it. 3.( this is a recommendation) when your drifting you get points and then you can get them quicker by getting big angle, full send, backwards, and many more. I think you should add a 360 and it should give 250 points lowest and 500 higest.
+
+                          I hope this review helped anyone and the owner of OverDrift Festival can fix the problems",1,True,1729263011,1729263011,76561199216274144,5307,0,False,False,True,0,1,1,0.5238095521926879,605,long,142
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,179677202,english,"w
+",1,True,1732398830,1732398830,76561199760940485,2712,0,True,False,True,0,0,0,0.5,3,short,143
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,182940283,english,if you wanna just hop on and drift this game is good af. looks great runs great and has solid mechanics. solid game,1,True,1734416699,1734416699,76561198122062950,3531,0,False,False,True,0,0,0,0.5,115,long,144
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,186051661,english,can not pop tires,0,False,1737417054,1737417054,76561198008893422,14,0,False,False,True,0,0,1,0.4166666567325592,17,short,145
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,188514970,english,"Its fun and chill if your looking for a very customizable system, upgrade and also take care of your car",1,True,1740247817,1740247817,76561199151438421,1525,0,False,False,True,0,0,0,0.5,104,medium,146
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,191330048,english,cool gam,1,True,1743109953,1743109953,76561199153556317,1093,0,False,False,True,0,0,0,0.5,8,short,147
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,193422189,english,"This game is really good! Great mechanics, cars, graphics and more. All it needs is more to do. Other than that, great game that is under rated and needs more updates! Highly recommended!",1,True,1745427796,1745427796,76561198392315364,71,0,False,False,False,0,7,0,0.560880422592163,187,long,148
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,196543015,english,AWFA,1,True,1749222008,1749222008,76561199226768051,1044,21,False,False,True,0,1,0,0.5,4,short,149
+5,top,1273440,OverDrift Festival,7877,97,5.628377,637,196663757,english,IT IS A GREAT GAME TO LEARN HOW TO DRIFT FOR THE FIRST TIMERS,1,True,1749336948,1749336948,76561198315094271,3464,0,True,False,True,0,2,0,0.5,61,medium,150

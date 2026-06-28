@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+312370,"Warhammer 40,000: Armageddon",4,top,714.0,150.0,150.0,123.0,27.0,714.0,5.649946,,,,,,
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,pos,short,198.0,41.0,41.0,3940.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,pos,medium,196.0,41.0,41.0,3827.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,pos,long,196.0,41.0,41.0,3873.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,neg,short,41.0,9.0,9.0,3933.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,neg,medium,41.0,9.0,9.0,3808.0
+312370,"Warhammer 40,000: Armageddon",4,top,,,,,,,,neg,long,42.0,9.0,9.0,3480.0

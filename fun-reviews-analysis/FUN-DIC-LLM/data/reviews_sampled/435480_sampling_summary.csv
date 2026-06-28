@@ -1,0 +1,8 @@
+appid,name,pairIndex,type,n_reviews_app,n_cap,n_selected_app,n_pos,n_neg,totalEnglishReviews,acceptanceScore,sentiment,lengthBucket,n_total_stratum,n_target_stratum,n_selected_stratum,time_span_days_stratum
+435480,Trials of the Blood Dragon,2,bottom,146.0,150.0,146.0,91.0,55.0,146.0,3.470902,,,,,,
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,pos,short,31.0,31.0,31.0,3343.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,pos,medium,29.0,29.0,29.0,3307.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,pos,long,31.0,31.0,31.0,2413.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,neg,short,18.0,18.0,18.0,3281.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,neg,medium,18.0,18.0,18.0,3185.0
+435480,Trials of the Blood Dragon,2,bottom,,,,,,,,neg,long,19.0,19.0,19.0,3324.0

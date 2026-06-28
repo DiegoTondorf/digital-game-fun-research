@@ -1,0 +1,34 @@
+{
+  "success": 1,
+  "query_summary": {
+    "num_reviews": 1
+  },
+  "reviews": [
+    {
+      "recommendationid": "33690887",
+      "author": {
+        "steamid": "76561198119446061",
+        "num_games_owned": 94,
+        "num_reviews": 4,
+        "playtime_forever": 20,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 20,
+        "last_played": 1500623049
+      },
+      "language": "english",
+      "review": "Haven't changed any of the bugs from the ps4 or xbox. When you play the game it still uses the Xbox controls, So to select a captain you have to use RB. To go back you have to press ESC even though it said you have to press B, etc. Don't bother buying untill they have fixed these bugs and also, the keyboard doesnt register 100% of the time. I had to press enter 13 times just for the game to register i pressed the button. DO NOT BUY THIS GAME UNTIL THEY FIX THESE THINGS!",
+      "timestamp_created": 1500623589,
+      "timestamp_updated": 1500623589,
+      "voted_up": false,
+      "votes_up": 68,
+      "votes_funny": 5,
+      "weighted_vote_score": "0.757808029651641846",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false
+    }
+  ],
+  "cursor": "AoJ46NmIst0Cd9DCgAE="
+}

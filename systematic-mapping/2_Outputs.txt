@@ -1,0 +1,283 @@
+Year	# Pub	5YearDen	Year 	 Pub	
+1999	2	3	1999	2	0.693
+2000	0	2	2003	1	0.000
+2001	0	3	2004	1	0.000
+2002	0	4	2005	1	0.000
+2003	1	6	2006	1	0.000
+2004	1	6	2007	2	0.693
+2005	1	7	2008	1	0.000
+2006	1	7	2009	2	0.693
+2007	2	10	2010	1	0.000
+2008	1	8	2011	4	1.386
+2009	2	11	2013	4	1.386
+2010	1	10	2014	1	0.000
+2011	4	14	2015	5	1.609
+2012	0	11	2016	1	0.000
+2013	4	13	2017	2	0.693
+2014	1	11	2018	2	0.693
+2015	5	11	2019	1	0.000
+2016	1	6	2021	2	0.693
+2017	2	7	2022	3	1.099
+2018	2	8	2023	1	0.000
+2019	1	7	2024	3	1.099
+2020	0	9	2025	2	0.693
+2021	2	11			
+2022	3	9	Slope		0.020604477
+2023	1	6	Growrth Rate		2.082%
+2024	3	5			
+2025	2	2			
+					
+					
+	Initial String	Selection			Dup
+SCOPUS	816	30			
+IEEE	336	8			1
+SB		6			
+					
+Total	43				
+
+-----
+
+Venues
+AAAI Workshop
+ACM International Conference Proceeding Series
+ACM International Conference Proceeding Series
+Applied Sciences (Switzerland)
+CHI PLAY 2018 - Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play Companion Extended Abstracts
+Communications in Computer and Information Science
+Conference on Human Factors in Computing Systems - Proceedings
+Conference on Human Factors in Computing Systems - Proceedings
+Entertainment Computing
+Games and Culture
+Games and Culture
+Health Communication
+IEEE Conference on Games (CoG)
+IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)
+IEEE Transactions on Computational Intelligence and AI in Games
+IEEE Transactions on Cybernetics
+International Conference on Data and Software Engineering (ICoDSE)
+International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES)
+International Conference on Mobile Business (ICMB'05)
+International Fall Conference on Computer and Information Science (ICIS Fall)
+Journal of Internet Technology
+Journal on Interactive Systems
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+People and Computers XVIII — Design for Life
+Personal and Ubiquitous Computing
+Personal and Ubiquitous Computing
+Procedia Engineering
+Procedia Manufacturing
+Proceedings of CGAMES 2009 USA - 14th International Conference on Computer Games: AI, Animation, Mobile, Interactive Multimedia, Educational and Serious Games
+Proceedings of DiGRA 2011 Conference: Think Design Play
+Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play
+Proceedings of the 6th International Conference on Foundations of Digital Games
+Proceedings of the Information Systems Education Conference, ISECON
+Proceedings of the International Conference e-Learning 2013
+Proceedings of the International Conference on Computational Creativity, ICCC-10
+QED
+Simulation and Gaming
+Simulation and Gaming
+Studies in Computational Intelligence
+Symposium on Virtual and Augmented Reality (SVR)
+
+-----
+
+Design Element	Technology	Design	Aesthetic	Experience	Narrative
+Actions		X			
+Aesthetic presentation			X		
+Aesthetics			X	X	
+Aesthetics			X	X	
+Ai Enemies	X	X			
+Avatar			X	X	
+Challenge		X		X	
+Challenge		X		X	
+Challenge		X		X	
+Challenge		X		X	
+Challenge		X		X	
+Character			X	X	
+Competition		X		X	
+Constructs		X			
+Control		X			
+Control Device	X				
+Control Movement		X			
+Control Schemes		X			
+Curiosity				X	
+Curiosity				X	
+Design		X			
+Difficulty		X		X	
+Dynamics		X			
+Ease of use				X	
+Environment			X	X	
+Excessive Components		X			
+Experience				X	
+Experience				X	
+Experience				X	
+Experimentation				X	
+Fantasy				X	
+Fantasy				X	
+Feedback		X		X	
+Feedback		X		X	
+Game design		X			
+Game design		X			
+Game Features		X			
+Game Interface			X	X	
+Game Mechanic		X			
+Game Metrics		X			
+Goals		X		X	
+Graphic design			X		
+Guidance		X		X	
+Humor				X	X
+Immersion				X	
+Innovative Gameplay		X		X	
+Leaderboard		X			
+Learning				X	
+Level		X			
+Level Design		X			
+Level Design		X			
+Level Design		X			
+Level Generation	X	X			
+Mechanics		X			
+Mechanics		X			
+Narrative					X
+Narrative					X
+Narrative					X
+Narrative					X
+Narrative					X
+Narrative					X
+Narrative					X
+Narrativity					X
+NE					
+NE					
+NE					
+NE					
+NE					
+NE					
+NPC		X			
+Object Manipulations		X			
+Perceived Fairness				X	
+Physical Exertion					
+Player actions		X			
+Player Experience				X	
+Presence					
+Probability		X			
+Reward Mechanism		X		X	
+Rewards		X		X	
+Serious Experience				X	
+Simulation				X	
+Sound			X		
+Story					X
+Technological capability	X				
+Technology	X				
+Unpredictability		X		X	
+User Interface			X	X	
+
+
+-----
+
+Design Element	Count
+Actions	1
+Aesthetic presentation	1
+Aesthetics	2
+Ai Enemies	1
+Avatar	1
+Challenge	5
+Character	1
+Competition	1
+Constructs	1
+Control	1
+Control Device	1
+Control Movement	1
+Control Schemes	1
+Curiosity	2
+Design	1
+Difficulty	1
+Dynamics	1
+Ease of use	1
+Environment	1
+Excessive Components	1
+Experience	3
+Experimentation	1
+Fantasy	2
+Feedback	2
+Game design	2
+Game Features	1
+Game Interface	1
+Game Mechanic	1
+Game Metrics	1
+Goals	1
+Graphic design	1
+Guidance	1
+Humor	1
+Immersion	1
+Innovative Gameplay	1
+Leaderboard	1
+Learning	1
+Level	1
+Level Design	3
+Level Generation	1
+Mechanics	2
+Narrative	7
+Narrativity	1
+NE	6
+NPC	1
+Object Manipulations	1
+Perceived Fairness	1
+Physical Exertion	1
+Player actions	1
+Player Experience	1
+Presence	1
+Probability	1
+Reward Mechanism	1
+Rewards	1
+Serious Experience	1
+Simulation	1
+Sound	1
+Story	1
+Technological capability	1
+Technology	1
+Unpredictability	1
+User Interface	1
+
+
+-----
+
+Category	Count
+Technology	5
+Narrative	10
+Aesthetic	10
+Experience	38
+Design	41
+
+-----
+
+Conceptual	30							
+Scientific	32							
+Projectual	25							
+Outcome	8							
+1 Direction	6							
+2 Directions	24							
+3 Directions	11							
+4 Directions	2	
+
+-----						
+								
+	Technology	Design	Aesthetic	Experience	Narrative	Total	Circle Size	
+Technology	3	2	0	0	0	5	1.26	13
+Design	2	24	0	15	0	41	3.61	37
+Aesthetic	0	0	3	7	0	10	1.78	18
+Experience	0	15	7	15	1	38	3.48	35
+Narrative	0	0	0	1	9	10	1.78	18
+								
+		Circle Size						
+Only Technology	3	0.98	10					
+Only Design	24	2.76	28					
+Only Aesthetic	3	0.98	10					
+Only Experience	15	2.19	22					
+Only Narrative	9	1.69	17					
+Technology and Design	2	0.80	8					
+Experience and Design 	15	2.19	22					
+Experience and Aesthetic	7	1.49	15					
+Experience and Narrative	1	0.56	6					
+

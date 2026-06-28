@@ -1,0 +1,5 @@
+{"ok": false, "error": "Unterminated string starting at: line 2 column 12 (char 13)", "appid": "435480", "unit_id": "app:435480-cluster:2", "level": "cluster"}
+{"ok": false, "error": "Unterminated string starting at: line 2 column 14 (char 15)", "appid": "312370", "unit_id": "app:312370-cluster:2", "level": "cluster"}
+{"ok": false, "error": "Unterminated string starting at: line 2 column 12 (char 13)", "appid": "435480", "unit_id": "app:435480-cluster:3", "level": "cluster"}
+{"ok": false, "error": "Unterminated string starting at: line 2 column 12 (char 13)", "appid": "435480", "unit_id": "app:435480-cluster:4", "level": "cluster"}
+{"ok": false, "error": "Unterminated string starting at: line 2 column 12 (char 13)", "appid": "435480", "unit_id": "app:435480-cluster:6", "level": "cluster"}
