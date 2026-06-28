@@ -6,7 +6,7 @@ This repository contains replication packages for academic research focused on *
 
 Each study is organized in a dedicated, self-contained folder. This structure allows researchers to independently navigate, reproduce, and build upon individual works without requiring knowledge of the full repository.
 
-> **Note on versioning:** This GitHub repository is the **mutable** version of the research artifacts and may be updated over time (e.g., to fix errors or add supplementary material). Each study also has an **immutable archived version** on [Zenodo](https://zenodo.org), which is assigned a permanent DOI and is suitable for citation in academic publications.
+> **Note on versioning:** This GitHub repository is the **mutable** version of the research artifacts and may be updated over time (e.g., to fix errors or add supplementary material). Each study also has an **immutable archived version** on [OSF](https://osf.io), which is assigned a permanent DOI and is suitable for citation in academic publications.
 
 ---
 

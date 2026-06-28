@@ -165,5 +165,6 @@ Recommended:
 
 ## Archive DOI
 
-> UPDATE ! [![DOI](https://doi.org/10.17605/OSF.IO/JYF68)](https://doi.org/10.17605/OSF.IO/JYF68) - https://osf.io/jyf68/overview
+[![DOI](https://doi.org/10.17605/OSF.IO/8G2P6)](https://doi.org/10.17605/OSF.IO/8G2P6)
+https://osf.io/8G2P6/overview
 
