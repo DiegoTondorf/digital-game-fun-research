@@ -166,5 +166,6 @@ Recommended:
 ## Archive DOI
 
 [![DOI](https://doi.org/10.17605/OSF.IO/8G2P6)](https://doi.org/10.17605/OSF.IO/8G2P6)
-https://osf.io/8G2P6/overview
+
+https://osf.io/8g2p6/overview
 
