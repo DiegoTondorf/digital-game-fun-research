@@ -165,7 +165,6 @@ Recommended:
 
 ## Archive DOI
 
-[![DOI](https://doi.org/10.17605/OSF.IO/8G2P6)](https://doi.org/10.17605/OSF.IO/8G2P6)
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F8G2P6-blue)](https://doi.org/10.17605/OSF.IO/8G2P6)
 
 https://osf.io/8g2p6/overview
-
